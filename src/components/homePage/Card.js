@@ -20,13 +20,13 @@ export function Card(props) {
           <h5 className="card-title">{props.title}</h5>
           <p className="card-text">{props.body}</p>
           {props.noButton ? null : (
-            <a
+            <button
               href="/something"
               className="btn btn-primary"
               style={{ background: "rgb(55, 105, 204)" }}
             >
               Go somewhere
-            </a>
+            </button>
           )}
         </div>
       </div>
