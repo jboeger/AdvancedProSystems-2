@@ -1,0 +1,41 @@
+.formContainer {
+}
+
+.textInput {
+  border: 2px solid gray;
+  border-radius: 3px;
+  background: rgb(255, 255, 255, 0.5);
+  /* background: rgb(20, 54, 110, 0.5); */
+  width: 100%;
+  padding: 5px;
+}
+.textInput:focus {
+  outline: none;
+}
+
+.optionLabel {
+  margin-left: 10px;
+}
+
+.optionTextInput {
+  margin-left: 10px;
+  width: 90%;
+  border: 1px solid gray;
+  border-radius: 2px;
+  padding: 5px;
+}
+.optionTextInput:focus {
+  outline: none;
+}
+
+.dropdown {
+  border: 2px solid gray;
+  border-radius: 3px;
+  width: 100%;
+  padding: 5px;
+  background: rgb(255, 255, 255, 0.5);
+}
+
+.submitButton {
+  width: 100%;
+}
