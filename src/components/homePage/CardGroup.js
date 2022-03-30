@@ -60,6 +60,7 @@ export function CardGroup(props) {
             body=""
             img={card1Img}
             imgHeight={props.imgHeight}
+            noButton
           />
         </div>
         <div className="col-12">
@@ -68,6 +69,7 @@ export function CardGroup(props) {
             body=""
             img={card2Img}
             imgHeight={props.imgHeight}
+            noButton
           />
         </div>
         <div className="col-12">
@@ -76,6 +78,7 @@ export function CardGroup(props) {
             body=""
             img={card3Img}
             imgHeight={props.imgHeight}
+            noButton
           />
         </div>
       </div>

@@ -109,7 +109,7 @@ export function NavBar(props) {
               onClose={close}
               closeOnEsc
               position="right"
-              height="160px"
+              height="200px"
             >
               <div className="" style={{ height: "100%" }}>
                 <ul className="nav flex-column nav-pills">
@@ -130,12 +130,22 @@ export function NavBar(props) {
                   </li>
                   <li className={navItem}>
                     <Link
+                      to="/products"
+                      className="nav-link"
+                      activeClassName="active"
+                      aria-current="page"
+                    >
+                      Products
+                    </Link>
+                  </li>
+                  <li className={navItem}>
+                    <Link
                       to="/about"
                       className="nav-link"
                       activeClassName="active"
                       aria-current="page"
                     >
-                      About APS
+                      About
                     </Link>
                   </li>
                   <li className={navItem}>

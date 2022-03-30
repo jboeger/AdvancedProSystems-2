@@ -227,84 +227,91 @@ export function ContactForm(props) {
         padding: "20px",
       }}
     >
-      <div className={formContainer}>
-        <h1 className="text-center">Get More Info</h1>
-        <div id="options" className="row justify-content-center py-2 gy-2">
-          <div className="col-12">
-            <h5>Which best describes you?</h5>
+      <form onSubmit={handleSubmit} name="contact" method="post" netlify data-netlify="true">
+        <div className={formContainer}>
+          <h1 className="text-center">Get More Info</h1>
+          <div id="options" className="row justify-content-center py-2 gy-2">
+            <div className="col-12">
+              <h5>Which best describes you?</h5>
+            </div>
+            <div className="col-12">
+              <input id="option1" type="radio" value="option1" name="option1" checked={formData.radioSelection == "option1"} onChange={(e) => setRadioSelection(e.target.value)}/>
+              <label className={optionLabel} for="option1">
+                {optionsMsgs.option1}
+              </label>
+            </div>
+            <div className="col-12">
+              <input id="option2" type="radio" value="option2" name="option2" checked={formData.radioSelection == "option2"} onChange={(e) => setRadioSelection(e.target.value)}/>
+              <label className={optionLabel} for="option2">
+                {optionsMsgs.option2}
+              </label>
+            </div>
+            <div className="col-12">
+              <input id="option3" type="radio" value="option3" name="option3" checked={formData.radioSelection == "option3"} onChange={(e) => setRadioSelection(e.target.value)}/>
+              <label className={optionLabel} for="option3">
+                {optionsMsgs.option3}
+              </label>
+            </div>
+            <div className="col-12">
+              <input
+                id="option4"
+                type="radio"
+                value="option4"
+                name="option4"
+                style={{ verticalAlign: "top" }}
+                checked={formData.radioSelection == "option4"}
+                onChange={(e) => setRadioSelection(e.target.value)}
+              />
+              <TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/>
+            </div>
           </div>
-          <div className="col-12">
-            <input id="option1" type="radio" name="yo" value="yo" />
-            <label className={optionLabel} for="option1">
-              I have equipment that needs to get serviced.
-            </label>
+          <div className="row justify-content-center py-2 gy-2">
+            <div className="col-6">
+              <label for="nameInput fw-bold">Name</label>
+              <input className={textInput} id="nameInput" name="name" onChange={handleChange}></input>
+            </div>
+            <div className="col-6">
+              <label for="nameInput fw-bold">Company</label>
+              <input className={textInput} id="nameInput" name="company" onChange={handleChange}></input>
+            </div>
+            <div class="w-100"></div>
+            <div className="col-6">
+              <label for="nameInput fw-bold">Email</label>
+              <input className={textInput} id="nameInput" name="email" onChange={handleChange}></input>
+            </div>
+            <div className="col-6">
+              <label for="nameInput fw-bold">Best Phone</label>
+              <input className={textInput} id="nameInput" name="phone" onChange={handleChange}></input>
+            </div>
+            <div class="w-100"></div>
           </div>
-          <div className="col-12">
-            <input id="option2" type="radio" name="yo" value="yo" />
-            <label className={optionLabel} for="option2">
-              I need to plan services for equipment I do not yet have.
-            </label>
+          <div className="row justify-content-center py-2">
+            <div className="col-6">
+              <CountryDropdown
+                className={dropdown}
+                value={formData.country}
+                onChange={(val) => setCountry(val)}
+              />
+            </div>
+            <div className="col-6">
+              <RegionDropdown
+                country={formData.country}
+                className={dropdown}
+                value={formData.region}
+                onChange={(val) => setRegion(val)}
+                disableWhenEmpty
+              />
+            </div>
           </div>
-          <div className="col-12">
-            <input id="option3" type="radio" name="yo" value="yo" />
-            <label className={optionLabel} for="option3">
-              I need equipment!
-            </label>
-          </div>
-          <div className="col-12">
-            <input id="option3" type="radio" name="yo" value="yo" />
-            <input
-              className={optionTextInput}
-              placeholder="Please tell us about your needs!"
-            ></input>
+          <div className="row justify-content-center py-3">
+            <div className="col-12">
+              <button className="btn btn-primary" style={{ width: "100%" }} type="submit">
+                Submit
+              </button>
+            </div>
           </div>
         </div>
-        <div className="row justify-content-center py-2 gy-2">
-          <div className="col-6">
-            <label for="nameInput fw-bold">Name</label>
-            <input className={textInput} id="nameInput"></input>
-          </div>
-          <div className="col-6">
-            <label for="nameInput fw-bold">Company</label>
-            <input className={textInput} id="nameInput"></input>
-          </div>
-          <div class="w-100"></div>
-          <div className="col-6">
-            <label for="nameInput fw-bold">Email</label>
-            <input className={textInput} id="nameInput"></input>
-          </div>
-          <div className="col-6">
-            <label for="nameInput fw-bold">Best Phone</label>
-            <input className={textInput} id="nameInput"></input>
-          </div>
-          <div class="w-100"></div>
-        </div>
-        <div className="row justify-content-center py-2">
-          <div className="col-6">
-            <CountryDropdown
-              className={dropdown}
-              value={formData.country}
-              onChange={(val) => setCountry(val)}
-            />
-          </div>
-          <div className="col-6">
-            <RegionDropdown
-              country={formData.country}
-              className={dropdown}
-              value={formData.region}
-              onChange={(val) => setRegion(val)}
-              disableWhenEmpty
-            />
-          </div>
-        </div>
-        <div className="row justify-content-center py-3">
-          <div className="col-12">
-            <button className="btn btn-primary" style={{ width: "100%" }} type="submit">
-              Submit
-            </button>
-          </div>
-        </div>
-      </div>
+      </form>
     </div>
   );
 
