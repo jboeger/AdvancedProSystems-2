@@ -1,7 +1,15 @@
 var plugins = [{
+      name: 'gatsby-plugin-react-helmet',
+      plugin: require('/Users/simonboeger/Documents/cs/web_projects/AdvancedProSystems-2/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      options: {"plugins":[]},
+    },{
       name: 'gatsby-plugin-google-fonts',
       plugin: require('/Users/simonboeger/Documents/cs/web_projects/AdvancedProSystems-2/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
       options: {"plugins":[],"fonts":[],"display":"swap"},
+    },{
+      name: 'gatsby-plugin-gtag',
+      plugin: require('/Users/simonboeger/Documents/cs/web_projects/AdvancedProSystems-2/node_modules/gatsby-plugin-gtag/gatsby-ssr'),
+      options: {"plugins":[],"trackingId":"G-SQYSL9EPEQ","head":true,"anonymize":true},
     }]
 /* global plugins */
 // During bootstrap, we write requires at top of this file which looks like:
