@@ -1,6 +1,7 @@
 import * as React from "react";
 import { NavBar } from "./NavBar";
 import { Footer } from "./Footer";
+import { Helmet } from "react-helmet";
 import "./Layout.css";
 import "../styles.scss";
 const bootstrap =
@@ -21,6 +22,9 @@ export function Layout(props) {
 
   return (
     <viewportContext.Provider value={{ width }}>
+      <Helmet title={props.metaTitle}>
+        <meta name="description" content={props.metaDescription} />
+      </Helmet>
       <div className="wrapper">
         <header className="sticky-top">
           <NavBar bgColor="rgb(255,255,255,.95)" />

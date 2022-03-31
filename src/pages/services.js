@@ -12,6 +12,11 @@ import imgSection1 from "../images/random2.jpg";
 import imgSection2 from "../images/hero-lab-01.jpg";
 import imgSection3 from "../images/card1-01a.jpg";
 
+const metaData = {
+  title: "Lab + Industrial | Biotech + Bioprocessing Services | Advanced Pro Systems",
+  description: "APS provides expertise and on-site services for upstream bioprocessing, downstream bio processing, calibration, and validation. We provide service plans for all scales: from lab scale to pilot plant to industrial scale."
+}
+
 const content = {
   section1: (
     <div>
@@ -90,7 +95,10 @@ const content = {
 
 const ServicesPage = () => {
   return (
-    <Layout>
+    <Layout 
+      metaTitle={metaData.title}
+      metaDescription={metaData.description}
+    >
       <Hero
         height="200px"
         img={heroImg}

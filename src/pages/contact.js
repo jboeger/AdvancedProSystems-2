@@ -7,9 +7,17 @@ import { ContactFormSimple } from "../components/ContactFormSimple";
 import heroImg from "../images/hero-home-01a-big.jpg";
 import padding from "./index";
 
+const metaData = {
+  title: "Contact Us | Advanced Pro Systems",
+  description: "APS wants to hear from you. How may we optimize your bioprocess today?"
+}
+
 const ContactPage = () => {
   return (
-    <Layout>
+    <Layout 
+      metaTitle={metaData.title}
+      metaDescription={metaData.description}
+    >
       {/* <Hero height="200px" img={heroImg} title="Contact Us" body="" /> */}
       <form hidden method="post" name="contact" netlify data-netlify="true">
         <input type="hidden" name="form-name" value="contact"></input>

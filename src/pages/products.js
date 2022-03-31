@@ -6,6 +6,11 @@ import padding from "./index";
 import { Section } from "../components/Section";
 import sectionImg from "../images/hero-stainless-01.jpg";
 
+const metaData = {
+  title: "Biotech Equipment + Parts | Partner Brands | Advanced Pro Systems",
+  description: "APS is a certified provider labware, gas analyzers, bioreactors, TFF, flow controllers, sampling and automation, custom tanks, and much more. Partners include Sonotec, Securecell, BlueSens and Chemglass Life Sciences."  
+}
+
 const content = {
     section1: (
         <div>
@@ -50,7 +55,10 @@ const content = {
 
 const ProductsPage = () => {
     return (
-        <Layout>
+        <Layout 
+            metaTitle={metaData.title}
+            metaDescription={metaData.description}
+        >
             <Hero
                 height="200px"
                 img={heroImg}

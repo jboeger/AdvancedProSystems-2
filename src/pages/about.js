@@ -10,6 +10,11 @@ import { Section } from "../components/Section";
 import imgSection2 from "../images/random3.jpeg";
 import { Layout } from "../components/Layout";
 
+const metaData = {
+  title: "About APS | We optimize your bioprocessing | Advanced Pro Systems",
+  description: "APS helps OPTIMIZE your BIOPROCESSING. Since 2017 and with 30+ years experience, APS helps with all stages of process from installation and  calibration to integration."
+}
+
 const content = {
   section1: (
     <div>
@@ -32,7 +37,10 @@ const content = {
 
 const AboutPage = () => {
   return (
-    <Layout>
+    <Layout 
+      metaTitle={metaData.title}
+      metaDescription={metaData.description}
+    >
       <Hero height="200px" img={heroImg} title="About Us" body="" marginBottom={padding} />
       {/* <People padding="40px" /> */}
       <Section

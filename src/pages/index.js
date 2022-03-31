@@ -11,6 +11,11 @@ import { Layout } from "../components/Layout";
 
 export const padding = "40px";
 
+const metaData = {
+  title: "Advanced Pro Systems Corp | Complete Service Bioprocessing Solutions",
+  description: "APS provides complete service solutions for your bioprocessing needs, whether upstream or downstream... lab scale, pilot plant, or industrial. Our focus is SERVICE and best optimizing your bioprocesses."
+}
+
 const content = {
   section1: (
     <div>
@@ -36,7 +41,11 @@ const content = {
 
 const HomePage = () => {
   return (
-    <Layout footerBgColor="rgb(255, 255, 255, .5)">
+    <Layout 
+      footerBgColor="rgb(255, 255, 255, .5)"
+      metaTitle={metaData.title}
+      metaDescription={metaData.description}
+    >
       <Hero
         height="400px"
         img={heroImg}
