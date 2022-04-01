@@ -49,7 +49,7 @@ const HomePage = () => {
       <Hero
         height="400px"
         img={heroImg}
-        title="Advanced Processing Systems - Complete Service Bioprocessing Solutions"
+        title="Advanced Processing Systems - Complete Bioprocessing Service Solutions"
         body="We provide complete service solutions for your bioprocessing needs."
       />
       <CardGroup bgColor="rgb(230, 255, 253, .2)" imgHeight="200px" />
