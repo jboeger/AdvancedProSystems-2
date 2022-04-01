@@ -12,7 +12,7 @@ import { Layout } from "../components/Layout";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Pro Systems Corp | Complete Service Bioprocessing Solutions",
+  title: "Advanced Pro Systems Corp | Complete Bioprocessing Service Solutions",
   description: "APS provides complete service solutions for your bioprocessing needs, whether upstream or downstream... lab scale, pilot plant, or industrial. Our focus is SERVICE and best optimizing your bioprocesses."
 }
 
