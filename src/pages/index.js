@@ -21,7 +21,7 @@ const content = {
     <div>
       <h2>Why choose Advanced Processing Systems?</h2>
       <p>
-        Advanced Process Systems, LLC is dedicated to provide professional services for
+        Advanced Process Systems Corp is dedicated to provide professional services for
         installations, calibrations, and validations of major systems, to include GMP, process
         systems and lab equipment. We are factory trained and qualified by companies such as
         Sonotec, Hamilton, BlueSens and SecureCell.
