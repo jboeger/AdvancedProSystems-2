@@ -18,9 +18,11 @@ export function ContactForm(props) {
   const breakpoint = 768;
 
   const optionsMsgs = {
-    "option1": "I have equipment that needs to get serviced.",
-    "option2": "I need to plan services for equipment I do not yet have.",
-    "option3": "I need equipment!"
+    "option1": "I have equipment that needs to get repaired.",
+    "option2": "I need a hassle-free facility and/or equipment management contract.",
+    "option3": "I need my equipment calibrated right away.",
+    "option4": "I need upstream or downstream Process Consulting Services.",
+    "option5": "I need help with specifying, supplying, and/or modifying my equipment. ",
   }
 
   const [formData, setFormData] = React.useState({
@@ -45,7 +47,7 @@ export function ContactForm(props) {
 
   const setRadioSelection = val => {
     let message = "";
-    if (val == "option4") {
+    if (val == "optionText") {
       message = formData.textArea;
     }
     else {
@@ -67,7 +69,7 @@ export function ContactForm(props) {
         textArea: val,
       }
     });
-    if (formData.radioSelection == "option4") {
+    if (formData.radioSelection == "optionText") {
       setFormData((prevState) => {
         return {
           ...prevState,
@@ -151,14 +153,26 @@ export function ContactForm(props) {
                 {optionsMsgs.option3}
               </label>
             </div>
+            <div className="col-9 align-items-center">
+              <input id="option4" type="radio" value="option4" name="option4" checked={formData.radioSelection == "option4"} onChange={(e) => setRadioSelection(e.target.value)}/>
+              <label className={optionLabel} for="option4">
+                {optionsMsgs.option4}
+              </label>
+            </div>
+            <div className="col-9 align-items-center">
+              <input id="option5" type="radio" value="option5" name="option5" checked={formData.radioSelection == "option5"} onChange={(e) => setRadioSelection(e.target.value)}/>
+              <label className={optionLabel} for="option5">
+                {optionsMsgs.option5}
+              </label>
+            </div>
             <div className="col-9">
               <input
-                id="option4"
+                id="optionText"
                 type="radio"
-                value="option4"
-                name="option4"
+                value="optionText"
+                name="optionText"
                 style={{ verticalAlign: "top" }}
-                checked={formData.radioSelection == "option4"}
+                checked={formData.radioSelection == "optionText"}
                 onChange={(e) => setRadioSelection(e.target.value)}
               />
               <TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/>
@@ -253,13 +267,25 @@ export function ContactForm(props) {
               </label>
             </div>
             <div className="col-12">
+              <input id="option4" type="radio" value="option4" name="option4" checked={formData.radioSelection == "option4"} onChange={(e) => setRadioSelection(e.target.value)}/>
+              <label className={optionLabel} for="option3">
+                {optionsMsgs.option4}
+              </label>
+            </div>
+            <div className="col-12">
+              <input id="option5" type="radio" value="option5" name="option5" checked={formData.radioSelection == "option5"} onChange={(e) => setRadioSelection(e.target.value)}/>
+              <label className={optionLabel} for="option3">
+                {optionsMsgs.option5}
+              </label>
+            </div>
+            <div className="col-12">
               <input
-                id="option4"
+                id="optionText"
                 type="radio"
-                value="option4"
-                name="option4"
+                value="optionText"
+                name="optionText"
                 style={{ verticalAlign: "top" }}
-                checked={formData.radioSelection == "option4"}
+                checked={formData.radioSelection == "optionText"}
                 onChange={(e) => setRadioSelection(e.target.value)}
               />
               <TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/>
