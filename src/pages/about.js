@@ -2,6 +2,7 @@ import * as React from "react";
 import { NavBar } from "../components/NavBar";
 import { Hero } from "../components/homePage/Hero";
 import { People } from "../components/aboutPage/People";
+import { PeopleNoImages } from "../components/aboutPage/PeopleNoImages";
 import { Footer } from "../components/Footer";
 import imgSection1 from "../images/hero-portrait-01.jpg";
 import heroImg from "../images/hero-home-01a-big.jpg";
@@ -32,7 +33,7 @@ const content = {
         We do this in partnership with leaders in laboratory and industrial bioprocess instruments, sensors, software, and equipment.
       </p>
     </div>
-  ),
+  )
 };
 
 const AboutPage = () => {
@@ -42,7 +43,6 @@ const AboutPage = () => {
       metaDescription={metaData.description}
     >
       <Hero height="200px" img={heroImg} title="About Us" body="" marginBottom={padding} />
-      {/* <People padding="40px" /> */}
       <Section
         padding="40px"
         img={imgSection1}
@@ -50,6 +50,7 @@ const AboutPage = () => {
         imgCols="7"
         content={content.section1}
       />
+      <PeopleNoImages/>
     </Layout>
   );
 };
