@@ -62,23 +62,23 @@ const content = {
         <p>
           OEM Post Sale Services Management
         </p>
-        <ul class="list-group list-group-numbered mb-3">
-          <li class="list-group-item border-0 bg-transparent">
+        <ul>
+          <li>
             Installation
           </li>
-          <li class="list-group-item border-0 bg-transparent">
+          <li>
             Calibration
           </li>
-          <li class="list-group-item border-0 bg-transparent">
+          <li>
             Integration
           </li>
-          <li class="list-group-item border-0 bg-transparent">
+          <li>
             On-site services
           </li>
-          <li class="list-group-item border-0 bg-transparent">
+          <li>
             Mail-in or Remote Service Center repairs
           </li>
-          <li class="list-group-item border-0 bg-transparent">
+          <li>
             Warranty Record and Services Management
           </li>
         </ul>
