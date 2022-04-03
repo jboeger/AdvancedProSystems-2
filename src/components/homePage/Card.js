@@ -17,7 +17,7 @@ export function Card(props) {
           style={{ objectFit: "cover", height: props.imgHeight }}
         />
         <div className="card-body">
-          <h5 className="card-title">{props.title}</h5>
+          <h5 className="card-title text-center">{props.title}</h5>
           <p className="card-text">{props.body}</p>
           {props.noButton ? null : (
             <button
