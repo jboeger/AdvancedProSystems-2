@@ -25,8 +25,9 @@ const content = {
                 </ul>
                 <h3><a href="https://www.bluesens.com/us/">BlueSens</a></h3>
                 <ul>
-                    <li>Full range of gas analyzers</li>
-                    <li>Gas analysis systems</li>
+                    <li>Full range of services on Gas Analyzers</li>
+                    <li>Complete NIST traceable calibrations on Gas Analyzers</li>
+                    <li>ISO/IEC 17025:2017 Compliant”</li>
                 </ul>
                 <h3><a href="https://hamiltoncompany.com/">Hamilton Instruments</a></h3>
                 <ul>
