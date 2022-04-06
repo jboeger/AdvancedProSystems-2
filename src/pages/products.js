@@ -27,7 +27,7 @@ const content = {
                 <ul>
                     <li>Full range of services on Gas Analyzers</li>
                     <li>Complete NIST traceable calibrations on Gas Analyzers</li>
-                    <li>ISO/IEC 17025:2017 Compliant”</li>
+                    <li>ISO/IEC 17025:2017 Compliant</li>
                 </ul>
                 <h3><a href="https://hamiltoncompany.com/">Hamilton Instruments</a></h3>
                 <ul>
