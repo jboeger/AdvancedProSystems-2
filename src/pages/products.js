@@ -20,6 +20,13 @@ const content = {
                 <ul>
                     <li>Non-Invasive Flowmeters sized from 0 mL/min to 140,000 mL/min.</li>
                     <li>Closed loop Flow Controllers</li>
+                    <li>Complete NIST traceable calibrations on Flow, Bubble and Level Sensors</li>
+                    <li>ISO/IEC 17025:2017 Compliant</li>
+                </ul>
+                <h3><a href="https://www.bluesens.com/us/">BlueSens</a></h3>
+                <ul>
+                    <li>Full range of gas analyzers</li>
+                    <li>Gas analysis systems</li>
                 </ul>
                 <h3><a href="https://hamiltoncompany.com/">Hamilton Instruments</a></h3>
                 <ul>
@@ -37,11 +44,6 @@ const content = {
                 <ul>
                     <li>Lucullus analytical lab management and automation software</li>
                     <li>Numera automated sampling</li>
-                </ul>
-                <h3><a href="https://www.bluesens.com/us/">BlueSens</a></h3>
-                <ul>
-                    <li>Full range of gas analyzers</li>
-                    <li>Gas analysis systems</li>
                 </ul>
                 <h3><a href="https://chemglass.com/">Chemglass Life Sciences</a></h3>
                 <ul>
