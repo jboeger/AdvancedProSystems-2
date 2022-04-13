@@ -41,11 +41,6 @@ const content = {
                     <li>Chromatography skids</li>
                     <li>TFF systems</li>
                 </ul>
-                <h3><a href="https://securecell.ch/en/">Securecell</a></h3>
-                <ul>
-                    <li>Lucullus analytical lab management and automation software</li>
-                    <li>Numera automated sampling</li>
-                </ul>
                 <h3><a href="https://chemglass.com/">Chemglass Life Sciences</a></h3>
                 <ul>
                     <li>Labware</li>
