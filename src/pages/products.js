@@ -4,7 +4,7 @@ import { Hero } from "../components/homePage/Hero";
 import heroImg from "../images/hero-home-01a-big.jpg";
 import padding from "./index";
 import { Section } from "../components/Section";
-import sectionImg from "../images/hero-stainless-01.jpg";
+import sectionImg from "../images/hero-stainless-02.jpg";
 
 const metaData = {
   title: "Biotech Equipment + Parts | Partner Brands | Advanced Pro Systems",

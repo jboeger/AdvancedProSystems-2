@@ -4,7 +4,7 @@ import { Hero } from "../components/homePage/Hero";
 import { People } from "../components/aboutPage/People";
 import { PeopleNoImages } from "../components/aboutPage/PeopleNoImages";
 import { Footer } from "../components/Footer";
-import imgSection1 from "../images/hero-portrait-01.jpg";
+import imgSection1 from "../images/hero-portrait-02.jpg";
 import heroImg from "../images/hero-home-01a-big.jpg";
 import padding from "./index";
 import { Section } from "../components/Section";
