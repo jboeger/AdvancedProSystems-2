@@ -116,7 +116,7 @@ const ServicesPage = () => {
       <div className="container-lg my-4">
         <h2>Process Consulting and Calibration</h2>
         <div className="row justify-content-center pt-4">
-          <div className="col-4">
+          <div className="col-sm-4">
             <h3 className="h4">Upstream Process Consulting</h3>
             <ul>
               <li>Bioreactor specification</li>
@@ -125,7 +125,7 @@ const ServicesPage = () => {
               <li>Integration</li>
             </ul>
           </div>
-          <div className="col-4">
+          <div className="col-sm-4">
             <h3 className="h4">Downstream Process Consulting</h3>
             <ul>
               <li>Filtration</li>
@@ -134,7 +134,7 @@ const ServicesPage = () => {
               <li>Drying</li>
             </ul>
           </div>
-          <div className="col-4">
+          <div className="col-sm-4">
             <h3 className="h4">Calibration – instruments measuring</h3>
             <ul>
               <li>Temperature</li>
@@ -148,7 +148,7 @@ const ServicesPage = () => {
           </div>
         </div>
         <div className="row justify-content-center">
-          <div className="col-4">
+          <div className="col-sm-4">
             <h3 className="h4">NIST traceable “cradle to grave” calibration</h3>
             <ul>
               <li>Performance</li>
@@ -157,7 +157,7 @@ const ServicesPage = () => {
               <li>Records management</li>
             </ul>
           </div>
-          <div className="col-4">
+          <div className="col-sm-4">
             <h3 className="h4">Validation</h3>
             <ul>
               <li>IOQ generation</li>
