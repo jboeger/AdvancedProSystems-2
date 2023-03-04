@@ -3,9 +3,9 @@ import { Layout } from "../components/Layout";
 import { ContactForm } from "../components/ContactForm";
 
 const metaData = {
-  title: "Contact Us | Advanced Pro Systems",
-  description: "APS wants to hear from you. How may we optimize your bioprocess today?",
-  canonicalUrl: "https://www.advancedprosystems.com/contact/"
+  metaTitle: "Contact Us | Advanced Pro Systems",
+  metaDescription: "APS wants to hear from you. How may we optimize your bioprocess today?",
+  metaCanonicalUrl: "https://www.advancedprosystems.com/contact/"
 }
 
 const ContactPage = () => {

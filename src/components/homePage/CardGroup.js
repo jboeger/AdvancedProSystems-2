@@ -2,9 +2,6 @@ import * as React from "react";
 //import "bootstrap";
 import { useViewport } from "../Layout";
 import { Card } from "./Card";
-import card1Img from "../../images/card1-gears-02.jpg";
-import card2Img from "../../images/card2-lab-02.jpg";
-import card3Img from "../../images/card3-stainless-02.jpg";
 const bootstrap =
   typeof window !== `undefined` ? require("bootstrap/dist/css/bootstrap.min.css") : null;
 
@@ -14,39 +11,47 @@ export function CardGroup(props) {
   const { width } = useViewport();
   const breakpoint = 768;
 
+      // <Card
+    //   title="Process Consulting and Calibration"
+    //   body=""
+    //   img={card1Img}
+    //   imgAlt=""
+    //   imgHeight={props.imgHeight}
+    //   noButton
+    // />,
+    // <Card
+    //   title="Laboratory, Industrial Service Plans"
+    //   body=""
+    //   img={card2Img}
+    //   imgAlt=""
+    //   imgHeight={props.imgHeight}
+    //   noButton
+    //   link="/services#services_2"
+    // />,
+    // <Card
+    //   title="Biotech Equipment and Parts"
+    //   body=""
+    //   img={card3Img}
+    //   imgAlt=""
+    //   imgHeight={props.imgHeight}
+    //   noButton
+    // />
+
   const desktop = (
     <div className="container-xl">
       <div className="row">
-        <div className="col">
-          <Card
-            title="Process Consulting and Calibration"
-            body=""
-            img={card1Img}
-            imgHeight={props.imgHeight}
-            noButton
-            link="/services"
-          />
-        </div>
-        <div className="col">
-          <Card
-            title="Laboratory, Industrial Service Plans"
-            body=""
-            img={card2Img}
-            imgHeight={props.imgHeight}
-            noButton
-            link="/services#services_2"
-          />
-        </div>
-        <div className="col">
-          <Card
-            title="Biotech Equipment and Parts"
-            body=""
-            img={card3Img}
-            imgHeight={props.imgHeight}
-            noButton
-            link="/products"
-          />
-        </div>
+        {props.cards.map((card, idx) => (
+          <div className="col" key={idx}>
+            <Card 
+              title={card.title}
+              body={card.body}
+              img={card.img}
+              imgAlt={card.imgAlt}
+              imgHeight={props.imgHeight}
+              noButton
+            />
+          </div>
+        ))}
       </div>
     </div>
   );
@@ -54,33 +59,18 @@ export function CardGroup(props) {
   const mobile = (
     <div className="container">
       <div className="row gy-5 text-center">
-        <div className="col-12">
-          <Card
-            title="Process Consulting and Calibration"
-            body=""
-            img={card1Img}
-            imgHeight={props.imgHeight}
-            noButton
-          />
-        </div>
-        <div className="col-12">
-          <Card
-            title="Laboratory, Industrial Service Plans"
-            body=""
-            img={card2Img}
-            imgHeight={props.imgHeight}
-            noButton
-          />
-        </div>
-        <div className="col-12">
-          <Card
-            title="Biotech Equipment and Parts"
-            body=""
-            img={card3Img}
-            imgHeight={props.imgHeight}
-            noButton
-          />
-        </div>
+        {props.cards.map((card, idx) => (
+          <div className="col-12" key={idx}>
+            <Card 
+              title={card.title}
+              body={card.body}
+              img={card.img}
+              imgAlt={card.imgAlt}
+              imgHeight={props.imgHeight}
+              noButton
+            />
+          </div>
+        ))}
       </div>
     </div>
   );

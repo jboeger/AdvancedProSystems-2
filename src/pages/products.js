@@ -7,8 +7,8 @@ import { Section } from "../components/Section";
 import sectionImg from "../images/hero-stainless-02.jpg";
 
 const metaData = {
-  title: "Biotech Equipment + Parts | Partner Brands | Advanced Pro Systems",
-  description: "APS is a certified provider labware, gas analyzers, bioreactors, TFF, flow controllers, sampling and automation, custom tanks, and much more. Partners include Sonotec, Securecell, BlueSens and Chemglass Life Sciences.",
+  metaTitle: "Biotech Equipment + Parts | Partner Brands | Advanced Pro Systems",
+  metaDescription: "APS is a certified provider labware, gas analyzers, bioreactors, TFF, flow controllers, sampling and automation, custom tanks, and much more. Partners include Sonotec, Securecell, BlueSens and Chemglass Life Sciences.",
   canonicalUrl: "https://www.advancedprosystems.com/products/"
 }
 

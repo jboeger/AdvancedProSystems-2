@@ -6,6 +6,9 @@ import { FAQAccordian } from "../components/homePage/FAQAccordian";
 import { Section } from "../components/Section";
 import heroImg from "../images/hero-home-01a-big.jpg";
 import { Layout } from "../components/Layout";
+import card1Img from "../images/card1-gears-02.jpg";
+import card2Img from "../images/card2-lab-02.jpg";
+import card3Img from "../images/card3-stainless-02.jpg";
 
 export const padding = "40px";
 
@@ -16,6 +19,26 @@ const metaData = {
 }
 
 const content = {
+  cards: [
+    {
+      title: "Process Consulting and Calibration",
+      body: "",
+      img: card1Img,
+      imgAlt: ""
+    },
+    {
+      title: "Laboratory, Industrial Service Plans",
+      body: "",
+      img: card2Img,
+      imgAlt: ""
+    },
+    {
+      title: "Biotech Equipment and Parts",
+      body: "",
+      img: card3Img,
+      imgAlt: ""
+    }
+  ],
   section1: (
     <div>
       <h2>Why choose Advanced Processing Systems?</h2>
@@ -50,7 +73,7 @@ const HomePage = () => {
         title="Advanced Processing Systems - Complete Bioprocessing Service Solutions"
         body="We provide complete service solutions for your bioprocessing needs."
       />
-      <CardGroup bgColor="rgb(230, 255, 253, .2)" imgHeight="200px" />
+      <CardGroup cards={content.cards} bgColor="rgb(230, 255, 253, .2)" imgHeight="200px" />
       {/* <CardGroup imgHeight="200px" /> */}
       <Section
         bgColor="rgb(255, 255, 255, .5)"
