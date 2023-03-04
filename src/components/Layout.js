@@ -2,6 +2,7 @@ import * as React from "react";
 import { NavBar } from "./NavBar";
 import { Footer } from "./Footer";
 import { Helmet } from "react-helmet";
+import icon from "../images/logo.png";
 import "./Layout.css";
 import "../styles.scss";
 const bootstrap =
@@ -22,8 +23,12 @@ export function Layout(props) {
 
   return (
     <viewportContext.Provider value={{ width }}>
-      <Helmet title={props.metaTitle}>
-        <meta name="description" content={props.metaDescription} />
+      <Helmet>
+        <title>{props.metaData.metaTitle}</title>
+        <meta name="title" content={props.metaData.metaTitle} />
+        <meta name="description" content={props.metaData.metaDescription} />
+        <link rel="canonical" href={props.metaData.canonicalUrl} />
+        <link rel="icon" type="image/png" href={icon} />
       </Helmet>
       <div className="wrapper">
         <header className="sticky-top">

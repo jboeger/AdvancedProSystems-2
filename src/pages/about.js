@@ -1,19 +1,16 @@
 import * as React from "react";
-import { NavBar } from "../components/NavBar";
 import { Hero } from "../components/homePage/Hero";
-import { People } from "../components/aboutPage/People";
 import { PeopleNoImages } from "../components/aboutPage/PeopleNoImages";
-import { Footer } from "../components/Footer";
 import imgSection1 from "../images/hero-portrait-02.jpg";
 import heroImg from "../images/hero-home-01a-big.jpg";
 import padding from "./index";
 import { Section } from "../components/Section";
-import imgSection2 from "../images/random3.jpeg";
 import { Layout } from "../components/Layout";
 
 const metaData = {
   title: "About APS | We optimize your bioprocessing | Advanced Pro Systems",
-  description: "APS helps OPTIMIZE your BIOPROCESSING. Since 2017 and with 30+ years experience, APS helps with all stages of process from installation and  calibration to integration."
+  description: "APS helps OPTIMIZE your BIOPROCESSING. Since 2017 and with 30+ years experience, APS helps with all stages of process from installation and  calibration to integration.",
+  canonicalUrl: "https://www.advancedprosystems.com/about/"
 }
 
 const content = {
@@ -38,14 +35,12 @@ const content = {
 
 const AboutPage = () => {
   return (
-    <Layout 
-      metaTitle={metaData.title}
-      metaDescription={metaData.description}
-    >
+    <Layout metaData={metaData}>
       <Hero height="200px" img={heroImg} title="About Us" body="" marginBottom={padding} />
       <Section
         padding="40px"
         img={imgSection1}
+        imgAlt=""
         imgSide="left"
         imgCols="7"
         content={content.section1}

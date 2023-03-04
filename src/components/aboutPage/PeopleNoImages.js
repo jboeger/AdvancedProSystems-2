@@ -1,6 +1,4 @@
 import * as React from "react";
-import blank_person from "./../../images/blank_person.png";
-import { Card } from "../homePage/Card";
 const bootstrap = typeof window !== `undefined` ? require("bootstrap/dist/css/bootstrap.min.css") : null
 
 export function PeopleNoImages(props) {

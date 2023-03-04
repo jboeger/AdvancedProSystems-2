@@ -9,7 +9,6 @@ import {
 } from "./ContactForm.module.css";
 import TextareaAutosize from "react-textarea-autosize";
 import { CountryDropdown, RegionDropdown } from "react-country-region-selector";
-import { StaticQuery } from "gatsby";
 const bootstrap =
   typeof window !== `undefined` ? require("bootstrap/dist/css/bootstrap.min.css") : null;
 

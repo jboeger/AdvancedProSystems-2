@@ -6,7 +6,7 @@ const bootstrap =
 function getImgSide(props) {
   return (
     <div className={"col-" + props.imgCols}>
-      <img src={props.img} style={{ width: "100%" }} />
+      <img src={props.img} style={{ width: "100%" }} alt={props.imgAlt}/>
     </div>
   );
 }
@@ -58,7 +58,7 @@ export function Section(props) {
     <div className="container">
       <div className="row gy-2">
         <div className="col-12">
-          <img src={props.img} style={{ width: "100%" }} />
+          <img src={props.img} style={{ width: "100%" }} alt={props.imgAlt}/>
         </div>
         <div className="col-12">{props.content}</div>
       </div>

@@ -1,20 +1,15 @@
 import * as React from "react";
 import { Layout } from "../components/Layout";
-import { NavBar } from "../components/NavBar";
 import { Hero } from "../components/homePage/Hero";
-import { CardGroup } from "../components/homePage/CardGroup";
-import { CredentialGroup } from "../components/homePage/CredentialGroup";
-import { Footer } from "../components/Footer";
 import { Section } from "../components/Section";
 import heroImg from "../images/hero-home-01a-big.jpg";
 import padding from "./index";
-import imgSection1 from "../images/random2.jpg";
 import imgSection2 from "../images/hero-lab-02.jpg";
-import imgSection3 from "../images/card1-01a.jpg";
 
 const metaData = {
   title: "Lab + Industrial | Biotech + Bioprocessing Services | Advanced Pro Systems",
-  description: "APS provides expertise and on-site services for upstream bioprocessing, downstream bio processing, calibration, and validation. We provide service plans for all scales: from lab scale to pilot plant to industrial scale."
+  description: "APS provides expertise and on-site services for upstream bioprocessing, downstream bio processing, calibration, and validation. We provide service plans for all scales: from lab scale to pilot plant to industrial scale.",
+  canonicalUrl: "https://www.advancedprosystems.com/services/"
 }
 
 const content = {
@@ -95,10 +90,7 @@ const content = {
 
 const ServicesPage = () => {
   return (
-    <Layout 
-      metaTitle={metaData.title}
-      metaDescription={metaData.description}
-    >
+    <Layout metaData={metaData}>
       <Hero
         height="200px"
         img={heroImg}
@@ -171,6 +163,7 @@ const ServicesPage = () => {
       <Section
         padding="40px"
         img={imgSection2}
+        imgAlt=""
         imgSide="right"
         imgCols="7"
         content={content.section2}

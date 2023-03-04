@@ -9,30 +9,6 @@ import { overlay, hamburger, navItem } from "./NavBar.module.css";
 const bootstrap =
   typeof window !== `undefined` ? require("bootstrap/dist/css/bootstrap.min.css") : null;
 
-function offcanvas() {
-  return (
-    <nav id="menu">
-      <ul>
-        <li>
-          <a href="#m-i-1">Menu Item 1</a>
-        </li>
-        <li>
-          <a href="#m-i-2">Menu Item 2</a>
-        </li>
-        <li>
-          <a href="#m-i-3">Menu Item 3</a>
-        </li>
-        <li>
-          <a href="#m-i-4">Menu Item 4</a>
-        </li>
-        <li>
-          <a href="#m-i-5">Menu Item 5</a>
-        </li>
-      </ul>
-    </nav>
-  );
-}
-
 export function NavBar(props) {
   const { width } = useViewport();
   const breakpoint = 768;
@@ -46,7 +22,7 @@ export function NavBar(props) {
     <div className="container">
       <div className="d-flex flex-wrap justify-content-center align-items-center py-2">
         <Link to="/" className="d-flex align-items-center me-md-auto text-decoration-none">
-          <img class="bi me-2" height="100px" src={logoImg} />
+          <img className="bi me-2" height="100px" src={logoImg} />
         </Link>
         <ul className="nav nav-pills align-items-center">
           <li className="nav-item">
@@ -86,7 +62,7 @@ export function NavBar(props) {
     <div className="container-lg">
       <div className="d-flex flex-wrap justify-content-between align-items-center py-2">
         <Link to="/" className="d-flex align-items-center me-md-auto text-decoration-none">
-          <img class="bi me-2" height="70px" src={logoImg} />
+          <img className="bi me-2" height="70px" src={logoImg} />
         </Link>
         <ul className="nav nav-pills">
           <li className="nav-item">

@@ -1,19 +1,18 @@
 import * as React from "react";
-import { NavBar } from "../components/NavBar";
 import { Hero } from "../components/homePage/Hero";
 import { CardGroup } from "../components/homePage/CardGroup";
 import { CredentialGroup } from "../components/homePage/CredentialGroup";
 import { FAQAccordian } from "../components/homePage/FAQAccordian";
 import { Section } from "../components/Section";
 import heroImg from "../images/hero-home-01a-big.jpg";
-import { Footer } from "../components/Footer";
 import { Layout } from "../components/Layout";
 
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Pro Systems Corp | Complete Bioprocessing Service Solutions",
-  description: "APS provides complete service solutions for your bioprocessing needs, whether upstream or downstream... lab scale, pilot plant, or industrial. Our focus is SERVICE and best optimizing your bioprocesses."
+  metaTitle: "Advanced Pro Systems Corp | Complete Bioprocessing Service Solutions",
+  metaDescription: "APS provides complete service solutions for your bioprocessing needs, whether upstream or downstream... lab scale, pilot plant, or industrial. Our focus is SERVICE and best optimizing your bioprocesses.",
+  canonicalUrl: "https://www.advancedprosystems.com/"
 }
 
 const content = {
@@ -42,9 +41,8 @@ const content = {
 const HomePage = () => {
   return (
     <Layout 
+      metaData={metaData}
       footerBgColor="rgb(255, 255, 255, .5)"
-      metaTitle={metaData.title}
-      metaDescription={metaData.description}
     >
       <Hero
         height="400px"
@@ -57,6 +55,7 @@ const HomePage = () => {
       <Section
         bgColor="rgb(255, 255, 255, .5)"
         img={heroImg}
+        imgAlt=""
         imgSide="left"
         imgCols="7"
         content={content.section1}
@@ -65,6 +64,7 @@ const HomePage = () => {
       <Section
         bgColor="rgb(255, 255, 255, .5)"
         img={heroImg}
+        imgAlt=""
         imgSide="right"
         imgCols="7"
         content={content.section2}

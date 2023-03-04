@@ -1,23 +1,16 @@
 import * as React from "react";
 import { Layout } from "../components/Layout";
-import { NavBar } from "../components/NavBar";
-import { Hero } from "../components/homePage/Hero";
 import { ContactForm } from "../components/ContactForm";
-import { ContactFormSimple } from "../components/ContactFormSimple";
-import heroImg from "../images/hero-home-01a-big.jpg";
-import padding from "./index";
 
 const metaData = {
   title: "Contact Us | Advanced Pro Systems",
-  description: "APS wants to hear from you. How may we optimize your bioprocess today?"
+  description: "APS wants to hear from you. How may we optimize your bioprocess today?",
+  canonicalUrl: "https://www.advancedprosystems.com/contact/"
 }
 
 const ContactPage = () => {
   return (
-    <Layout 
-      metaTitle={metaData.title}
-      metaDescription={metaData.description}
-    >
+    <Layout metaData={metaData}>
       {/* <Hero height="200px" img={heroImg} title="Contact Us" body="" /> */}
       <form hidden method="post" name="contact" netlify data-netlify="true">
         <input type="hidden" name="form-name" value="contact"></input>
