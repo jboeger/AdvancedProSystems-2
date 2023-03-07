@@ -18,6 +18,25 @@ const metaData = {
   canonicalUrl: "https://www.advancedprosystems.com/"
 }
 
+const credentialCards = [
+  {
+    title: "cGMP trained and fully qualified.",
+    text: "FDA Good Manufacturing Practice regulation compliant."
+  },
+  {
+    title: "ISO/IEC 17025:2017 Compliant",
+    text: "Laboratory and Industrial scale consistency, quality and reliability."
+  },
+  {
+    title: "NIST traceable",
+    text: "All Advanced Process Systems calibrations and validations are NIST traceable."
+  },
+  {
+    title: "Validations: IOPQ Install, Operate & Process Qualify",
+    text: "Temp mapping, autoclaves, incubators, cold rooms."
+  }
+]
+
 const cards = [
   {
     title: "Process Consulting and Calibration",
@@ -83,7 +102,7 @@ const HomePage = () => {
         imgCols="7"
         content={content.section1}
       />
-      <CredentialGroup bgColor="" height="400px" />
+      <CredentialGroup credentialCards={credentialCards} bgColor="" height="400px" />
       <Section
         bgColor="rgb(255, 255, 255, .5)"
         img={heroImg}
