@@ -18,27 +18,28 @@ const metaData = {
   canonicalUrl: "https://www.advancedprosystems.com/"
 }
 
+const cards = [
+  {
+    title: "Process Consulting and Calibration",
+    body: "",
+    img: card1Img,
+    imgAlt: ""
+  },
+  {
+    title: "Laboratory, Industrial Service Plans",
+    body: "",
+    img: card2Img,
+    imgAlt: ""
+  },
+  {
+    title: "Biotech Equipment and Parts",
+    body: "",
+    img: card3Img,
+    imgAlt: ""
+  }
+];
+
 const content = {
-  cards: [
-    {
-      title: "Process Consulting and Calibration",
-      body: "",
-      img: card1Img,
-      imgAlt: ""
-    },
-    {
-      title: "Laboratory, Industrial Service Plans",
-      body: "",
-      img: card2Img,
-      imgAlt: ""
-    },
-    {
-      title: "Biotech Equipment and Parts",
-      body: "",
-      img: card3Img,
-      imgAlt: ""
-    }
-  ],
   section1: (
     <div>
       <h2>Why choose Advanced Processing Systems?</h2>
@@ -73,8 +74,7 @@ const HomePage = () => {
         title="Advanced Processing Systems - Complete Bioprocessing Service Solutions"
         body="We provide complete service solutions for your bioprocessing needs."
       />
-      <CardGroup cards={content.cards} bgColor="rgb(230, 255, 253, .2)" imgHeight="200px" />
-      {/* <CardGroup imgHeight="200px" /> */}
+      <CardGroup cards={cards} bgColor="rgb(230, 255, 253, .2)" imgHeight="200px" />
       <Section
         bgColor="rgb(255, 255, 255, .5)"
         img={heroImg}
@@ -93,7 +93,6 @@ const HomePage = () => {
         content={content.section2}
       />
     </Layout>
-    
   );
 };
 

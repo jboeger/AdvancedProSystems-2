@@ -11,7 +11,6 @@ const metaData = {
 const ContactPage = () => {
   return (
     <Layout metaData={metaData}>
-      {/* <Hero height="200px" img={heroImg} title="Contact Us" body="" /> */}
       <form hidden method="post" name="contact" netlify data-netlify="true">
         <input type="hidden" name="form-name" value="contact"></input>
         <input type="hidden" name="name"></input>
@@ -23,16 +22,6 @@ const ContactPage = () => {
         <button type="submit">Submit</button>
       </form>
       <ContactForm />
-      {/* <ContactFormSimple /> */}
-      {/* <form name="contact" netlify hidden>
-        <input type="radio" name="option1"></input>
-        <input type="radio" name="option1"></input>
-        <input type="radio" name="option1"></input>
-        <input type="radio" name="option1"></input>
-        <input name="name"></input>
-        <input name="phone"></input>
-        <input name="email"></input>
-      </form> */}
     </Layout>
   );
 };
