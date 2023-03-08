@@ -51,6 +51,35 @@ const sections = [
         <ul>
           <li>Digital pressure gauge</li>
           <li>Test gauge</li>
+          <li>Pressure Transducers</li>
+          <li>Digital Indicators</li>
+          <li>Pressure transmitters</li>
+          <li>Pressure calibrators</li>
+          <li>Analogue pressure gauge</li>
+          <li>Barometer calibration</li>
+          <li>Pressure transmitter calibration</li>
+        </ul>
+      </div>
+    )
+  },
+  {
+    img: "acousticFlow",
+    imgAlt: "",
+    imgCols: "6",
+    content: (
+      <div>
+        <h2>Flow Sensor Calibration</h2>
+        <p>
+          APS performs NIST traceable ISO 17025 flow sensor calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration of flow meter turnaround. A sampling of flow sensors we regularly calibrate are liquid flow, gas flow and mass flow meters using in-line flow, volumetric flow or optical flow technology. We also calibrate mass flow controllers and other non-invasive flow measurement equipment.
+        </p>
+        <h3>Types of flow sensor calibrations:</h3>
+        <ul>
+          <li>Gas Flow Meter</li>
+          <li>Mass Flow Controllers</li>
+          <li>Liquid Flow Meter</li>
+          <li>Optical Flow Sensor</li>
+          <li>Volumetric Flow Meter</li>
+          <li>PIn-Line Flow Meter</li>
         </ul>
       </div>
     )
@@ -63,8 +92,7 @@ const sections = [
       <div>
 
       </div>
-    )
-  }
+    )  
 ]
 
 /**
