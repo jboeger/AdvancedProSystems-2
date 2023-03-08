@@ -85,7 +85,7 @@ const sections = [
     )
   },
   {
-    img: "",
+    img: "electrical",
     imgAlt: "",
     imgCols: "6",
     content: (
@@ -102,6 +102,10 @@ const sections = [
           <li>Insulation Testers</li>
           <li>Power Analyzers</li>
           <li>Megohmmeters</li>
+          <li>Clamp meters</li>
+          <li>Hipot Testers</li>
+          <li>Loop Testers</li>
+          <li>Multifunction Testers</li>
         </ul>
       </div>
     )  
