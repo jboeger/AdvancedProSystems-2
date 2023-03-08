@@ -24,7 +24,7 @@ export function Layout(props) {
   return (
     <viewportContext.Provider value={{ width }}>
       <Helmet>
-        <title>{props.metaData.metaTitle}</title>
+        <title>{props.metaData.title}</title>
         <meta name="title" content={props.metaData.title} />
         <meta name="description" content={props.metaData.description} />
         <link rel="canonical" href={props.metaData.canonicalUrl} />
