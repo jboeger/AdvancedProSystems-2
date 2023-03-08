@@ -18,8 +18,8 @@ import pipette from "../images/Pipette.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "",
-  description: "",
+  title: "Advanced Calibration Services | Flow, pressure, + more | APS",
+  description: "APS performs NIST traceable calibrations in analytical and industrial applications, from flow / pressure to thermal, electrical, and balance calibrations.",
   canonicalUrl: "",
   img: "",
   imgAlt: "",
@@ -39,7 +39,7 @@ const metaData = {
 const sections = [
   {
     img: bioReactor,
-    imgAlt: "",
+    imgAlt: "Close-up photo of lab technician working with a bioreactor. ",
     imgCols: "6",
     content: (
       <div>
@@ -56,7 +56,7 @@ const sections = [
   },
     {
     img: pressure,
-    imgAlt: "",
+    imgAlt: "Close-up photo of two pressure guages. ",
     imgCols: "6",
     content: (
       <div>
@@ -81,7 +81,7 @@ const sections = [
   },
   {
     img: "acousticFlow",
-    imgAlt: "",
+    imgAlt: "Photo of a non-invasive flow meter. ",
     imgCols: "6",
     content: (
       <div>
@@ -103,7 +103,7 @@ const sections = [
   },
   {
     img: "electrical",
-    imgAlt: "",
+    imgAlt: "Photo of a an electical multimeter.",
     imgCols: "6",
     content: (
       <div>
@@ -129,7 +129,7 @@ const sections = [
   },
     {
     img: "balance",
-    imgAlt: "",
+    imgAlt: "Close-up photo of a balancer. ",
     imgCols: "6",
     content: (
       <div>
