@@ -111,12 +111,26 @@ const sections = [
     )  
   },
     {
-    img: "",
+    img: "balance",
     imgAlt: "",
-    imgCols: "",
+    imgCols: "6",
     content: (
       <div>
-
+      <h2>Mechanical and Balance Calibration</h2>
+        <p>
+          APS performs NIST traceable ISO 17025 sensor calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate are digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. Torque wrench calibration is a common request where we expedite service. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process qualification and validation.
+       </p>
+        <h3>Types of flow sensor calibrations:</h3>
+        <ul>
+          <li>Load Cell Sensor Calibration</li>
+          <li>Vernier Calipers</li>
+          <li>Torque wrench calibration</li>
+          <li>Height Gauge</li>
+          <li>Manometers</li>
+          <li>Digital Force Gauge</li>
+          <li>Torque analyzers / torque testers</li>
+          <li>Torque screwdriver calibration</li>
+        </ul>
       </div>
     )  
   },
