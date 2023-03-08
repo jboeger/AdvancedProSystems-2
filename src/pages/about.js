@@ -7,9 +7,14 @@ import { Section } from "../components/Section";
 import { Layout } from "../components/Layout";
 
 const metaData = {
-  metaTitle: "About APS | We optimize your bioprocessing | Advanced Pro Systems",
-  metaDescription: "APS helps OPTIMIZE your BIOPROCESSING. Since 2017 and with 30+ years experience, APS helps with all stages of process from installation and  calibration to integration.",
-  canonicalUrl: "https://www.advancedprosystems.com/about/"
+  title: "About APS | We optimize your bioprocessing | Advanced Pro Systems",
+  description: "APS helps OPTIMIZE your BIOPROCESSING. Since 2017 and with 30+ years experience, APS helps with all stages of process from installation and  calibration to integration.",
+  canonicalUrl: "https://www.advancedprosystems.com/about/",
+  img: "https://www.advancedprosystems.com/static/hero-portrait-02-a8eec82e283dca7ad12df0a9b4b16a86.jpg",
+  imgAlt: "",
+  imgWidth: "900", 
+  imgHeight: "1200",
+  imgType: "image/jpg"
 }
 
 const content = {
