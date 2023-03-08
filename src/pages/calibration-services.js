@@ -38,27 +38,19 @@ const metaData = {
 
 const sections = [
   {
-    img: pressure,
+    img: bioReactor,
     imgAlt: "",
     imgCols: "6",
     content: (
       <div>
-        <h2>Pressure Calibration</h2>
+        <h1>Advanced Calibration Services</h1>
         <p>
-          APS performs NIST traceable ISO 17025 pressure gauge calibrations in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration of pressure gauge turnaround. A sampling of gauges we regularly calibrate are digital pressure, analog pressure, differential, and test gages. We also calibrate pressure transducer, pressure transmitter, and pressure calibrator applications as well as other pressure applications using a digital pressure indicator, barometer, or pressure module.
+           Advanced Processing provides the highest level of standard calibration services to the laboratory, industrial processing, pharmaceutical, food and beverage manufacturing, petrochemical, and standards dependent industries that require accurate recordkeeping, calibration, maintenance, and repair of their instruments. APS calibrates to the calibration standard and if requested hold that data on NIST calibrations in our database managed and audited by ANSI accredited (through ANAB accreditation services). Customers include the range from start-ups to most established biopharma, biotechnology, and biomedical equipment companies to US national laboratories, and food and beverage companies with the most stringent calibration standards. APS works with the full range of requirements from individual calibrations, supplying calibration personnel, OEM calibration services, to setting up the processes for entire metrology departments. In some cases, we provide calibration facilities management.
         </p>
-        <h3>Types of pressure calibrations:</h3>
-        <ul>
-          <li>Digital pressure gauge</li>
-          <li>Test gauge</li>
-          <li>Pressure Transducers</li>
-          <li>Digital Indicators</li>
-          <li>Pressure transmitters</li>
-          <li>Pressure calibrators</li>
-          <li>Analogue pressure gauge</li>
-          <li>Barometer calibration</li>
-          <li>Pressure transmitter calibration</li>
-        </ul>
+        <p>
+           Customers include the range from start-ups to most established biopharma, biotechnology, and biomedical equipment companies to US national laboratories, and food and beverage companies with the most stringent calibration standards. APS works with the full range of requirements from individual calibrations, supplying calibration personnel, OEM calibration services, to setting up the processes for entire metrology departments. In some cases, we provide calibration facilities management.
+        </p>
+
       </div>
     )
   },
