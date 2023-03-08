@@ -1,5 +1,4 @@
 import * as React from "react";
-import { Hero } from "../components/homePage/Hero";
 import { Section } from "../components/Section";
 import { Layout } from "../components/Layout";
 // import { FAQAccordian } from "../components/homePage/FAQAccordian";
@@ -7,6 +6,14 @@ import { FAQ } from "../components/homePage/FAQ";
 
 // image imports
 import heroHomeImg from "../images/hero-home-01a-big.jpg";
+import bioReactor from "../images/card2-lab-02.jpg";
+import pressure from "../images/Pressure.jpg";
+import acousticFlow from "../images/Acoustic_Flow.jpg";
+import electrical from "../images/Electrical.jpg";
+import balance from "../images/Balance.jpg";
+import dimensional from "../images/Dimensional.jpg";
+import optical from "../images/Optical.jpg";
+import pipette from "../images/Pipette.jpg";
 
 export const padding = "40px";
 
@@ -17,29 +24,6 @@ const metaData = {
   img: "",
   imgAlt: "",
 }
-
-const sectionContent = {
-  section1: (
-    <div>
-      <h2>Why choose Advanced Processing Systems?</h2>
-      <p>
-        Advanced Process Systems Corp is dedicated to provide professional services for
-        installations, calibrations, and validations of major systems, to include GMP, process
-        systems and lab equipment. We are factory trained and qualified by companies such as
-        Sonotec, Hamilton, BlueSens and SecureCell.
-      </p>
-    </div>
-  ),
-  section2: (
-    <div>
-      <h2>Prompt. Reliable. Honest. Professional.</h2>
-      <p>
-        You can depend on our engineers to provide quality service and be confident that your
-        equipment is calibrated accurately.
-      </p>
-    </div>
-  ),
-};
 
 /**
  * each object (the thing surrounded by {}) in this array is a section.
@@ -54,7 +38,7 @@ const sectionContent = {
 
 const sections = [
   {
-    img: heroHomeImg,
+    img: pressure,
     imgAlt: "",
     imgCols: "6",
     content: (
@@ -101,18 +85,19 @@ const CalibrationsPage = () => {
   return (
     <Layout 
       metaData={metaData}
-      footerBgColor="rgb(255, 255, 255, .5)"
+      footerBgColor="rgb(255,255,255,.2)"
     >
-      {/* <Hero
-        height="400px"
-        img={heroImg}
-        title="Advanced Processing Systems - Complete Bioprocessing Service Solutions"
-        body="We provide complete service solutions for your bioprocessing needs."
-      /> */}
       {sections.map((sectionProps, idx) => { 
-        let imgSide;
-        idx % 2 == 0 ? imgSide = "left" : imgSide = "right";
-        <Section key={idx} imgSide={imgSide} {...sectionProps} />
+        let imgSide, bgColor;
+        if (idx % 2 == 0) {
+          imgSide = "right";
+          bgColor = "rgb(255,255,255,0)"
+        }
+        else {
+          imgSide = "left";
+          bgColor = "rgb(255,255,255,0.3)"
+        }
+        return <Section key={idx} imgSide={imgSide} bgColor={bgColor} {...sectionProps} />
       })}
       <FAQ title="Calibrations FAQs - Frequently Asked Questions" content={faqContent} />
     </Layout>

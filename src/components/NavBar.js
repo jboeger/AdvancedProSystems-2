@@ -36,6 +36,11 @@ export function NavBar(props) {
             </Link>
           </li>
           <li className="nav-item">
+            <Link to="/calibration-services" className="nav-link" activeClassName="active" aria-current="page">
+              Calibration 
+            </Link>
+          </li>
+          <li className="nav-item">
             <Link to="/products" className="nav-link" activeClassName="active" aria-current="page">
               Products
             </Link>
@@ -101,6 +106,16 @@ export function NavBar(props) {
                       aria-current="page"
                     >
                       Services
+                    </Link>
+                  </li>
+                  <li className={navItem}>
+                    <Link
+                      to="/calibration-services"
+                      className="nav-link"
+                      activeClassName="active"
+                      aria-current="page"
+                    >
+                      Calibration
                     </Link>
                   </li>
                   <li className={navItem}>
