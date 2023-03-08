@@ -80,7 +80,7 @@ const sections = [
     )
   },
   {
-    img: "acousticFlow",
+    img: acousticFlow,
     imgAlt: "Photo of a non-invasive flow meter. ",
     imgCols: "6",
     content: (
@@ -102,7 +102,7 @@ const sections = [
     )
   },
   {
-    img: "electrical",
+    img: electrical,
     imgAlt: "Photo of a an electical multimeter.",
     imgCols: "6",
     content: (
@@ -128,7 +128,7 @@ const sections = [
     )  
   },
     {
-    img: "balance",
+    img: balance,
     imgAlt: "Close-up photo of a balancer. ",
     imgCols: "6",
     content: (
