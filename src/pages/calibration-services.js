@@ -62,6 +62,31 @@ const sections = [
       </div>
     )
   },
+    {
+    img: pressure,
+    imgAlt: "",
+    imgCols: "6",
+    content: (
+      <div>
+        <h2>Pressure Calibration</h2>
+        <p>
+          APS performs NIST traceable ISO 17025 pressure gauge calibrations in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration of pressure gauge turnaround. A sampling of gauges we regularly calibrate are digital pressure, analog pressure, differential, and test gages. We also calibrate pressure transducer, pressure transmitter, and pressure calibrator applications as well as other pressure applications using a digital pressure indicator, barometer, or pressure module.
+        </p>
+        <h3>Types of pressure calibrations:</h3>
+        <ul>
+          <li>Digital pressure gauge</li>
+          <li>Test gauge</li>
+          <li>Pressure Transducers</li>
+          <li>Digital Indicators</li>
+          <li>Pressure transmitters</li>
+          <li>Pressure calibrators</li>
+          <li>Analogue pressure gauge</li>
+          <li>Barometer calibration</li>
+          <li>Pressure transmitter calibration</li>
+        </ul>
+      </div>
+    )
+  },
   {
     img: "acousticFlow",
     imgAlt: "",
