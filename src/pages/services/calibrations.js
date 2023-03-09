@@ -239,8 +239,16 @@ const faqContent = [
     answer: "National Institute of Standards and Technology standard of cradle to grave historical recordkeeping on equipment."
   },
   {
-    question: "",
-    answer: ""
+    question: "Who is ANAB?",
+    answer: "The ANSI National Accreditation Board (ANAB) is a non-governmental organization that provides accreditation services and training to public- and private-sector organizations"
+  },
+    {
+    question: "What is IQ OQ PQ  validation?",
+    answer: "Installation Qualification, Operational Qualification, and Performance Qualificaton refers to establishing and documenting a process to test new instruments after initial installation in the conditions they operate in, and to the standards that they can be expected to perform too."
+  },
+  {
+    question: "Does APS provide calibrations near me?",
+    answer: "We provide on-site calibrations throughout the US and Canada as well as centralized instrument calibration through our facilities in Pleasanton, CA and St. Petersburg, FL."
   },
 ]
 
