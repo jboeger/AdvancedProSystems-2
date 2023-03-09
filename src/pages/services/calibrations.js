@@ -186,6 +186,26 @@ APS performs NIST traceable ISO 17025 optical calibration of sensors in analytic
       </div>
     )  
   },
+  {
+    img: pipette,
+    imgAlt: "Pipette. ",
+    imgCols: "6",
+    content: (
+      <div>
+      <h2>Pipette Calibration</h2>
+        <p>
+APS performs NIST traceable ISO 17025 pipette calibration services on all manor of pipettes whether they are a single channel pipette,  multichannel pipette, digital pipette, or repeat pipette. Manufacturers we calibrate regularly are Rainin, Eppendorf, Hamilton, Gilsons, Thermo Fisher Scientific, and Mettler-Toledo,. We can accommodate equipment overnighted into our laboratory for rapid calibration and instrument turnaround. Our pipette calibration services include the calibration of pipette controllers.
+      </p>
+        <h3>Types of pipette calibration services:</h3>
+        <ul>
+          <li>Pipette calibration service</li>
+          <li>Rainin pipette calibration</li>
+          <li>Eppendorf pipette calibration</li>
+          <li>Multichannel pipette calibration</li>
+        </ul>
+      </div>
+    )  
+  },
     {
     img: "",
     imgAlt: "",
