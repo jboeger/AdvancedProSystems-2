@@ -15,7 +15,7 @@ export function Footer(props) {
           </div>
           <div className="col-3">
             <p className="text-end">
-              Web by <a href="https://getleadsb2b.com">GLB2B</a>
+              Web by <a href="https://supercleanweb.com">Superclean</a>
             </p>
           </div>
         </div>
