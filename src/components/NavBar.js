@@ -31,7 +31,7 @@ export function NavBar(props) {
         </Link>
       </li>
       <li className="nav-item">
-        <Link to="/calibration-services" className="nav-link" activeClassName="active" aria-current="page">
+        <Link to="/services/calibration-services" className="nav-link" activeClassName="active" aria-current="page">
           Calibration 
         </Link>
       </li>
