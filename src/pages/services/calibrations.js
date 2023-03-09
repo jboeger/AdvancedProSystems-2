@@ -173,6 +173,19 @@ const sections = [
       </div>
     )  
   },
+            {
+    img: optical,
+    imgAlt: "Optical. ",
+    imgCols: "6",
+    content: (
+      <div>
+      <h2>Optical Calibration Services</h2>
+        <p>
+APS performs NIST traceable ISO 17025 optical calibration of sensors in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. We perform optical comparator calibration or calibration of the optical comparator calibration kit. We will provide optical level calibration, optical calibration,or optical calibration services in general.
+      </p>
+      </div>
+    )  
+  },
     {
     img: "",
     imgAlt: "",
