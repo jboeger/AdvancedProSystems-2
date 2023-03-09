@@ -20,7 +20,7 @@ export const padding = "40px";
 const metaData = {
   title: "Advanced Calibration Services | Flow, pressure, + more | APS",
   description: "APS performs NIST traceable calibrations in analytical and industrial applications, from flow / pressure to thermal, electrical, and balance calibrations.",
-  canonicalUrl: "",
+  canonicalUrl: "https://www.advancedprosystems.com/services/calibrations",
   img: "",
   imgAlt: "",
 }
