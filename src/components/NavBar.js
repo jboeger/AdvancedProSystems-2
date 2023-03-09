@@ -18,47 +18,51 @@ export function NavBar(props) {
   const open = () => setIsOpen(true);
   const close = () => setIsOpen(false);
 
+  const navPills = (className) => (
+    <ul className={className} >
+      <li className="nav-item">
+        <Link to="/" className="nav-link" activeClassName="active" aria-current="page">
+          Home
+        </Link>
+      </li>
+      <li className="nav-item">
+        <Link to="/services" className="nav-link" activeClassName="active" aria-current="page">
+          Services
+        </Link>
+      </li>
+      <li className="nav-item">
+        <Link to="/calibration-services" className="nav-link" activeClassName="active" aria-current="page">
+          Calibration 
+        </Link>
+      </li>
+      <li className="nav-item">
+        <Link to="/products" className="nav-link" activeClassName="active" aria-current="page">
+          Products
+        </Link>
+      </li>
+      <li className="nav-item">
+        <Link to="/about" className="nav-link" activeClassName="active" aria-current="page">
+          About
+        </Link>
+      </li>
+      <li
+        className="nav-item border border-3 border-primary ms-2"
+        style={{ borderRadius: "10px" }}
+      >
+        <Link to="/contact" className="nav-link" activeClassName="active" aria-current="page">
+          <strong>Contact</strong>
+        </Link>
+      </li>
+    </ul>
+  )
+
   const desktop = (
     <div className="container">
       <div className="d-flex flex-wrap justify-content-center align-items-center py-2">
         <Link to="/" className="d-flex align-items-center me-md-auto text-decoration-none">
           <img className="bi me-2" height="100px" src={logoImg} />
         </Link>
-        <ul className="nav nav-pills align-items-center">
-          <li className="nav-item">
-            <Link to="/" className="nav-link" activeClassName="active" aria-current="page">
-              Home
-            </Link>
-          </li>
-          <li className="nav-item">
-            <Link to="/services" className="nav-link" activeClassName="active" aria-current="page">
-              Services
-            </Link>
-          </li>
-          <li className="nav-item">
-            <Link to="/services/calibration-services" className="nav-link" activeClassName="active" aria-current="page">
-              Calibration 
-            </Link>
-          </li>
-          <li className="nav-item">
-            <Link to="/products" className="nav-link" activeClassName="active" aria-current="page">
-              Products
-            </Link>
-          </li>
-          <li className="nav-item">
-            <Link to="/about" className="nav-link" activeClassName="active" aria-current="page">
-              About
-            </Link>
-          </li>
-          <li
-            className="nav-item border border-3 border-primary ms-2"
-            style={{ borderRadius: "10px" }}
-          >
-            <Link to="/contact" className="nav-link" activeClassName="active" aria-current="page">
-              <strong>Contact</strong>
-            </Link>
-          </li>
-        </ul>
+        {navPills("nav nav-pills align-items-center")} 
       </div>
     </div>
   );
@@ -92,63 +96,7 @@ export function NavBar(props) {
               height="200px"
             >
               <div className="" style={{ height: "100%" }}>
-                <ul className="nav flex-column nav-pills">
-                  <li className={navItem}>
-                    <Link to="/" className="nav-link" activeClassName="active" aria-current="page">
-                      Home
-                    </Link>
-                  </li>
-                  <li className={navItem}>
-                    <Link
-                      to="/services"
-                      className="nav-link"
-                      activeClassName="active"
-                      aria-current="page"
-                    >
-                      Services
-                    </Link>
-                  </li>
-                  <li className={navItem}>
-                    <Link
-                      to="/calibration-services"
-                      className="nav-link"
-                      activeClassName="active"
-                      aria-current="page"
-                    >
-                      Calibration
-                    </Link>
-                  </li>
-                  <li className={navItem}>
-                    <Link
-                      to="/products"
-                      className="nav-link"
-                      activeClassName="active"
-                      aria-current="page"
-                    >
-                      Products
-                    </Link>
-                  </li>
-                  <li className={navItem}>
-                    <Link
-                      to="/about"
-                      className="nav-link"
-                      activeClassName="active"
-                      aria-current="page"
-                    >
-                      About
-                    </Link>
-                  </li>
-                  <li className={navItem}>
-                    <Link
-                      to="/contact"
-                      className="nav-link"
-                      activeClassName="active"
-                      aria-current="page"
-                    >
-                      <strong>Contact</strong>
-                    </Link>
-                  </li>
-                </ul>
+                {navPills("nav flex-column nav-pills")}
               </div>
             </OffCanvas>
           </li>
