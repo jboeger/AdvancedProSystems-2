@@ -151,6 +151,28 @@ const sections = [
       </div>
     )  
   },
+        {
+    img: dimensional,
+    imgAlt: "Close-up photo of a balancer. ",
+    imgCols: "6",
+    content: (
+      <div>
+      <h2>Dimensional Calibration</h2>
+        <p>
+      APS performs NIST traceable ISO 17025 dimensional calibration of sensors in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly we perform dimensional calibration on range from calipers to micrometers to all manner of precison gages. APS is often requested to perform dimensional calibration of vernier caliper, height gauge, digital micrometer, and other precision instruments. APS' calibration procedures for micrometers enable us to perform calibrations where there is no longer support by the OEM manufacturer and thereby extend the useful life. Once again, dimensional calibration is a common request where we expedite service. Several applications of dimensional calibrations involve our setting up an initial IQ OQ PQ process qualification and validation.
+       </p>
+        <h3>Types of physical / dimensional calibrations:</h3>
+        <ul>
+          <li>Calipers calibration</li>
+          <li>Micrometers calibration</li>
+          <li>Dial test indicators calibration</li>
+          <li>Height gages</li>
+          <li>Pin gages</li>
+          <li>Threaded plug gages</li>
+        </ul>
+      </div>
+    )  
+  },
     {
     img: "",
     imgAlt: "",
