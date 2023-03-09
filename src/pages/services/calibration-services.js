@@ -1,19 +1,19 @@
 import * as React from "react";
-import { Section } from "../components/Section";
-import { Layout } from "../components/Layout";
+import { Section } from "../../components/Section";
+import { Layout } from "../../components/Layout";
 // import { FAQAccordian } from "../components/homePage/FAQAccordian";
-import { FAQ } from "../components/homePage/FAQ";
+import { FAQ } from "../../components/homePage/FAQ";
 
 // image imports
-import heroHomeImg from "../images/hero-home-01a-big.jpg";
-import bioReactor from "../images/card2-lab-02.jpg";
-import pressure from "../images/Pressure.jpg";
-import acousticFlow from "../images/Acoustic_Flow.jpg";
-import electrical from "../images/Electrical.jpg";
-import balance from "../images/Balance.jpg";
-import dimensional from "../images/Dimensional.jpg";
-import optical from "../images/Optical.jpg";
-import pipette from "../images/Pipette.jpg";
+import heroHomeImg from "images/hero-home-01a-big.jpg";
+import bioReactor from "images/card2-lab-02.jpg";
+import pressure from "images/Pressure.jpg";
+import acousticFlow from "images/Acoustic_Flow.jpg";
+import electrical from "images/Electrical.jpg";
+import balance from "images/Balance.jpg";
+import dimensional from "images/Dimensional.jpg";
+import optical from "images/Optical.jpg";
+import pipette from "images/Pipette.jpg";
 
 export const padding = "40px";
 

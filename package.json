@@ -34,5 +34,8 @@
     "react-helmet": "^6.1.0",
     "react-textarea-autosize": "^8.3.3",
     "sass": "^1.39.0"
+  },
+  "devDependencies": {
+    "gatsby-plugin-root-import": "^2.0.9"
   }
 }

@@ -1,10 +1,10 @@
 import * as React from "react";
-import { Layout } from "../components/Layout";
-import { Hero } from "../components/homePage/Hero";
-import { Section } from "../components/Section";
-import heroImg from "../images/hero-home-01a-big.jpg";
-import padding from "./index";
-import imgSection2 from "../images/hero-lab-02.jpg";
+import { Layout } from "../../components/Layout";
+import { Hero } from "../../components/homePage/Hero";
+import { Section } from "../../components/Section";
+import heroImg from "src/images/hero-home-01a-big.jpg";
+import padding from "../index";
+import imgSection2 from "images/hero-lab-02.jpg";
 
 const metaData = {
   title: "Lab + Industrial | Biotech + Bioprocessing Services | Advanced Pro Systems",

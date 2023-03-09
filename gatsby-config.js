@@ -6,6 +6,7 @@ module.exports = {
   plugins: [
     "react",
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-root-import",
     {
       resolve: `gatsby-plugin-sass`,
       options: {
