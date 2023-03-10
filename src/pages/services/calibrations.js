@@ -14,6 +14,7 @@ import balance from "images/Balance.jpg";
 import dimensional from "images/Dimensional.jpg";
 import optical from "images/Optical.jpg";
 import pipette from "images/Pipette.jpg";
+import thermo from "images/Thermometer-Data-Logger.jpg";
 
 export const padding = "40px";
 
@@ -207,7 +208,7 @@ APS performs NIST traceable ISO 17025 pipette calibration services on all manor 
     )  
   },
   {
-    img: pipette,
+    img: thermo,
     imgAlt: "Pipette. ",
     imgCols: "6",
     content: (
