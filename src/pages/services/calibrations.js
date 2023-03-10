@@ -209,7 +209,7 @@ APS performs NIST traceable ISO 17025 pipette calibration services on all manor 
   },
   {
     img: thermo,
-    imgAlt: "Pipette. ",
+    imgAlt: "thermo. ",
     imgCols: "6",
     content: (
       <div>
