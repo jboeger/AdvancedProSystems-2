@@ -15,7 +15,7 @@ export const padding = "40px";
 const metaData = {
   title: "Advanced Pro Systems Corp | Complete Bioprocessing Service Solutions",
   description: "APS provides complete service solutions for your bioprocessing needs, whether upstream or downstream... lab scale, pilot plant, or industrial. Our focus is SERVICE and best optimizing your bioprocesses.",
-  canonicalUrl: "https://www.advancedprosystems.com/",
+  canonicalUrl: "https://www.advancedprosystems.com",
   img: "https://www.advancedprosystems.com/static/hero-home-01a-big-bcdf49ad1d926b6cb410bdf5b82ea7c3.jpg",
   imgAlt: "",
   imgWidth: "1840", 
