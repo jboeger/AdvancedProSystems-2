@@ -18,7 +18,6 @@ export function NavBar(props) {
   const open = () => setIsOpen(true);
   const close = () => setIsOpen(false);
 
-  const urls = ["/", "/services", "services/calibrations", "about"]
   const pages = [
     {
       name: "Home",
@@ -51,31 +50,6 @@ export function NavBar(props) {
           </Link>
         </li>
       ))}
-      {/* <li className="nav-item">
-        <Link to="/" className="nav-link" activeClassName="active" aria-current="page">
-          Home
-        </Link>
-      </li>
-      <li className="nav-item">
-        <Link to="/services" className="nav-link" activeClassName="active" aria-current="page">
-          Services
-        </Link>
-      </li>
-      <li className="nav-item">
-        <Link to="/services/calibrations" className="nav-link" activeClassName="active" aria-current="page">
-          Calibrations
-        </Link>
-      </li>
-      <li className="nav-item">
-        <Link to="/products" className="nav-link" activeClassName="active" aria-current="page">
-          Products
-        </Link>
-      </li>
-      <li className="nav-item">
-        <Link to="/about" className="nav-link" activeClassName="active" aria-current="page">
-          About
-        </Link>
-      </li> */}
       <li
         className="nav-item border border-3 border-primary ms-2"
         style={{ borderRadius: "10px" }}
@@ -138,6 +112,5 @@ export function NavBar(props) {
 
   return (
     <section style={{ background: props.bgColor }}>{width < breakpoint ? mobile : desktop}</section>
-    // <section style={{ background: props.bgColor }}>{desktop}</section>
   );
 }
