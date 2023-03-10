@@ -36,14 +36,14 @@ const content = {
         <li>Drying</li>
       </ul>
       <h3><a href="https://www.advancedprosystems.com/services/calibrations">Advanced Calibration Services</a></h3>
-      <ul>
-        <li>Temperature</li>
+      <ul>  
         <li>Pressure</li>
         <li>Flow</li>
-        <li>Mass</li>
+        <li>Electrical</li>
         <li>Optical</li>
-        <li>Volumetric</li>
+        <li>Mechanical and Balance</li>
         <li>Dimensional</li>
+        <li>Pipette</li>
       </ul>
       <h3>NIST traceable “cradle to grave” calibration</h3>
       <ul>
