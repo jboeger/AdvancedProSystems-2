@@ -14,7 +14,7 @@ import balance from "images/Balance.jpg";
 import dimensional from "images/Dimensional.jpg";
 import optical from "images/Optical.jpg";
 import pipette from "images/Pipette.jpg";
-import thermometer from "images/thermometer-data-logger-1.jpg";
+import thermometer from "images/thermometer-data-logger-1.png";
 
 export const padding = "40px";
 
