@@ -20,7 +20,7 @@ const metaData = {
 const content = {
   section1: (
     <div>
-      <h2>APS helps optimize your bioprocesses in the laboratory and in the plant</h2>
+      <h2>APS helps optimize your bioprocesses in the laboratory and in the plant.</h2>
       <p>
         APS was founded in 2017 with 35+ years experience providing installation, calibration, and integration services.
       </p>
