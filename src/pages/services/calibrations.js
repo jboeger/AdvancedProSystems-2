@@ -1,8 +1,9 @@
 import * as React from "react";
-import { Section } from "../../components/Section";
-import { Layout } from "../../components/Layout";
+import { Section } from "components/Section";
+import { SectionChain } from "components/SectionChain";
+import { Layout } from "components/Layout";
 // import { FAQAccordian } from "../components/homePage/FAQAccordian";
-import { FAQ } from "../../components/homePage/FAQ";
+import { FAQ } from "components/homePage/FAQ";
 
 // image imports
 import heroHomeImg from "images/hero-home-01a-big.jpg";
@@ -258,18 +259,7 @@ const CalibrationsPage = () => {
       metaData={metaData}
       footerBgColor="rgb(255,255,255,.2)"
     >
-      {sections.map((sectionProps, idx) => { 
-        let imgSide, bgColor;
-        if (idx % 2 == 0) {
-          imgSide = "right";
-          bgColor = "rgb(255,255,255,0)"
-        }
-        else {
-          imgSide = "left";
-          bgColor = "rgb(255,255,255,0.3)"
-        }
-        return <Section key={idx} imgSide={imgSide} bgColor={bgColor} {...sectionProps} />
-      })}
+      <SectionChain content={sections}/>
       <FAQ title="Calibrations FAQs - Frequently Asked Questions" content={faqContent} />
     </Layout>
   );
