@@ -20,7 +20,7 @@ const metaData = {
 const content = {
   section1: (
     <div>
-      <h2>Process Consulting and Calibration</h2>
+      <h2>Process Consulting and Calibration.</h2>
       <h3>Upstream Process Consulting</h3>
       <ul>
         <li>Bioreactor specification</li>
