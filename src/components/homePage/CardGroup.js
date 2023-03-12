@@ -22,6 +22,7 @@ export function CardGroup(props) {
               img={card.img}
               imgAlt={card.imgAlt}
               imgHeight={props.imgHeight}
+              link={card.link}
               noButton
             />
           </div>
@@ -41,6 +42,7 @@ export function CardGroup(props) {
               img={card.img}
               imgAlt={card.imgAlt}
               imgHeight={props.imgHeight}
+              link={card.link}
               noButton
             />
           </div>

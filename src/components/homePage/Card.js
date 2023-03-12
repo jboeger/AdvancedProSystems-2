@@ -6,10 +6,11 @@ const bootstrap =
 export function Card(props) {
   return (
     <a href={props.link}>
+    {/* // <a href="/services" > */}
       <div className="card border-0 " style={{ background: "", cursor: "pointer"}} >
         <img
           src={props.img}
-          alt="yo"
+          alt={props.alt}
           className="card-img-top"
           style={{ objectFit: "cover", height: props.imgHeight }}
         />

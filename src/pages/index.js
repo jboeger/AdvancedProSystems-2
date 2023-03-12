@@ -23,6 +23,30 @@ const metaData = {
   imgType: "image/jpg"
 }
 
+const cards = [
+  {
+    title: "Process Consulting and Calibration",
+    body: "",
+    img: card1Img,
+    imgAlt: "",
+    link: "/services/calibrations"
+  },
+  {
+    title: "Laboratory, Industrial Service Plans",
+    body: "",
+    img: card2Img,
+    imgAlt: "",
+    link: ""
+  },
+  {
+    title: "Biotech Equipment and Parts",
+    body: "",
+    img: card3Img,
+    imgAlt: "",
+    link: ""
+  }
+];
+
 const credentialCards = [
   {
     title: "cGMP trained and fully qualified.",
@@ -39,27 +63,6 @@ const credentialCards = [
   {
     title: "Validations: IOPQ Install, Operate & Process Qualify",
     text: "Temp mapping, autoclaves, incubators, cold rooms."
-  }
-]
-
-const cards = [
-  {
-    title: "Process Consulting and Calibration",
-    body: "",
-    img: card1Img,
-    imgAlt: ""
-  },
-  {
-    title: "Laboratory, Industrial Service Plans",
-    body: "",
-    img: card2Img,
-    imgAlt: ""
-  },
-  {
-    title: "Biotech Equipment and Parts",
-    body: "",
-    img: card3Img,
-    imgAlt: ""
   }
 ];
 
