@@ -96,7 +96,6 @@ const sections = [
           <li>Gas Flow Meter</li>
           <li>Mass Flow Controllers</li>
           <li>Liquid Flow Meter</li>
-          <li>Optical Flow Sensor</li>
           <li>Volumetric Flow Meter</li>
           <li>PIn-Line Flow Meter</li>
         </ul>
@@ -113,7 +112,7 @@ const sections = [
         <p>
           APS performs NIST traceable ISO 17025 electrical meter calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration for electrical instrument turnaround. A sampling of electrical instrument calibration we regularly perform are multimeter, barometer, power analyzer, megohmmeter, clamp meter, and data logger. We perform electrical calibrations for many manufacturers of insulation tester, hipot tester (high potential tester), loop tester, and multifunction tester.
       </p>
-        <h3>Types of flow sensor calibrations:</h3>
+        <h3>Types of electrical calibrations:</h3>
         <ul>
           <li>Barometers</li>
           <li>Multimeters</li>
@@ -139,7 +138,7 @@ const sections = [
         <p>
           APS performs NIST traceable ISO 17025 sensor calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate are digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. Torque wrench calibration is a common request where we expedite service. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process qualification and validation.
        </p>
-        <h3>Types of flow sensor calibrations:</h3>
+        <h3>Types of mechanical and balance calibrations:</h3>
         <ul>
           <li>Load Cell Sensor Calibration</li>
           <li>Vernier Calipers</li>
