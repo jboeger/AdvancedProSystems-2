@@ -36,14 +36,14 @@ const cards = [
     body: "",
     img: card2Img,
     imgAlt: "",
-    link: ""
+    link: "/services"
   },
   {
     title: "Biotech Equipment and Parts",
     body: "",
     img: card3Img,
     imgAlt: "",
-    link: ""
+    link: "/products"
   }
 ];
 
