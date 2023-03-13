@@ -41,7 +41,7 @@ const metaData = {
 const sections = [
   {
     img: bioReactor,
-    imgAlt: "Close-up photo of lab technician working with a bioreactor. ",
+    imgAlt: "Close-up photo of lab technician working with a calibrated bioreactor. ",
     imgCols: "6",
     content: (
       <div>
@@ -104,7 +104,7 @@ const sections = [
   },
   {
     img: electrical,
-    imgAlt: "Photo of a an electical multimeter.",
+    imgAlt: "Photo of a an electical multimeter used in electrical calibration.",
     imgCols: "6",
     content: (
       <div>
@@ -130,7 +130,7 @@ const sections = [
   },
     {
     img: balance,
-    imgAlt: "Close-up photo of a balancer. ",
+    imgAlt: "Close-up photo of a perfectly balanced weight. ",
     imgCols: "6",
     content: (
       <div>
@@ -154,7 +154,7 @@ const sections = [
   },
         {
     img: dimensional,
-    imgAlt: "Close-up photo of a balancer. ",
+    imgAlt: "Close-up photo of calipers getting perfectly calibrated in the laboratory. ",
     imgCols: "6",
     content: (
       <div>
@@ -175,7 +175,7 @@ APS performs NIST traceable ISO 17025 dimensional calibration of sensors in anal
   },
             {
     img: optical,
-    imgAlt: "Optical. ",
+    imgAlt: "Photo of optical connectors that need calibration. ",
     imgCols: "6",
     content: (
       <div>
@@ -188,7 +188,7 @@ APS performs NIST traceable ISO 17025 optical calibration of sensors in analytic
   },
   {
     img: pipette,
-    imgAlt: "Pipette. ",
+    imgAlt: "Photo of a pipette getting dipped into a test tube. ",
     imgCols: "6",
     content: (
       <div>
@@ -208,7 +208,7 @@ APS performs NIST traceable ISO 17025 pipette calibration services on all manor 
   },
   {
     img: thermometer,
-    imgAlt: "thermo. ",
+    imgAlt: "Photo of a thermometer data logger. ",
     imgCols: "6",
     content: (
       <div>
