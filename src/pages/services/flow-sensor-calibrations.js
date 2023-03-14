@@ -7,15 +7,15 @@ import { FAQ } from "components/homePage/FAQ";
 
 // image imports
 import heroHomeImg from "images/hero-home-01a-big.jpg";
-import bioReactor from "images/card2-lab-02.jpg";
-import pressure from "images/Pressure.jpg";
-import acousticFlow from "images/Acoustic_Flow.jpg";
-import electrical from "images/Electrical.jpg";
-import balance from "images/Balance.jpg";
-import dimensional from "images/Dimensional.jpg";
-import optical from "images/Optical.jpg";
-import pipette from "images/Pipette.jpg";
-import thermometer from "images/thermometer-data-logger-1.png";
+import acousticflow from "images/acoustic-flow.jpg";
+import gasflowcontrol from "images/gas-flow-control.jpg";
+import liquidflowmeter from "images/liquid-flow-meter.jpg";
+import massflow from "images/mass-flow.jpg";
+import opticalflow from "images/optical-flow.jpg";
+import sonocheckbubblesensor from "images/sono-check-bubble-sensor2.jpg";
+import sonocontrol from "images/Sono-control-level-sensor.jpg";
+import sonoinline from "images/sono-inline-flow.jpg";
+import volumetric from "images/volumetric.png";
 
 export const padding = "40px";
 
@@ -40,7 +40,7 @@ const metaData = {
 
 const sections = [
   {
-    img: bioReactor,
+    img: sonocheckbubblesensor,
     imgAlt: "Close-up photo of lab technician working with a calibrated bioreactor. ",
     imgCols: "6",
     content: (
@@ -53,7 +53,7 @@ const sections = [
     )
   },
     {
-    img: pressure,
+    img: gasflowcontrol,
     imgAlt: "Close-up photo of two pressure guages. ",
     imgCols: "6",
     content: (
