@@ -58,21 +58,21 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Pressure Calibration</h2>
+        <h2>Gas Flow Meters and Sensors</h2>
         <p>
-          APS performs NIST traceable ISO 17025 pressure gauge calibrations in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration of pressure gauge turnaround. A sampling of gauges we regularly calibrate are digital pressure, analog pressure, differential, and test gages. We also calibrate pressure transducer, pressure transmitter, and pressure calibrator applications as well as other pressure applications using a digital pressure indicator, barometer, or pressure module.
+          APS performs gas flow sensor calibrations whether the measurement system is based on a single fundamental parameter or a very complicated process. The gas flow meter used for measurement depends on the technology used.
         </p>
-        <h3>Types of pressure calibrations:</h3>
+        <h3>Gas flow and liquid flow metering technology types:</h3>
+        <p>There are 8 commonly used technologies in gas flow and liquid flow measurement. They are:</p>
         <ul>
-          <li>Digital pressure gauge</li>
-          <li>Test gauge</li>
-          <li>Pressure Transducers</li>
-          <li>Digital Indicators</li>
-          <li>Pressure transmitters</li>
-          <li>Pressure calibrators</li>
-          <li>Analogue pressure gauge</li>
-          <li>Barometer calibration</li>
-          <li>Pressure transmitter calibration</li>
+          <li>Electromagnetic</li>
+          <li>Vortex time</li>
+          <li>Paddle wheel</li>
+          <li>Thermal dispersion</li>
+          <li>Floating element</li>
+          <li>Ultrasonic</li>
+          <li>Differential pressure</li>
+          <li>Coriolis</li>
         </ul>
       </div>
     )
