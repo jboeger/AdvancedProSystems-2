@@ -6,16 +6,16 @@ import { Layout } from "components/Layout";
 import { FAQ } from "components/homePage/FAQ";
 
 // image imports
-import heroHomeImg from "../../images/hero-home-01a-big.jpg";
-import acousticflow from "../../images/acoustic-flow.jpg";
-import gasflowcontrol from "../../images/gas-flow-control.jpg";
-import liquidflowmeter from "../../images/liquid-flow-meter.jpg";
-import massflow from "../../images/mass-flow.jpg";
-import opticalflow from "../../images/optical-flow.jpg";
-import sonocheckbubblesensor from "../../images/sono-check-bubble-sensor2.jpg";
-import sonocontrol from "../../images/Sono-control-level-sensor.jpg";
-import sonoinline from "../../images/sono-inline-flow.jpg";
-import volumetric from "../../images/volumetric.jpg";
+import heroHomeImg from "../../../images/hero-home-01a-big.jpg";
+import acousticflow from "../../../images/acoustic-flow.jpg";
+import gasflowcontrol from "../../../images/gas-flow-control.jpg";
+import liquidflowmeter from "../../../images/liquid-flow-meter.jpg";
+import massflow from "../../../images/mass-flow.jpg";
+import opticalflow from "../../../images/optical-flow.jpg";
+import sonocheckbubblesensor from "../../../images/sono-check-bubble-sensor2.jpg";
+import sonocontrol from "../../../images/Sono-control-level-sensor.jpg";
+import sonoinline from "../../../images/sono-inline-flow.jpg";
+import volumetric from "../../../images/volumetric.jpg";
 
 export const padding = "40px";
 
