@@ -20,7 +20,7 @@ import thermometer from "images/thermometer-data-logger-1.png";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Calibration Services | Flow, pressure, + more | APS",
+  title: "Advanced Calibration Services | Flow, gas, pressure, + more",
   description: "APS performs NIST traceable calibrations in analytical and industrial applications, from flow / pressure to thermal, electrical, and balance calibrations.",
   canonicalUrl: "https://www.advancedprosystems.com/services/calibrations",
   img: "",
