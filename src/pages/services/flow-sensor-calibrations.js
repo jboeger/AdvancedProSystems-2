@@ -14,7 +14,6 @@ import massflow from "images/mass-flow.jpg";
 import opticalflow from "images/optical-flow.jpg";
 import sonocheckbubblesensor from "images/sono-check-bubble-sensor2.jpg";
 import sonocontrol from "images/Sono-control-level-sensor.jpg";
-import sonoflowinline from "images/sonoflow-inline-flow.jpg";
 import volumetric from "images/volumetric.jpg";
 
 export const padding = "40px";
@@ -149,7 +148,7 @@ const sections = [
     )  
   },
         {
-    img: sonoflowinline,
+    img: sonocontrol,
     imgAlt: "Close-up photo of calipers getting perfectly calibrated in the laboratory. ",
     imgCols: "6",
     content: (
