@@ -78,12 +78,12 @@ const sections = [
     )
   },
   {
-    img: acousticFlow,
+    img: liquidflowmeter,
     imgAlt: "Photo of a non-invasive flow meter. ",
     imgCols: "6",
     content: (
       <div>
-        <h2>Flow Sensor Calibration</h2>
+        <h2>Mass Flow Meter Calibrations</h2>
         <p>
           APS performs NIST traceable ISO 17025 flow sensor calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration of flow meter turnaround. A sampling of flow sensors we regularly calibrate are liquid flow, gas flow and mass flow meters using in-line flow, volumetric flow or optical flow technology. We also calibrate mass flow controllers and other non-invasive flow measurement equipment.
         </p>
@@ -99,12 +99,12 @@ const sections = [
     )
   },
   {
-    img: electrical,
+    img: massflow,
     imgAlt: "Photo of a an electical multimeter used in electrical calibration.",
     imgCols: "6",
     content: (
       <div>
-      <h2>Electrical Calibration</h2>
+      <h2>Mass Flow Meter Calibrations</h2>
         <p>
           APS performs NIST traceable ISO 17025 electrical meter calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration for electrical instrument turnaround. A sampling of electrical instrument calibration we regularly perform are multimeter, barometer, power analyzer, megohmmeter, clamp meter, and data logger. We perform electrical calibrations for many manufacturers of insulation tester, hipot tester (high potential tester), loop tester, and multifunction tester.
       </p>
@@ -125,12 +125,12 @@ const sections = [
     )  
   },
     {
-    img: balance,
+    img: volumetric,
     imgAlt: "Close-up photo of a perfectly balanced weight. ",
     imgCols: "6",
     content: (
       <div>
-      <h2>Mechanical and Balance Calibration</h2>
+      <h2>Volumetric Flow Meter Calibration</h2>
         <p>
           APS performs NIST traceable ISO 17025 sensor calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate are digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. Torque wrench calibration is a common request where we expedite service. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process qualification and validation.
        </p>
@@ -149,12 +149,12 @@ const sections = [
     )  
   },
         {
-    img: dimensional,
+    img: sonoinline,
     imgAlt: "Close-up photo of calipers getting perfectly calibrated in the laboratory. ",
     imgCols: "6",
     content: (
       <div>
-      <h2>Dimensional Calibration</h2>
+      <h2>In-Line Flow Meters</h2>
         <p>
 APS performs NIST traceable ISO 17025 dimensional calibration of sensors in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly we perform dimensional calibration on range from calipers to micrometers to all manner of precison gages. APS is often requested to perform dimensional calibration of vernier caliper, height gauge, digital micrometer, and other precision instruments. APS' calibration procedures for micrometers enable us to perform calibrations where there is no longer support by the OEM manufacturer and thereby extend the useful life. Once again, dimensional calibration is a common request where we expedite service. Several applications of dimensional calibrations involve our setting up an initial IQ OQ PQ process qualification and validation.       </p>
         <h3>Types of physical / dimensional calibrations:</h3>
@@ -170,12 +170,12 @@ APS performs NIST traceable ISO 17025 dimensional calibration of sensors in anal
     )  
   },
             {
-    img: optical,
+    img: sonocontrol,
     imgAlt: "Photo of optical connectors that need calibration. ",
     imgCols: "6",
     content: (
       <div>
-      <h2>Optical Calibration Services</h2>
+      <h2>Acoustic Flow Sensor - inline or non-invasive</h2>
         <p>
 APS performs NIST traceable ISO 17025 optical calibration of sensors in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. We perform optical comparator calibration or calibration of the optical comparator calibration kit. We will provide optical level calibration, optical calibration,or optical calibration services in general.
       </p>
@@ -183,12 +183,12 @@ APS performs NIST traceable ISO 17025 optical calibration of sensors in analytic
     )  
   },
   {
-    img: pipette,
+    img: opticalflow,
     imgAlt: "Photo of a pipette getting dipped into a test tube. ",
     imgCols: "6",
     content: (
       <div>
-      <h2>Pipette Calibration</h2>
+      <h2>Optical Flow Sensor - inline or non-invasive</h2>
         <p>
 APS performs NIST traceable ISO 17025 pipette calibration services on all manor of pipettes whether they are a single channel pipette,  multichannel pipette, digital pipette, or repeat pipette. Manufacturers we calibrate regularly are Rainin, Eppendorf, Hamilton, Gilsons, Thermo Fisher Scientific, and Mettler-Toledo,. We can accommodate equipment overnighted into our laboratory for rapid calibration and instrument turnaround. Our pipette calibration services include the calibration of pipette controllers.
       </p>
@@ -198,28 +198,6 @@ APS performs NIST traceable ISO 17025 pipette calibration services on all manor 
           <li>Rainin pipette calibration</li>
           <li>Eppendorf pipette calibration</li>
           <li>Multichannel pipette calibration</li>
-        </ul>
-      </div>
-    )  
-  },
-  {
-    img: thermometer,
-    imgAlt: "Photo of a thermometer data logger. ",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>Thermometer Calibration</h2>
-        <p>
-APS performs NIST traceable ISO 17025 thermometer calibration in analytical laboratory and in industrial process applications. We can quickly accommodate equipment overnighted into our laboratory for rapid calibration and instrument turnaround. We perform thermometer calibration on a range of applicatons that also include humidity calibration. Many of these applications include datalogger calibration that includes the thermometer calibration. Several applications of thermometer calibration and humidity calibration require us to set up an initial IQ OQ PQ process qualification and validation.
-      </p>
-        <h3>Types of thermometer calibration:</h3>
-        <ul>
-          <li>Thermometer / temperature probe / thermocouple calibration</li>
-          <li>Humidity sensor calibration</li>
-          <li>Infrared thermometer calibration</li>
-          <li>Data logger calibration certificate</li>
-          <li>Thermometer calibration log</li>
-          <li>Thermal mass flow calibration</li>
         </ul>
       </div>
     )  
