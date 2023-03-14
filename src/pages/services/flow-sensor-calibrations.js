@@ -14,7 +14,7 @@ import massflow from "images/mass-flow.jpg";
 import opticalflow from "images/optical-flow.jpg";
 import sonocheckbubblesensor from "images/sono-check-bubble-sensor2.jpg";
 import sonocontrol from "images/Sono-control-level-sensor.jpg";
-import sonoinline from "images/sonoflow-inline-flow.jpg";
+import sonoflowinline from "images/sonoflow-inline-flow.jpg";
 import volumetric from "images/volumetric.jpg";
 
 export const padding = "40px";
@@ -149,7 +149,7 @@ const sections = [
     )  
   },
         {
-    img: sonoinline,
+    img: sonoflowinline,
     imgAlt: "Close-up photo of calipers getting perfectly calibrated in the laboratory. ",
     imgCols: "6",
     content: (
@@ -169,15 +169,15 @@ APS performs NIST traceable ISO 17025 dimensional calibration of sensors in anal
       </div>
     )  
   },
-            {
+  {
     img: sonocontrol,
-    imgAlt: "Photo of optical connectors that need calibration. ",
+    imgAlt: "Sonoflow control. ",
     imgCols: "6",
     content: (
       <div>
       <h2>Acoustic Flow Sensor - inline or non-invasive</h2>
         <p>
-APS performs NIST traceable ISO 17025 optical calibration of sensors in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. We perform optical comparator calibration or calibration of the optical comparator calibration kit. We will provide optical level calibration, optical calibration,or optical calibration services in general.
+APS performs acoustic flow meter calibration that incorporates the geometric calibration of the tube or pipe the liquid passes through. APS performs acoustic flow sensor calibration on flow meters, bubble sensors, and level sensors using this technology. Inline or non-invasive available.
       </p>
       </div>
     )  
