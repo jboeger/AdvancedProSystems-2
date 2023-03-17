@@ -127,13 +127,6 @@ const sections = [
         <p>
           APS performs mass flow meter calibrations to the finest of tolerances in gas measurement. Because the mass flow controller is a specific inline device it is critical that is regularly maintained and calibrated in laboratories or production settings. The mass flow sensor requires calibration for both it’s measurement and control functions all the while tight thermal/pressure control is maintained for consistent volumetric metering.
       </p>
-        <h3>Leading brands of mass flow meters that we calibrate and service:</h3>
-        <ul>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
-        </ul>
       </div>
     )  
   },
@@ -147,13 +140,6 @@ const sections = [
         <p>
           APS performs NIST traceable ISO 17025 sensor calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate are digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. Torque wrench calibration is a common request where we expedite service. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process qualification and validation.
        </p>
-        <h3>Leading brands of volumetric flow meters that we calibrate and service:</h3>
-        <ul>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
-        </ul>
       </div>
     )  
   },
@@ -167,13 +153,6 @@ const sections = [
         <p>
 APS works with NIST traceable ISO 17025 in-line flow meter calibration in analytical laboratory and in industrial process applications. These meters work on a variety of physical properties that include acoustic, optical, volumetric, or gravimetric methods.
         </p>
-        <h3>Leading brands of in-line flow meters that we calibrate and service:</h3>
-        <ul>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
-        </ul>
       </div>
     )  
   },
@@ -200,13 +179,6 @@ APS performs acoustic flow meter calibration that incorporates the geometric cal
         <p>
 APS performs NIST traceable ISO 17025 optical flow sensor calibration in analytical laboratory and in industrial process applications. APS calibrates these sensors whether the optical flow meter measures through optical fiber interferometry, optical hot-wire anemometry, or scintillation. Inline or non-invasive available.
       </p>
-        <h3>Leading brands of optical flow sensors that we calibrate and service:</h3>
-        <ul>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
-        </ul>
       </div>
     )  
   }
