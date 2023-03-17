@@ -155,8 +155,8 @@ const sections = [
     )  
   },
         {
-    img: sonocontrol,
-    imgAlt: "New alt text coming soon. ",
+    img: sonoinline,
+    imgAlt: "Sonotec in-line flow meter calibration. ",
     imgCols: "6",
     content: (
       <div>
