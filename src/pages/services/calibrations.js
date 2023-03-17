@@ -99,7 +99,7 @@ const sections = [
           <li>Volumetric Flow Meter</li>
           <li>Pin-Line Flow Meter</li>
         </ul>
-      <p><a href="flow-sensor-calibrations" title="Flow Sensor Calibrations">More information about flow sensor calibrations</a>.
+      <p><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations" title="Flow Sensor Calibrations">More information about flow sensor calibrations</a>.
       </p>
       </div>
     )
