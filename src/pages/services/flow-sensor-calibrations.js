@@ -105,11 +105,14 @@ const sections = [
         </p>
         <h3>Leading liquid flow meter brands that we calibrate and service:</h3>
         <ul>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
+          <li>Hoffer flow controls</li>
+          <li>Sonotec / Gems Sensors</li>
+          <li>TSI Calibration</li>
+          <li>Omega thermocouple calibration</li>
+          <li>Honeywell calibration</li>
+          <li>Micro Motion flow meter calibration</li>
+          <li>Rosemount transmitter calibration</li>
+          <li>Agilent calibration</li>
         </ul>
       </div>
     )
