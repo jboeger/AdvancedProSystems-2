@@ -15,6 +15,7 @@ import opticalflow from "images/optical-flow.jpg";
 import sonocheckbubblesensor from "images/sono-check-bubble-sensor2.jpg";
 import sonocontrol from "images/Sono-control-level-sensor.jpg";
 import volumetric from "images/volumetric.jpg";
+import sonoinline from "images/SONOFLOW_InlineFlow.jpg";
 
 export const padding = "40px";
 
