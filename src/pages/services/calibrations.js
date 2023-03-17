@@ -97,8 +97,10 @@ const sections = [
           <li>Mass Flow Controllers</li>
           <li>Liquid Flow Meter</li>
           <li>Volumetric Flow Meter</li>
-          <li>PIn-Line Flow Meter</li>
+          <li>Pin-Line Flow Meter</li>
         </ul>
+      <p><a href="flow-sensor-calibrations" title="Flow Sensor Calibrations">More information about flow sensor calibrations</a>.
+      </p>
       </div>
     )
   },
