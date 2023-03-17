@@ -71,7 +71,23 @@ const sections = [
           <li>Floating element</li>
           <li>Ultrasonic</li>
           <li>Differential pressure</li>
+          <li>Peristaltic pump calibration</li>
           <li>Coriolis</li>
+        </ul>
+        <h3>Leading brands and common equipment calibrated and serviced</h3>
+        <p>Advanced Calibrations Services include the following:</p>
+        <ul>
+          <li>BlueSens</li>
+          <li>BW Technologies - gas calibration</li>
+          <li>Draeger calibration</li>
+          <li>Mettler-Toledo scale</li>
+          <li>MSA - gas calibration</li>
+          <li>Omega thermocouple calibration</li>
+          <li>RKI Instruments</li>
+          <li>Rosemount transmitter calibration</li>
+          <li>Sartorius balance calibration</li>
+          <li>Siemens calibrations</li>
+          <li>Yokogawa flow meter calibration</li>
         </ul>
       </div>
     )
