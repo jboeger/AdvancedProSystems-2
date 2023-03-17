@@ -94,10 +94,10 @@ const ServicesPage = () => {
             </ul>
           </div>
           <div className="col-sm-4">
-            <h3><a href="https://www.advancedprosystems.com/services/calibrations">Advanced Calibration Services</a> </h3>
+            <h3><a href="https://www.advancedprosystems.com/services/calibrations">Advanced Calibration Services</a></h3>
             <ul>
               <li>Pressure</li>
-              <li>Flow</li>
+              <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations" title="Flow Sensor Calibrations">Flow</a></li>
               <li>Electrical</li>
               <li>Optical</li>
               <li>Mechanical and Balance</li>
