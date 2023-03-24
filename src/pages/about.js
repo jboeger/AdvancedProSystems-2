@@ -26,7 +26,7 @@ const content = {
       </p>
       <p>
         Our systems are designed for scalability across platforms to optimize and control our customers’ bio processes. 
-        Through our expertise in instrumentation, calibration and maintenance, we design, build, integrate, and modify systems that get you results quickly while effectively maintaining and managing with predictable expenditures and budget. 
+        Through our expertise in instrumentation, <a href="https://www.advancedprosystems.com/services/calibrations">calibration</a> and maintenance, we design, build, integrate, and modify systems that get you results quickly while effectively maintaining and managing with predictable expenditures and budget. 
         Customers rely on us to help keep their laboratory assets productive and rapidly scale their processes. 
         We do this by providing expertise in the design and optimization of your upstream and downstream processes, and then specifying the components and equipment that best help you achieve those goals.
       </p>
