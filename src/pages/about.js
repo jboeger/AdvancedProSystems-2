@@ -33,18 +33,15 @@ const content = {
       <p>
         We do this in partnership with leaders in laboratory and industrial bioprocess instruments, sensors, software, and equipment.
       </p>
-    <p>
-    <h3>APS - West Coast
-    6920 Koll Center Parkway<br />
+  
+    <h3>APS - West Coast</h3>
+    <p>6920 Koll Center Parkway<br />
     Suite 223<br />
     Pleasanton, CA 94566</p>
-    <p></p>
-    <p>
     <h3>APS - East Coast</h3>
-    654 Northmoor Ave. N<br />
-    St. Petersburg, FL 33702
-    </p>
-    <p>We also provide services in the field across the U.S.A.</p>
+    <p>654 Northmoor Ave. N<br />
+    St. Petersburg, FL 33702<br /><br />
+    We also provide services in the field across the U.S.A.</p>
     </div>
   )
 };
