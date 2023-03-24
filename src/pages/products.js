@@ -24,16 +24,16 @@ const content = {
             <div className="p-4">
                 <h3><a href="https://www.sonotecusa.com/">Sonotec</a></h3>
                 <ul>
-                    <li>Non-Invasive Flowmeters sized from 0 mL/min to 140,000 mL/min.</li>
-                    <li>Closed loop Flow Controllers</li>
-                    <li>Complete NIST traceable calibrations on Flow, Bubble and Level Sensors</li>
-                    <li>ISO/IEC 17025:2017 Compliant</li>
+                    <li>Non-invasive flow meters sized from 0 mL/min to 140,000 mL/min.</li>
+                    <li>Closed loop flow controllers</li>
+                    <li>Complete NIST traceable calibrations on flow, bubble and level sensors</li>
+                    <li>ISO/IEC 17025:2017 compliant</li>
                 </ul>
                 <h3><a href="https://www.bluesens.com/us/">BlueSens</a></h3>
                 <ul>
-                    <li>Full range of services on Gas Analyzers</li>
-                    <li>Complete NIST traceable calibrations on Gas Analyzers</li>
-                    <li>ISO/IEC 17025:2017 Compliant</li>
+                    <li>Full range of services on gas analyzers</li>
+                    <li>Complete NIST traceable <a href="https://www.advancedprosystems.com/services/calibrations">calibrations</a> on gas analyzers</li>
+                    <li>ISO/IEC 17025:2017 compliant</li>
                 </ul>
                 <h3><a href="https://hamiltoncompany.com/">Hamilton Instruments</a></h3>
                 <ul>
