@@ -162,7 +162,7 @@ const sections = [
       <div>
       <h2>Dimensional Calibration</h2>
         <p>
-APS performs NIST traceable ISO 17025 dimensional calibration of sensors in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly we perform dimensional calibration on range from calipers to micrometers to all manner of precison gages. APS is often requested to perform dimensional calibration of vernier caliper, height gauge, digital micrometer, and other precision instruments. APS' calibration procedures for micrometers enable us to perform calibrations where there is no longer support by the OEM manufacturer and thereby extend the useful life. Once again, dimensional calibration is a common request where we expedite service. Several applications of dimensional calibrations involve our setting up an initial IQ OQ PQ process qualification and validation.       </p>
+APS performs NIST traceable ISO 17025 dimensional calibration of sensors in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly we perform dimensional calibration on range from calipers to micrometers to all manner of precison gages. APS is often requested to perform dimensional calibration of vernier caliper, height gauge, digital micrometer, and other precision instruments. APS calibration procedures for micrometers enable us to perform calibrations where there is no longer support by the OEM manufacturer and thereby extend the useful life. Once again, dimensional calibration is a common request where we expedite service. </p>
         <h3>Types of physical / dimensional calibrations:</h3>
         <ul>
           <li>Calipers calibration</li>
@@ -196,11 +196,12 @@ APS performs NIST traceable ISO 17025 optical calibration of sensors in analytic
       <div>
       <h2>Pipette Calibration</h2>
         <p>
-APS performs NIST traceable ISO 17025 pipette calibration services on all manor of pipettes whether they are a single channel pipette,  multichannel pipette, digital pipette, or repeat pipette. Manufacturers we calibrate regularly are Rainin, Eppendorf, Hamilton, Gilsons, Thermo Fisher Scientific, and Mettler-Toledo,. We can accommodate equipment overnighted into our laboratory for rapid calibration and instrument turnaround. Our pipette calibration services include the calibration of pipette controllers.
+APS performs NIST traceable ISO 17025 pipette calibration services on all manor of pipettes whether they are a single channel pipette,  multichannel pipette, digital pipette, or repeat pipette. Manufacturers we calibrate regularly are Rainin, Eppendorf, Hamilton, Gilsons, Thermo Fisher Scientific, and Mettler-Toledo,. We can accommodate equipment overnighted into our laboratory for rapid calibration and instrument turnaround. Our pipette calibration services include the calibration of pipette diluters.
       </p>
         <h3>Types of pipette calibration services:</h3>
         <ul>
-          <li>Pipette calibration service</li>
+          <li>Pipette calibration services</li>
+          <li>Pipette diluters</li>
           <li>Rainin pipette calibration</li>
           <li>Eppendorf pipette calibration</li>
           <li>Multichannel pipette calibration</li>
@@ -216,11 +217,12 @@ APS performs NIST traceable ISO 17025 pipette calibration services on all manor 
       <div>
       <h2>Thermometer Calibration</h2>
         <p>
-APS performs NIST traceable ISO 17025 thermometer calibration in analytical laboratory and in industrial process applications. We can quickly accommodate equipment overnighted into our laboratory for rapid calibration and instrument turnaround. We perform thermometer calibration on a range of applicatons that also include humidity calibration. Many of these applications include datalogger calibration that includes the thermometer calibration. Several applications of thermometer calibration and humidity calibration require us to set up an initial IQ OQ PQ process qualification and validation.
+APS performs NIST traceable ISO 17025 thermometer calibration in analytical laboratory and in industrial process applications. We can quickly accommodate equipment overnighted into our laboratory for rapid calibration and instrument turnaround. We perform digital and glass thermometer calibration on a range of applicatons that also include humidity calibration. Many of these applications include datalogger calibration that includes the thermometer calibration. Several applications of thermometer calibration and humidity calibration require us to set up an initial IQ OQ PQ process qualification and validation.
       </p>
         <h3>Types of thermometer calibration:</h3>
         <ul>
           <li>Thermometer / temperature probe / thermocouple calibration</li>
+          <li>Digital and glass thermometers</li>
           <li>Humidity sensor calibration</li>
           <li>Infrared thermometer calibration</li>
           <li>Data logger calibration certificate</li>
@@ -238,11 +240,11 @@ APS performs NIST traceable ISO 17025 thermometer calibration in analytical labo
 const faqContent = [
   {
     question: "What does NIST traceable mean?",
-    answer: "National Institute of Standards and Technology standard of cradle to grave historical recordkeeping on equipment."
+    answer: "National Institute of Standards and Technology standard historical recordkeeping on equipment. This is an unbroken chain of our standard calibrations traceable back to NIST. In conjunction with this, we can provide cradle to grave traceabiltiy over the equipment lifetime. "
   },
   {
     question: "Who is ANAB?",
-    answer: "The ANSI National Accreditation Board (ANAB) is a non-governmental organization that provides accreditation services and training to public- and private-sector organizations"
+    answer: "The ANSI National Accreditation Board (ANAB) is a non-governmental organization that provides accreditation services and training to public- and private-sector organizations. "
   },
     {
     question: "What is IQ OQ PQ  validation?",
@@ -250,7 +252,7 @@ const faqContent = [
   },
   {
     question: "Does APS provide calibrations near me?",
-    answer: "We provide on-site calibrations throughout the US and Canada as well as centralized instrument calibration through our facilities in Pleasanton, CA and St. Petersburg, FL."
+    answer: "We provide on-site calibrations throughout the US and Canada as well as centralized instrument calibration through our laboratories in Pleasanton, CA and St. Petersburg, FL."
   },
 ]
 
