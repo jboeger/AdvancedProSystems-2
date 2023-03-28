@@ -129,6 +129,13 @@ const sections = [
         <p>
           APS performs mass flow meter calibrations to the finest of tolerances in gas measurement. Because the mass flow controller is a specific inline device it is critical that is regularly maintained and calibrated in laboratories or production settings. The mass flow sensor requires calibration for both it’s measurement and control functions all the while tight thermal/pressure control is maintained for consistent volumetric metering.
       </p>
+      <h3>Leading mass flow meters calibrated and serviced: </h3>
+      <ul>
+      <li>Brooks
+      <li>Burkert
+      <li>Bronkhorst
+      <li>Porter
+      </ul>
       </div>
     )  
   },
@@ -142,6 +149,11 @@ const sections = [
         <p>
           APS performs NIST traceable ISO 17025 sensor calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate are digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. Torque wrench calibration is a common request where we expedite service. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process qualification and validation.
        </p>
+      <h3>Leading brands calibrated and serviced:</h3>
+      <ul>
+      <li>Copley
+      <li>TSI
+      </ul>
       </div>
     )  
   },
