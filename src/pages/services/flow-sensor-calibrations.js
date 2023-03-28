@@ -131,10 +131,10 @@ const sections = [
       </p>
       <h3>Leading mass flow meters calibrated and serviced: </h3>
       <ul>
-      <li>Brooks
-      <li>Burkert
-      <li>Bronkhorst
-      <li>Porter
+      <li>Brooks</li>
+      <li>Burkert</li>
+      <li>Bronkhorst</li>
+      <li>Porter</li>
       </ul>
       </div>
     )  
@@ -151,8 +151,8 @@ const sections = [
        </p>
       <h3>Leading brands calibrated and serviced:</h3>
       <ul>
-      <li>Copley
-      <li>TSI
+      <li>Copley</li>
+      <li>TSI</li>
       </ul>
       </div>
     )  
