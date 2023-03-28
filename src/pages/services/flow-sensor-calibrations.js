@@ -130,7 +130,7 @@ const sections = [
           APS performs mass flow meter calibrations to the finest of tolerances in gas measurement. Because the mass flow controller is a specific inline device it is critical that is regularly maintained and calibrated in laboratories or production settings. The mass flow sensor requires calibration for both it’s measurement and control functions all the while tight thermal/pressure control is maintained for consistent volumetric metering.
       </p>
       <h3>Leading mass flow meters calibrated and serviced: </h3>
-      <ul>
+      <ul style="column-count: 2;">
       <li>Brooks</li>
       <li>Burkert</li>
       <li>Bronkhorst</li>
