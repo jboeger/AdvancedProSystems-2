@@ -20,9 +20,9 @@ import thermometer from "images/thermometer-data-logger-1.png";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Calibration Services | Flow, gas, pressure, + more",
+  title: "Advanced Calibration Services | Flow, gas, pressure + more",
   description: "APS performs NIST traceable calibrations in analytical and industrial applications, from flow / pressure to thermal, electrical, and balance calibrations.",
-  canonicalUrl: "https://www.advancedprosystems.com/services/calibrations/",
+  canonicalUrl: "https://www.advancedprosystems.com/services/calibrations",
   img: "",
   imgAlt: "",
 }
@@ -99,7 +99,7 @@ const sections = [
           <li>Volumetric Flow Meter</li>
           <li>Pin-Line Flow Meter</li>
         </ul>
-      <p><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations" title="Flow Sensor Calibrations">More information about flow sensor calibrations</a>.
+      <p><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations" title="Flow Sensor Calibrations" className="link-primary">More information about flow sensor calibrations</a>.
       </p>
       </div>
     )
