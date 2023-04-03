@@ -89,7 +89,7 @@ const sections = [
       <div>
         <h2>Flow Sensor Calibration</h2>
         <p>
-          APS performs NIST traceable ISO 17025 <a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations" title="Flow Sensor Calibrations" className="link-primary">flow sensor calibration</a> in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration of flow meter turnaround. A sampling of flow sensors we regularly calibrate are liquid flow, gas flow and mass flow meters using in-line flow, volumetric flow or optical flow technology. We also calibrate mass flow controllers and other non-invasive flow measurement equipment.
+          APS performs NIST traceable ISO 17025 <a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibrations" className="link-primary">flow sensor calibration</a> in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration of flow meter turnaround. A sampling of flow sensors we regularly calibrate are liquid flow, gas flow and mass flow meters using in-line flow, volumetric flow or optical flow technology. We also calibrate mass flow controllers and other non-invasive flow measurement equipment.
         </p>
         <h3>Types of flow sensor calibrations:</h3>
         <ul>
@@ -99,7 +99,7 @@ const sections = [
           <li>Volumetric Flow Meter</li>
           <li>Pin-Line Flow Meter</li>
         </ul>
-      <p><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations" title="Flow Sensor Calibrations" className="link-primary">More information about flow sensor calibrations</a>.
+      <p><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibrations" className="link-primary">More information about flow sensor calibrations</a>.
       </p>
       </div>
     )
