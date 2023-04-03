@@ -22,7 +22,7 @@ export const padding = "40px";
 const metaData = {
   title: "Flow Sensor Calibration | Gas Flow Meter | Controllers | APS",
   description: "APS performs advanced calibration services for flow sensors, gas flow meters, optical flow sensors, mass flow controllers, liquid flow sensors and more.",
-  canonicalUrl: "https://www.advancedprosystems.com/services/flow-sensor-calibrations",
+  canonicalUrl: "https://www.advancedprosystems.com/services/flow-sensor-calibrations/",
   img: "",
   imgAlt: "",
 }
