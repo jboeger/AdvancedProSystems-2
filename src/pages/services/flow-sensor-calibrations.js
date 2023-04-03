@@ -49,7 +49,7 @@ const sections = [
         <p>
            Advanced Processing provides the highest level of standard calibration for all equipment designed for the measurement of flow. Flow sensors measure the flow rate of a fluid, liquid, or gas when it passes through a confined transmission system. There are a variety of instruments that use the physical properties of liquids and gas to measure them most accurately and economically. The instruments operate using ultrasonic, electromagnetic, Karman vortex, paddlewheel, floating element, thermal, and differential pressure methods of measurement. They all most be calibrated to make sure the process is accurate and stable.
         </p>
-      <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary"><< Advanced Calibrations main page</a>
+      <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
       </p>
       </div>
     )
