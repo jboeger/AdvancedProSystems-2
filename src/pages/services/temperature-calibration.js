@@ -8,6 +8,11 @@ import { FAQ } from "components/homePage/FAQ";
 // image imports
 import heroHomeImg from "images/hero-home-01a-big.jpg";
 import thermometer from "images/thermometer-data-logger-1.png";
+import thermometerglass from "images/glass-thermometer.png";
+import thermometerinfrared from "images/infrared-thermometer.png";
+import thermometerdata from "images/thermometer-data-logger.png";
+import thermometerlab from "images/thermometers-in-lab.png";
+import humidmeter from "images/relative-humidity-and-temperature-meter.png";
 
 export const padding = "40px";
 
@@ -47,7 +52,7 @@ const sections = [
     )
   },
     {
-    img: thermometer,
+    img: thermometerglass,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
@@ -65,7 +70,7 @@ const sections = [
     )
   },
   {
-    img: thermometer,
+    img: thermometerinfrared,
     imgAlt: "placeholder. ",
     imgCols: "6",
     content: (
@@ -78,7 +83,7 @@ const sections = [
     )
   },
   {
-    img: thermometer,
+    img: humidmeter,
     imgAlt: "placeholder.",
     imgCols: "6",
     content: (
@@ -91,7 +96,7 @@ const sections = [
     )  
   },
     {
-    img: thermometer,
+    img: thermometerdata,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
