@@ -16,6 +16,7 @@ import sonocheckbubblesensor from "images/sono-check-bubble-sensor2.jpg";
 import sonocontrol from "images/Sono-control-level-sensor.jpg";
 import volumetric from "images/volumetric.jpg";
 import sonoinline from "images/SONOFLOW_InlineFlow.jpg";
+import flowmeter from "images/flowmeter.jpg";
 
 export const padding = "40px";
 
@@ -40,8 +41,8 @@ const metaData = {
 
 const sections = [
   {
-    img: sonocheckbubblesensor,
-    imgAlt: "Close-up photo of lab technician working with a calibrated bioreactor. ",
+    img: flowmeter,
+    imgAlt: "Close-up photo of lab technician working with a flowmeter. ",
     imgCols: "6",
     content: (
       <div>
