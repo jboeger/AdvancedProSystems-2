@@ -78,6 +78,8 @@ const sections = [
           <li>Barometer calibration</li>
           <li>Pressure transmitter calibration</li>
         </ul>
+        <p>More information about <a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Advanced Pressure Calibrations</a>.
+      </p>
       </div>
     )
   },
@@ -125,6 +127,8 @@ const sections = [
           <li>Loop Testers</li>
           <li>Multifunction testers</li>
         </ul>
+            <p>More information about <a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Advanced Electrical Calibrations</a>.
+      </p>
       </div>
     )  
   },
@@ -227,6 +231,8 @@ APS performs NIST traceable ISO 17025 thermometer calibration in analytical labo
           <li>Thermometer calibration log</li>
           <li>Thermal mass flow calibration</li>
         </ul>
+              <p>More information about <a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Advanced Temperature Calibrations</a>.
+      </p>
       </div>
     )  
   }
