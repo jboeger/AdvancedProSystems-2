@@ -7,15 +7,7 @@ import { FAQ } from "components/homePage/FAQ";
 
 // image imports
 import heroHomeImg from "images/hero-home-01a-big.jpg";
-import acousticflow from "images/acoustic-flow.jpg";
-import gasflowcontrol from "images/gas-flow-control.jpg";
-import liquidflowmeter from "images/liquid-flow-meter.jpg";
-import massflow from "images/mass-flow.jpg";
-import opticalflow from "images/optical-flow.jpg";
-import sonocheckbubblesensor from "images/sono-check-bubble-sensor2.jpg";
-import sonocontrol from "images/Sono-control-level-sensor.jpg";
-import volumetric from "images/volumetric.jpg";
-import sonoinline from "images/SONOFLOW_InlineFlow.jpg";
+import thermometer from "images/thermometer-data-logger-1.png";
 
 export const padding = "40px";
 
@@ -40,8 +32,8 @@ const metaData = {
 
 const sections = [
   {
-    img: sonocheckbubblesensor,
-    imgAlt: "Close-up photo of lab technician working with a calibrated bioreactor. ",
+    img: thermometer,
+    imgAlt: "Thermometer data logger. ",
     imgCols: "6",
     content: (
       <div>
