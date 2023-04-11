@@ -112,19 +112,17 @@ const sections = [
       <div>
       <h2>Electrical Calibration</h2>
         <p>
-          APS performs NIST traceable ISO 17025 electrical meter calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration for electrical instrument turnaround. A sampling of electrical instrument calibration we regularly perform are multimeter, barometer, power analyzer, megohmmeter, clamp meter, and data logger. We perform electrical calibrations for many manufacturers of insulation tester, hipot tester (high potential tester), loop tester, and multifunction tester.
+          APS performs NIST traceable ISO 17025 electrical meter calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration for electrical instrument turnaround. A sampling of electrical instrument calibration we regularly perform are multimeter,  clamp meter, and data logger. We perform electrical calibrations for many manufacturers of insulation tester, hipot tester (high potential tester), loop tester, and multifunction tester.
       </p>
         <h3>Electrical calibration types include:</h3>
         <ul>
-          <li>Barometers</li>
-          <li>Multimeters</li>
-          <li>Data loggers</li>
+          <li>Data Loggers</li>
           <li>Insulation Testers</li>
-          <li>Power analyzers</li>
+          <li>Power Supplies</li>
           <li>Megohmmeters</li>
-          <li>Clamp meters</li>
-          <li>Hipot testers</li>
-          <li>Loop testers</li>
+          <li>Clamp Meters</li>
+          <li>Hipot Testers</li>
+          <li>Loop Testers</li>
           <li>Multifunction testers</li>
         </ul>
       </div>
