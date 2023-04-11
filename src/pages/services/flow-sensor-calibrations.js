@@ -103,7 +103,7 @@ const sections = [
       <div>
         <h2>Liquid Flow Meter Calibration</h2>
         <p>
-          A liquid flow meter is an instrument designed for measuring the rate of fluid flow via a fluid transmission system. APS performs liquid flow meter calibrations whether the measurement system is based on a single fundamental parameter or a very complicated process. The method of measurement depends on the technology used. 
+          A liquid flow meter is an instrument designed for measuring the rate of fluid flow via a fluid transmission system. APS performs liquid flow meter calibrations whether the measurement system is based on a single fundamental parameter or a very complicated process. The method of measurement depends on the technology used.  <strong>We perform backflow test gauge calibration on a regular basis.</strong>
         </p>
         <h3>Leading liquid flow meter brands that we calibrate and service:</h3>
         <ul>
