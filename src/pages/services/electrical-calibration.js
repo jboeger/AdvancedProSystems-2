@@ -10,6 +10,12 @@ import { FAQ } from "components/homePage/FAQ";
 import heroHomeImg from "images/hero-home-01a-big.jpg";
 import pressure from "images/Pressure.jpg";
 import electrical from "images/Electrical.jpg";
+import electricalmulti from "images/multimeter.jpg";
+import electricalclamp from "images/clamp-meter.jpg";
+import electricalsupplies from "images/power-supplies.jpg";
+import electrical from "images/multimeter.jpg";
+import electrical from "images/multimeter.jpg";
+import electrical from "images/multimeter.jpg";
 
 export const padding = "40px";
 
@@ -49,7 +55,7 @@ const sections = [
     )
   },
     {
-    img: electrical,
+    img: electricalmulti,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
@@ -88,7 +94,7 @@ const sections = [
     )  
   },
     {
-    img: electrical,
+    img: electricalsupplies,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
