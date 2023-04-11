@@ -213,13 +213,13 @@ APS performs NIST traceable ISO 17025 pipette calibration services on all manor 
     imgCols: "6",
     content: (
       <div>
-      <h2>Thermometer Calibration</h2>
+      <h2>Temperature Calibration</h2>
         <p>
-APS performs NIST traceable ISO 17025 thermometer calibration in analytical laboratory and in industrial process applications. We can quickly accommodate equipment overnighted into our laboratory for rapid calibration and instrument turnaround. We perform digital and glass thermometer calibration on a range of applicatons that also include humidity calibration. Many of these applications include datalogger calibration that includes the thermometer calibration. Several applications of thermometer calibration and humidity calibration require us to set up an initial IQ OQ PQ process qualification and validation.
+APS performs NIST traceable ISO 17025 thermometer calibration in analytical laboratory and in industrial process applications. We can quickly accommodate equipment overnighted into our laboratory for rapid calibration and instrument turnaround. We perform digital and glass thermometer calibration on a range of applicatons that also include humidity calibration. Many of these applications include datalogger calibration and thermometer calibration. Several applications of thermometer calibration and humidity calibration require us to set up an initial IQ OQ PQ process qualification and validation.
       </p>
-        <h3>Types of thermometer calibration:</h3>
+        <h3>Types of temperature calibration:</h3>
         <ul>
-          <li>Thermometer / temperature probe / thermocouple calibration</li>
+          <li>Temperature probes and thermocouple calibration</li>
           <li>Digital and glass thermometers</li>
           <li>Humidity sensor calibration</li>
           <li>Infrared thermometer calibration</li>
