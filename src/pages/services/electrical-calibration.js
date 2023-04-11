@@ -40,7 +40,7 @@ const sections = [
       <div>
         <h1>Electrical Calibration</h1>
         <p>
-           Adanced Process Systems uses calibration of pressure gauges standards in our ISO 17025 compliant pressure gage calibration. At APS, we know how to calibrate a pressure gauge using industry standards of pressure sensor calibration from all manufacturers of pressure calibration equipment due to our understanding of pressure calibration and how to calibrate a pressure gauge. APS provides pressure calibration with our extensive experience in the calibration of pressure gauges. 
+           Adanced Process Systems performs electrical calibration for all manner of instrurmentation including hipot testers and clampon meters. APS provides precise ISO 17025 compliant electrical meter calibration.
         </p>
       <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
       </p>
@@ -53,9 +53,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Digital Pressure Gauge / Indicator Calibration</h2>
+        <h2>Multimeter calibration</h2>
         <p>
-          Advanced Process Systems provides expert digital pressure gauge calibration service. We have vast experience in digital pressure gauge from all OEM manufacturers.
+          Advanced Process Systems provides expert multimeter calibration service for all OEM manufacturers of multimeters. Full service multimeter calibration services are as close as any "multimeter calibration near me" with our overnight calibration and shipping service compliant to ISO 17025.
         </p>
       </div>
     )
@@ -66,9 +66,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Analogue Pressure Guage / Indicator Calibration</h2>
+        <h2>Insulation Testers</h2>
         <p>
-          Advanced Process Systems provides expert analog pressure gauge calibration service for your analogue pressure gauge calibration. 
+          Insulation testers calibration services are as close as our available overnight calibration and shipping service compliant to ISO 17025. 
         </p>
       </div>
     )
@@ -92,27 +92,13 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-      <h2>Pressure Calibrators</h2>
+      <h2>Power Supply</h2>
         <p>
-          Advanced Process Systems pressure calibrators use our ISO 17025 compliant pressure calibrators procedure. We have vast experience in pressure gauge calibrators including digital pressure calibrators and portable pressure calibrators.
-       </p>
-      </div>
-    )  
-  },
-      {
-    img: pressure,
-    imgAlt: "Placeholder. ",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>Test Gauge Calibration</h2>
-        <p>
-          Advanced Process Systems test gauge calibration uses our ISO 17025 compliant calibration procedure.
+          Power supplies calibration services are as close as our available overnight calibration and shipping service compliant to ISO 17025.
        </p>
       </div>
     )  
   }
-
   
 ]
 
