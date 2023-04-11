@@ -9,7 +9,7 @@ import { FAQ } from "components/homePage/FAQ";
 // image imports
 import heroHomeImg from "images/hero-home-01a-big.jpg";
 import pressure from "images/Pressure.jpg";
-import pressure from "images/analog-and-digital-pressure-gauges.jpg";
+import pressuregauges from "images/analog-and-digital-pressure-gauges.jpg";
 import pressurecontroller from "images/pressure-controller.jpg";
 import pressuretransmitter from "images/pressure-transmitter.jpg";
 
@@ -51,7 +51,7 @@ const sections = [
     )
   },
     {
-    img: pressure,
+    img: pressuregauges,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
@@ -64,7 +64,7 @@ const sections = [
     )
   },
   {
-    img: pressure,
+    img: pressuregauges,
     imgAlt: "placeholder. ",
     imgCols: "6",
     content: (
