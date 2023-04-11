@@ -70,21 +70,10 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Liquid Flow Meter Calibration</h2>
+        <h2>Infrared thermometer calibration</h2>
         <p>
-          A liquid flow meter is an instrument designed for measuring the rate of fluid flow via a fluid transmission system. APS performs liquid flow meter calibrations whether the measurement system is based on a single fundamental parameter or a very complicated process. The method of measurement depends on the technology used.  <strong>We perform backflow test gauge calibration on a regular basis.</strong>
+          Advanced Process Systems provides expert service in the calibration of infrared thermometers calibra We have vast experience in how to calibrate infrared thermometers from a variety of manufacturers. We can perform infrared thermometer calibration compliant to ISO 17025 accreditation on how to calibrate an infrared thermometer.
         </p>
-        <h3>Leading liquid flow meter brands that we calibrate and service:</h3>
-        <ul>
-          <li>Hoffer flow controls</li>
-          <li>Sonotec / Gems Sensors</li>
-          <li>TSI Calibration</li>
-          <li>Omega thermocouple calibration</li>
-          <li>Honeywell calibration</li>
-          <li>Micro Motion flow meter calibration</li>
-          <li>Rosemount transmitter calibration</li>
-          <li>Agilent calibration</li>
-        </ul>
       </div>
     )
   },
@@ -94,17 +83,10 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-      <h2>Mass Flow Meter Calibrations</h2>
+      <h2>Humidity sensor calibration</h2>
         <p>
-          APS performs mass flow meter calibrations to the finest of tolerances in gas measurement. Because the mass flow controller is a specific inline device it is critical that is regularly maintained and calibrated in laboratories or production settings. The mass flow sensor requires calibration for both it’s measurement and control functions all the while tight thermal/pressure control is maintained for consistent volumetric metering.
+          Advanced Process Systems provides expert humidity calibration service for hygrometers. We have vast experience in relative humidity calibration standards from a variety of manufacturers. We can perform hygrometer calibration complant to ISO 17025 accreditation for humidity sensor calibration.
       </p>
-      <h3>Leading mass flow meters calibrated and serviced: </h3>
-      <ul>
-      <li>Brooks</li>
-      <li>Burkert</li>
-      <li>Bronkhorst</li>
-      <li>Porter</li>
-      </ul>
       </div>
     )  
   },
@@ -114,57 +96,15 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-      <h2>Volumetric Flow Meter Calibration</h2>
+      <h2>Data logger calibration certificate</h2>
         <p>
-          APS performs NIST traceable ISO 17025 sensor calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate are digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. Torque wrench calibration is a common request where we expedite service. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process qualification and validation.
+          Advanced Process Systems provides expert data logger calibration service for data logger humidity calibratation. We have vast experience in data logger calibration from all OEM manufacturers. We can provide a data logger calibration certificate compliant to ISO 17025 accreditation for temperature data logger calibration.
        </p>
-      <h3>Leading brands calibrated and serviced:</h3>
-      <ul>
-      <li>Copley</li>
-      <li>TSI</li>
-      </ul>
-      </div>
-    )  
-  },
-        {
-    img: thermometer,
-    imgAlt: "Placeholder. ",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>In-Line Flow Meters</h2>
-        <p>
-APS works with NIST traceable ISO 17025 in-line flow meter calibration in analytical laboratory and in industrial process applications. These meters work on a variety of physical properties that include acoustic, optical, volumetric, or gravimetric methods.
-        </p>
-      </div>
-    )  
-  },
-  {
-    img: thermometer,
-    imgAlt: "Placeholder. ",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>Acoustic Flow Sensor - Inline or non-invasive acoustic flow sensor calibration</h2>
-        <p>
-APS performs acoustic flow meter calibration that incorporates the geometric calibration of the tube or pipe the liquid passes through. APS performs acoustic flow sensor calibration on flow meters, bubble sensors, and level sensors using this technology. Inline or non-invasive available.
-      </p>
-      </div>
-    )  
-  },
-  {
-    img: thermometer,
-    imgAlt: "Placeholder. ",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>Optical Flow Sensor - Inline or non-invasive optical flow sensor calibration</h2>
-        <p>
-APS performs NIST traceable ISO 17025 optical flow sensor calibration in analytical laboratory and in industrial process applications. APS calibrates these sensors whether the optical flow meter measures through optical fiber interferometry, optical hot-wire anemometry, or scintillation. Inline or non-invasive available.
-      </p>
       </div>
     )  
   }
+
+  
 ]
 
 /**
