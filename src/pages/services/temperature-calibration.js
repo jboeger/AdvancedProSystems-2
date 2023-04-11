@@ -72,7 +72,7 @@ const sections = [
       <div>
         <h2>Infrared thermometer calibration</h2>
         <p>
-          Advanced Process Systems provides expert service in the calibration of infrared thermometers calibra We have vast experience in how to calibrate infrared thermometers from a variety of manufacturers. We can perform infrared thermometer calibration compliant to ISO 17025 accreditation on how to calibrate an infrared thermometer.
+          Advanced Process Systems provides expert service in the calibration of infrared thermometers. We have vast experience in how to calibrate infrared thermometers from a variety of manufacturers. We can perform infrared thermometer calibration compliant to ISO 17025 accreditation on how to calibrate an infrared thermometer.
         </p>
       </div>
     )
