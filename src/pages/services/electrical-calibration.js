@@ -38,7 +38,7 @@ const metaData = {
 
 const sections = [
   {
-    img: electrical,
+    img: electricalclamp,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
