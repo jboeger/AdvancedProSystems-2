@@ -9,6 +9,7 @@ import { FAQ } from "components/homePage/FAQ";
 // image imports
 import heroHomeImg from "images/hero-home-01a-big.jpg";
 import pressure from "images/Pressure.jpg";
+import electrical from "images/Electrical.jpg";
 
 export const padding = "40px";
 
@@ -33,7 +34,7 @@ const metaData = {
 
 const sections = [
   {
-    img: pressure,
+    img: electrical,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
@@ -48,7 +49,7 @@ const sections = [
     )
   },
     {
-    img: pressure,
+    img: electrical,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
@@ -61,7 +62,7 @@ const sections = [
     )
   },
   {
-    img: pressure,
+    img: electrical,
     imgAlt: "placeholder. ",
     imgCols: "6",
     content: (
@@ -74,7 +75,7 @@ const sections = [
     )
   },
   {
-    img: pressure,
+    img: electrical,
     imgAlt: "placeholder.",
     imgCols: "6",
     content: (
@@ -87,7 +88,7 @@ const sections = [
     )  
   },
     {
-    img: pressure,
+    img: electrical,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
