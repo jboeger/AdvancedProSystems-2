@@ -8,7 +8,7 @@ import { FAQ } from "components/homePage/FAQ";
 
 // image imports
 import heroHomeImg from "images/hero-home-01a-big.jpg";
-import thermometer from "images/thermometer-data-logger-1.png";
+import pressure from "images/Pressure.jpg";
 
 export const padding = "40px";
 
@@ -33,8 +33,8 @@ const metaData = {
 
 const sections = [
   {
-    img: thermometer,
-    imgAlt: "Thermometer data logger. ",
+    img: pressure,
+    imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
       <div>
@@ -48,7 +48,7 @@ const sections = [
     )
   },
     {
-    img: thermometer,
+    img: pressure,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
@@ -61,7 +61,7 @@ const sections = [
     )
   },
   {
-    img: thermometer,
+    img: pressure,
     imgAlt: "placeholder. ",
     imgCols: "6",
     content: (
@@ -74,7 +74,7 @@ const sections = [
     )
   },
   {
-    img: thermometer,
+    img: pressure,
     imgAlt: "placeholder.",
     imgCols: "6",
     content: (
@@ -87,7 +87,7 @@ const sections = [
     )  
   },
     {
-    img: thermometer,
+    img: pressure,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
@@ -100,7 +100,7 @@ const sections = [
     )  
   },
       {
-    img: thermometer,
+    img: pressure,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
