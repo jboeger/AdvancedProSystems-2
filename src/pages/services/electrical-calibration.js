@@ -13,9 +13,6 @@ import electrical from "images/Electrical.jpg";
 import electricalmulti from "images/multimeter.jpg";
 import electricalclamp from "images/clamp-meter.jpg";
 import electricalsupplies from "images/power-supplies.jpg";
-import electrical from "images/multimeter.jpg";
-import electrical from "images/multimeter.jpg";
-import electrical from "images/multimeter.jpg";
 
 export const padding = "40px";
 
