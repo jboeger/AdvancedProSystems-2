@@ -52,6 +52,18 @@ const sections = [
         </p>
       <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
       </p>
+      <p>
+      <ul>
+      <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical</a></li>
+      <li><strong>Flow Sensor</strong></li>
+      <li>Mechanical and Balance</li>
+      <li>Optical</li>
+      <li>Physical Dimensional</li>
+      <li>Pipette</li>
+      <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermal</a></li>
+      </ul>
+      </p>
       </div>
     )
   },
