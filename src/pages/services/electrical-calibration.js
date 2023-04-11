@@ -13,6 +13,7 @@ import electrical from "images/Electrical.jpg";
 import electricalmulti from "images/multimeter.jpg";
 import electricalclamp from "images/clamp-meter.jpg";
 import electricalsupplies from "images/power-supplies.jpg";
+import pressuretransmitter from "images/pressure-transmitter.jpg";
 
 export const padding = "40px";
 
@@ -78,7 +79,7 @@ const sections = [
     )
   },
   {
-    img: electrical,
+    img: pressuretransmitter,
     imgAlt: "placeholder.",
     imgCols: "6",
     content: (
