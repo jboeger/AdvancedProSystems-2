@@ -47,8 +47,8 @@ const sections = [
     )
   },
     {
-    img: gasflowcontrol,
-    imgAlt: "Close-up photo of two pressure guages. ",
+    img: thermometer,
+    imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
       <div>
@@ -65,8 +65,8 @@ const sections = [
     )
   },
   {
-    img: liquidflowmeter,
-    imgAlt: "Photo of a liquid flow meter. ",
+    img: thermometer,
+    imgAlt: "placeholder. ",
     imgCols: "6",
     content: (
       <div>
@@ -89,8 +89,8 @@ const sections = [
     )
   },
   {
-    img: massflow,
-    imgAlt: "Photo of a mass flow controller.",
+    img: thermometer,
+    imgAlt: "placeholder.",
     imgCols: "6",
     content: (
       <div>
@@ -109,8 +109,8 @@ const sections = [
     )  
   },
     {
-    img: volumetric,
-    imgAlt: "Close-up photo of a perfectly balanced weight. ",
+    img: thermometer,
+    imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
       <div>
@@ -127,8 +127,8 @@ const sections = [
     )  
   },
         {
-    img: sonoinline,
-    imgAlt: "Sonotec in-line flow meter calibration. ",
+    img: thermometer,
+    imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
       <div>
@@ -140,8 +140,8 @@ APS works with NIST traceable ISO 17025 in-line flow meter calibration in analyt
     )  
   },
   {
-    img: sonocontrol,
-    imgAlt: "Sonoflow control. ",
+    img: thermometer,
+    imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
       <div>
@@ -153,8 +153,8 @@ APS performs acoustic flow meter calibration that incorporates the geometric cal
     )  
   },
   {
-    img: opticalflow,
-    imgAlt: "Photo of a pipette getting dipped into a test tube. ",
+    img: thermometer,
+    imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
       <div>
