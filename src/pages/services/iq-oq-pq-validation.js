@@ -45,8 +45,17 @@ const sections = [
       <div>
         <h1>Advanced IQ OQ PQ Validation and Equipment Qualification</h1>
         <p>
-           Advanced Processi Syestems provides the highest level of validation and equipment qualification services available for the laboratory, industrial processing, pharmaceutical, food and beverage manufacturing, petrochemical, and all standards dependent industries. 
+           Advanced Process Syestems provides the highest level of validation and equipment qualification services available for the laboratory, industrial processing, pharmaceutical, food and beverage manufacturing, petrochemical, and all standards dependent industries. 
         </p>
+      <p>
+      APS uses the most advanced calibration standards such as Kaye Advanced Validation System (AVS) for IQ OQ PQ validation of procesess requiring equipment qualification. We will provide the full range of services up to full validation in temperature mapping of chambers, freezers, incubators, ovens, and cold rooms. 
+      </p>
+      <p>
+      From calibration raw data to full ISO 17025 compliant calibration while maintaining the results in our CFR 21 Part 11 compliant database audited by ANSI accredited auditors (through ANAB accreditation services). APS provides full validations/callbrations services using the Kaye AVS System IQ/OQ/PQ s protocols. Customers include the range from start-ups to most established biopharma, biotechnology, and biomedical equipment companies to US national laboratories, and food and beverage companies with the most stringent calibration requirements. 
+      </p>
+      <p>
+      APS works with the full range of requirements from individual calibrations, supplying calibration personnel, OEM calibration services, to setting up the processes for entire metrology departments. In some cases, we provide calibration facilities management.
+      </p>
       </div>
     )
   },
@@ -56,14 +65,15 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Digital and glass thermometer calibration</h2>
+        <h2>Advanced Validation Division</h2>
         <p>
-          Advanced Process Systems provides expert service in glass thermometer calibration and digital thermometer calibration. We have vast experience in how to calibrate a digital thermometer from a variety of manufacturers. We can perform thermometer calibration compliant to ISO 17025 accreditation on how to calibrate a digital thermometer.
+          With our state of the art KAYE AVS systems we can provide all of your:
         </p>
-        <h3>Digital and glass thermometer calibration types include:</h3>
         <ul>
-          <li>APS' thermal range of calibration for digital thermometers is from -196C to 680C</li>
-          <li>APS' thermal range of calibration for glass thermometers is from -50C to 250C</li>
+          <li>IQ OQ PQ testing.</li>
+          <li>Create and customize protocols for your company's requirements.</li>
+          <li>Follow and test your company's internal Protocols.</li>
+          <li>Can provide temperature mapping.</li>
         </ul>
       </div>
     )
@@ -74,40 +84,15 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Infrared thermometer calibration</h2>
+        <h2>Equipment Validation</h2>
         <p>
-          Advanced Process Systems provides expert service in the calibration of infrared thermometers. We have vast experience in how to calibrate infrared thermometers from a variety of manufacturers. We can perform infrared thermometer calibration compliant to ISO 17025 accreditation on how to calibrate an infrared thermometer.
+          APS can create initial protocols or execute existing protocols from simplified to advanced requirements to assist customers equipment qualification or process requirements. Advanced Validation Services can provide comprehensive calibration to validation as "one stop shop" for your qualification requirements.
         </p>
+      <h3></h3>
+      <p></p>
       </div>
     )
-  },
-  {
-    img: humidmeter,
-    imgAlt: "placeholder.",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>Humidity sensor calibration</h2>
-        <p>
-          APS provides expert humidity calibration service for hygrometers. We have vast experience in relative humidity calibration standards from a variety of manufacturers. We can perform hygrometer calibration complant to ISO 17025 accreditation for humidity sensor calibration.
-      </p>
-      </div>
-    )  
-  },
-    {
-    img: thermometerdata,
-    imgAlt: "Placeholder. ",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>Data logger calibration certificate</h2>
-        <p>
-          Advanced Process Systems provides expert data logger calibration service for data logger humidity calibratation. We have vast experience in data logger calibration from all OEM manufacturers. We can provide a data logger calibration certificate compliant to ISO 17025 accreditation for temperature data logger calibration.
-       </p>
-      </div>
-    )  
   }
-
   
 ]
 
