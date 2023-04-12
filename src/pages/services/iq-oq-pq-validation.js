@@ -42,10 +42,10 @@ const sections = [
            Advanced Process Syestems provides the highest level of validation and equipment qualification services available for the laboratory, industrial processing, pharmaceutical, food and beverage manufacturing, petrochemical, and all standards dependent industries. 
         </p>
       <p>
-      APS uses the most advanced calibration standards such as Kaye Advanced Validation System (AVS) for IQ OQ PQ validation of procesess requiring equipment qualification. We will provide the full range of services up to full validation in temperature mapping of chambers, freezers, incubators, ovens, and cold rooms. 
+      APS uses the most <a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">advanced calibration</a> standards such as Kaye Advanced Validation System (AVS) for IQ OQ PQ validation of procesess requiring equipment qualification. We will provide the full range of services up to full validation in temperature mapping of chambers, freezers, incubators, ovens, and cold rooms. 
       </p>
       <p>
-      From calibration raw data to full ISO 17025 compliant calibration while maintaining the results in our CFR 21 Part 11 compliant database audited by ANSI accredited auditors (through ANAB accreditation services). APS provides full validations/callbrations services using the Kaye AVS System IQ/OQ/PQ s protocols. Customers include the range from start-ups to most established biopharma, biotechnology, and biomedical equipment companies to US national laboratories, and food and beverage companies with the most stringent calibration requirements. 
+      From calibration raw data to full ISO 17025 compliant calibration while maintaining the results in our CFR 21 Part 11 compliant database audited by ANSI accredited auditors (through ANAB accreditation services), APS provides full validations/callbrations services using the Kaye AVS System IQ/OQ/PQ protocols. Customers include the range from start-ups to most established biopharma, biotechnology, and biomedical equipment companies to US national laboratories, and food and beverage companies with the most stringent calibration requirements. 
       </p>
       <p>
       APS works with the full range of requirements from individual calibrations, supplying calibration personnel, OEM calibration services, to setting up the processes for entire metrology departments. In some cases, we provide calibration facilities management.
