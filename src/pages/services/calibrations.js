@@ -151,7 +151,7 @@ const sections = [
       <div>
       <h2>Mechanical and Balance Calibration</h2>
         <p>
-          APS performs NIST traceable ISO 17025 sensor calibrations that can be serviced on-site or via overnight to our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate include digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. <strong>Torque wrench calibration is a common request where we expedite service</strong>. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process qualification and validation.
+          APS performs NIST traceable ISO 17025 sensor calibrations that can be serviced on-site or via overnight to our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate include digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. <strong>Torque wrench calibration is a common request where we expedite service</strong>. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" title="IQ OQ PQ Validation" className="link-primary">qualification and validation</a>.
        </p>
         <h3>Types of mechanical and balance calibrations:</h3>
         <ul>
@@ -230,7 +230,7 @@ APS performs NIST traceable ISO 17025 pipette calibration services on all manor 
       <div>
       <h2>Temperature Calibration</h2>
         <p>
-APS performs NIST traceable ISO 17025 thermometer calibration in analytical laboratory and in industrial process applications. We can quickly accommodate equipment overnighted into our laboratory for rapid calibration and instrument turnaround. We perform digital and glass thermometer calibration on a range of applicatons that also include humidity calibration. Many of these applications include datalogger calibration and thermometer calibration. Several applications of thermometer calibration and humidity calibration require us to set up an initial IQ OQ PQ process qualification and validation.
+APS performs NIST traceable ISO 17025 thermometer calibration in analytical laboratory and in industrial process applications. We can quickly accommodate equipment overnighted into our laboratory for rapid calibration and instrument turnaround. We perform digital and glass thermometer calibration on a range of applicatons that also include humidity calibration. Many of these applications include datalogger calibration and thermometer calibration. Several applications of thermometer calibration and humidity calibration require us to set up an initial IQ OQ PQ process qualification and <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" title="IQ OQ PQ Validation" className="link-primary">validation</a>.
       </p>
         <h3>Types of temperature calibration:</h3>
         <ul>
