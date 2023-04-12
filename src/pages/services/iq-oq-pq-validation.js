@@ -79,9 +79,6 @@ const sections = [
     )
   },
   {
-    img: ,
-    imgAlt: "placeholder. ",
-    imgCols: "6",
     content: (
       <div>
         <h2>Equipment Validation</h2>
