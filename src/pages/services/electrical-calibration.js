@@ -39,7 +39,7 @@ const metaData = {
 const sections = [
   {
     img: electricalclamp,
-    imgAlt: "Placeholder. ",
+    imgAlt: "Picture of an electric clamp on meter for electrical calibration. ",
     imgCols: "6",
     content: (
       <div>
@@ -66,7 +66,7 @@ const sections = [
   },
     {
     img: electricalmulti,
-    imgAlt: "Placeholder. ",
+    imgAlt: "Picture of a multimeter device. ",
     imgCols: "6",
     content: (
       <div>
@@ -79,7 +79,7 @@ const sections = [
   },
   {
     img: electrical,
-    imgAlt: "placeholder. ",
+    imgAlt: "Insulation Testers. ",
     imgCols: "6",
     content: (
       <div>
@@ -92,7 +92,7 @@ const sections = [
   },
   {
     img: pressuretransmitter,
-    imgAlt: "placeholder.",
+    imgAlt: "Picture of a pressure transmitter.",
     imgCols: "6",
     content: (
       <div>
@@ -105,7 +105,7 @@ const sections = [
   },
     {
     img: electricalsupplies,
-    imgAlt: "Placeholder. ",
+    imgAlt: "Picture of a power supply. ",
     imgCols: "6",
     content: (
       <div>
