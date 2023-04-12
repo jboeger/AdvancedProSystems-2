@@ -13,6 +13,7 @@ import thermometerinfrared from "images/infrared-thermometer.jpg";
 import thermometerdata from "images/Thermometer-Data-Logger.png";
 import thermometerlab from "images/thermometers-in-lab.jpg";
 import humidmeter from "images/relative-humidity-and-temperature-meter.jpg";
+import validationprocess from "images/validation-process.jpg";
 
 export const padding = "40px";
 
@@ -37,29 +38,15 @@ const metaData = {
 
 const sections = [
   {
-    img: thermometer,
+    img: validationprocess,
     imgAlt: "Thermometer data logger. ",
     imgCols: "6",
     content: (
       <div>
-        <h1>Advanced Temperature Calibration</h1>
+        <h1>Advanced IQ OQ PQ Validation and Equipment Qualification</h1>
         <p>
-           Adanced Process Systems performs thermometer calibration, thermocouple calibration, thermal cycler calibration, and thermal probe calibration as we can provide thermometer calibration logs, thermometer calibration certificates, and thermal anlysis calibrations.  APS provides precise temperature calibration with our extensive experience in how to calibrate thermocouples, how to calibrate hygrometers, and how to calibrate thermometers. 
+           Advanced Processi Syestems provides the highest level of validation and equipment qualification services available for the laboratory, industrial processing, pharmaceutical, food and beverage manufacturing, petrochemical, and all standards dependent industries. 
         </p>
-      <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
-      </p>
-      <p>
-      <ul>
-      <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow Sensor</a></li>
-      <li>Mechanical and Balance</li>
-      <li>Optical</li>
-      <li>Physical Dimensional</li>
-      <li>Pipette</li>
-      <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure</a></li>
-      <li><strong>Temperature / Thermal</strong></li>
-      </ul>
-      </p>
       </div>
     )
   },
