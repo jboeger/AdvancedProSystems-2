@@ -96,13 +96,14 @@ const ServicesPage = () => {
           <div className="col-sm-4">
             <h3><a href="https://www.advancedprosystems.com/services/calibrations/">Advanced Calibration Services</a></h3>
             <ul>
-              <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" className="link-primary" title="Pressure Calibration">Pressure</a></li>
+            <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" className="link-primary" title="Electrical Calibration">Electrical</a></li>
               <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" className="link-primary" title="Flow Sensor Calibrations">Flow</a></li>
-              <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" className="link-primary" title="Electrical Calibration">Electrical</a></li>
-              <li>Optical</li>
               <li>Mechanical and Balance</li>
-              <li>Dimensional</li>
-              <li>Pipette</li>
+              <li>Optical</li>
+              <li>Physical Dimensional</li>
+              <li>Pipette Calibration</li>
+              <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" className="link-primary" title="Pressure Calibration">Pressure</a></li>
+              <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" className="link-primary" title="Temperature Calibration">Temperature</a></li>
             </ul>
           </div>
         </div>
