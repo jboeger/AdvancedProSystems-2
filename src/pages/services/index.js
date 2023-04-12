@@ -117,7 +117,7 @@ const ServicesPage = () => {
             </ul>
           </div>
           <div className="col-sm-4">
-            <h3 className="h4"><a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/ title="IQ OQ PQ Validation"">IQ OQ PQ Validation</a></h3>
+            <h3 className="h4"><a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" title="IQ OQ PQ Validation">IQ OQ PQ Validation</a></h3>
             <ul>
               <li>IOQ generation</li>
               <li>Execution</li>
