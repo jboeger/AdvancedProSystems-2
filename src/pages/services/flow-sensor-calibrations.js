@@ -48,7 +48,7 @@ const sections = [
       <div>
         <h1>Advanced Flow Sensor Calibrations</h1>
         <p>
-           Advanced Processing provides the highest level of standard calibration for all equipment designed for the measurement of flow. Flow sensors measure the flow rate of a fluid, liquid, or gas when it passes through a confined transmission system. There are a variety of instruments that use the physical properties of liquids and gas to measure them most accurately and economically. The instruments operate using ultrasonic, electromagnetic, Karman vortex, paddlewheel, floating element, thermal, and differential pressure methods of measurement. They all most be calibrated to make sure the process is accurate and stable.
+           Advanced Processing provides the highest level of standard calibration for all equipment designed for the measurement of flow. Flow sensors measure the flow rate of a fluid, liquid, or gas when it passes through a confined transmission system. There are a variety of instruments that use the physical properties of liquids and gas to measure them most accurately and economically. The instruments operate using ultrasonic, electromagnetic, Karman vortex, paddlewheel, floating element, thermal, and differential pressure methods of measurement. They all must be calibrated to make sure the process is accurate and stable.
         </p>
       <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
       </p>
@@ -79,7 +79,7 @@ const sections = [
         </p>
         <h3>Gas flow and liquid flow metering technology types:</h3>
         <p>There are 8 commonly used technologies in gas flow and liquid flow measurement. They are:</p>
-        <ul>
+        <ul class="card-columns">
           <li>Electromagnetic</li>
           <li>Vortex time</li>
           <li>Paddle wheel</li>
