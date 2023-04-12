@@ -19,7 +19,7 @@ export const padding = "40px";
 
 const metaData = {
   title: "Advanced Pressure Gauge Calibration | Sensors + Transmitters",
-  description: "TBD",
+  description: "APS calibrates pressure gauges using industry standards of pressure sensor calibration from all manufacturers! Digital and analogue, pressure transmitters, and more!",
   canonicalUrl: "https://www.advancedprosystems.com/services/pressure-calibration/",
   img: "",
   imgAlt: "",
