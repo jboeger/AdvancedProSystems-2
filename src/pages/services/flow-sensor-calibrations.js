@@ -42,7 +42,7 @@ const metaData = {
 const sections = [
   {
     img: flowmeter,
-    imgAlt: "Close-up photo of lab technician working with a flowmeter. ",
+    imgAlt: "Picture of a flow meter. ",
     imgCols: "6",
     content: (
       <div>
@@ -69,7 +69,7 @@ const sections = [
   },
     {
     img: gasflowcontrol,
-    imgAlt: "Close-up photo of two pressure guages. ",
+    imgAlt: "Close-up photo of pressure guages and controls. ",
     imgCols: "6",
     content: (
       <div>
@@ -154,7 +154,7 @@ const sections = [
   },
     {
     img: volumetric,
-    imgAlt: "Close-up photo of a perfectly balanced weight. ",
+    imgAlt: "Photo of volumetric flow multi meter with dial indicators and controls. ",
     imgCols: "6",
     content: (
       <div>
@@ -172,7 +172,7 @@ const sections = [
   },
         {
     img: sonoinline,
-    imgAlt: "Sonotec in-line flow meter calibration. ",
+    imgAlt: "Picture of Sonotec in-line flow meters. ",
     imgCols: "6",
     content: (
       <div>
@@ -185,7 +185,7 @@ APS works with NIST traceable ISO 17025 in-line flow meter calibration in analyt
   },
   {
     img: sonocontrol,
-    imgAlt: "Sonoflow control. ",
+    imgAlt: "Picture of Sonoflow acoustic flow sensor. ",
     imgCols: "6",
     content: (
       <div>
@@ -198,7 +198,7 @@ APS performs acoustic flow meter calibration that incorporates the geometric cal
   },
   {
     img: opticalflow,
-    imgAlt: "Photo of a pipette getting dipped into a test tube. ",
+    imgAlt: "Photo of optical flow sensor. ",
     imgCols: "6",
     content: (
       <div>
