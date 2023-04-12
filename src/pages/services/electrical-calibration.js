@@ -18,8 +18,8 @@ import pressuretransmitter from "images/pressure-transmitter.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Electrical Calibration | APS",
-  description: "TBD",
+  title: "Advanced Electrical Calibration | Multimeter Calibration Services",
+  description: "Advanced Processing Systems performs electrical calibration for all manager of instrumentation including hipot testers and clamp-on meters. ",
   canonicalUrl: "https://www.advancedprosystems.com/services/electrical-calibration/",
   img: "",
   imgAlt: "",
