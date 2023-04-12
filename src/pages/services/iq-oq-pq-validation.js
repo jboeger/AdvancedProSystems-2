@@ -7,12 +7,6 @@ import { FAQ } from "components/homePage/FAQ";
 
 // image imports
 import heroHomeImg from "images/hero-home-01a-big.jpg";
-import thermometer from "images/thermometer-data-logger-1.png";
-import thermometerglass from "images/glass-thermometer.jpg";
-import thermometerinfrared from "images/infrared-thermometer.jpg";
-import thermometerdata from "images/Thermometer-Data-Logger.png";
-import thermometerlab from "images/thermometers-in-lab.jpg";
-import humidmeter from "images/relative-humidity-and-temperature-meter.jpg";
 import validationprocess from "images/validation-process.jpg";
 
 export const padding = "40px";
@@ -21,7 +15,7 @@ const metaData = {
   title: "Advanced IQ OQ PQ Validation + Equipment Qualification | APS",
   description: "APS provides high level validation + equipment qualification services for lab + industrial processing, pharmaceutical, food + bev, petrochemical, and more. ",
   canonicalUrl: "https://www.advancedprosystems.com/services/iq-oq-pq-validation/",
-  img: "",
+  img: "https://www.advancedprosystems.com/static/validation-process-54455618c2180dcd414f422835bcde3f.jpg",
   imgAlt: "",
 }
 
