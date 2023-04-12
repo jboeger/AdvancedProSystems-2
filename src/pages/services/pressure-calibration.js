@@ -12,6 +12,8 @@ import pressure from "images/Pressure.jpg";
 import pressuregauges from "images/analog-and-digital-pressure-gauges.jpg";
 import pressurecontroller from "images/pressure-controller.jpg";
 import pressuretransmitter from "images/pressure-transmitter.jpg";
+import pressurebioreactor from "images/bioreactor-with-pressure-monitoring.jpg";
+import filterintegrity from "images/filter-integrity-tester-analog-gauge.jpg";
 
 export const padding = "40px";
 
@@ -36,7 +38,7 @@ const metaData = {
 
 const sections = [
   {
-    img: pressure,
+    img: pressurebioreactor,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
@@ -76,7 +78,7 @@ const sections = [
     )
   },
   {
-    img: pressuregauges,
+    img: filterintegrity,
     imgAlt: "placeholder. ",
     imgCols: "6",
     content: (
@@ -102,7 +104,7 @@ const sections = [
     )  
   },
     {
-    img: pressure,
+    img: pressurecontroller,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
