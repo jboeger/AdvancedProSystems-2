@@ -60,9 +60,6 @@ const sections = [
     )
   },
     {
-    img: thermometerglass,
-    imgAlt: "Placeholder. ",
-    imgCols: "6",
     content: (
       <div>
         <h2>Advanced Validation Division</h2>
