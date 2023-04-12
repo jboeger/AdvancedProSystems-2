@@ -91,7 +91,7 @@ const sections = [
           <li>Coriolis</li>
         </ul>
         <h3>Leading brands and common equipment calibrated and serviced</h3>
-        <p>Advanced Calibrations Services include the following:</p>
+        <p>Advanced Calibrations Services often calibrates the following:</p>
         <ul>
           <li>BlueSens</li>
           <li>BW Technologies - gas calibration</li>
@@ -118,7 +118,7 @@ const sections = [
         <p>
           A liquid flow meter is an instrument designed for measuring the rate of fluid flow via a fluid transmission system. APS performs liquid flow meter calibrations whether the measurement system is based on a single fundamental parameter or a very complicated process. The method of measurement depends on the technology used.  <strong>We perform backflow test gauge calibration on a regular basis.</strong>
         </p>
-        <h3>Leading liquid flow meter brands that we calibrate and service:</h3>
+        <h3>Leading liquid flow meter brands that we calibrate and service include:</h3>
         <ul>
           <li>Hoffer flow controls</li>
           <li>Sonotec / Gems Sensors</li>
