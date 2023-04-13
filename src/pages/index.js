@@ -35,14 +35,14 @@ const cards = [
     title: "Laboratory, Industrial Service Plans",
     body: "",
     img: card2Img,
-    imgAlt: "",
+    imgAlt: "Picture close-up of lab technician working with a bioreactor. ",
     link: "/services"
   },
   {
     title: "Biotech Equipment and Parts",
     body: "",
     img: card3Img,
-    imgAlt: "",
+    imgAlt: "Products - Biotech Equipment and Parts",
     link: "/products"
   }
 ];
