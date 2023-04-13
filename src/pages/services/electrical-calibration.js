@@ -45,7 +45,7 @@ const sections = [
       <div>
         <h1>Electrical Calibration</h1>
         <p>
-           Adanced Process Systems performs electrical calibration for all manner of instrurmentation including hipot testers and clampon meters. APS provides precise ISO 17025 compliant electrical meter calibration.
+           Adanced Process Systems performs electrical calibration for all manner of instrumentation including hipot testers and clampon meters. APS provides precise ISO 17025 compliant electrical meter calibration.
         </p>
       <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
       </p>
