@@ -83,7 +83,7 @@ const content = {
       <h2>Prompt. Reliable. Honest. Professional.</h2>
       <p>
         You can depend on our engineers to provide quality service and be confident that your
-        equipment is calibrated accurately.
+        equipment is <a href="https://www.advancedprosystems.com/services/calibrations/" className="link-primary" title="Advanced Calibration Services">calibrated</a> and <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" className="link-primary" title="Advanced IQ OQ PQ Validation and Equipment Qualification">validated</a> accurately.
       </p>
     </div>
   ),
