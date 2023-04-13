@@ -28,7 +28,7 @@ const cards = [
     title: "Process Consulting and Calibration",
     body: "",
     img: card1Img,
-    imgAlt: "",
+    imgAlt: "Picture of gears including rules, standards, policies, and compliance - appropriate for process consulting and calibration services. ",
     link: "/services/calibrations"
   },
   {
