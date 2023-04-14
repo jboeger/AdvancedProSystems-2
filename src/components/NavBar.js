@@ -31,6 +31,10 @@ export function NavBar(props) {
       name: "Calibrations",
       url: "/services/calibrations/"
     },
+        {
+      name: "IQ OQ PQ Validation",
+      url: "/services/iq-oq-pq-validation/"
+    },
     {
       name: "Products",
       url: "/products/"
