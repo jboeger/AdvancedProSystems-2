@@ -149,7 +149,7 @@ const CalibrationsPage = () => {
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>
-      <FAQ title="Calibrations FAQs - Frequently Asked Questions" content={faqContent} />
+      <FAQ title="Temperature Calibration FAQs - Frequently Asked Questions" content={faqContent} />
     </Layout>
   );
 };
