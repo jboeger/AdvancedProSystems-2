@@ -10,12 +10,12 @@ import heroHomeImg from "images/hero-home-01a-big.jpg";
 import bioReactor from "images/card2-lab-02.jpg";
 import pressure from "images/Pressure.jpg";
 import acousticFlow from "images/Acoustic_Flow.jpg";
-import electrical from "images/Electrical.jpg";
 import balance from "images/Balance.jpg";
 import dimensional from "images/Dimensional.jpg";
 import optical from "images/Optical.jpg";
 import pipette from "images/Pipette.jpg";
 import thermometer from "images/thermometer-data-logger-1.png";
+import electricalclamp from "images/clamp-meter.jpg";
 
 export const padding = "40px";
 
@@ -118,7 +118,7 @@ const sections = [
     )
   },
   {
-    img: electrical,
+    img: electricalclamp,
     imgAlt: "Photo of a an electical multimeter used in electrical calibration.",
     imgCols: "6",
     content: (
