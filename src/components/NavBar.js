@@ -25,19 +25,19 @@ export function NavBar(props) {
     },
     {
       name: "Services",
-      url: "/services"
+      url: "/services/"
     },
     {
       name: "Calibrations",
-      url: "/services/calibrations"
+      url: "/services/calibrations/"
     },
     {
       name: "Products",
-      url: "/products"
+      url: "/products/"
     },
     {
       name: "About" ,
-      url: "/about"
+      url: "/about/"
     }
   ]
 
