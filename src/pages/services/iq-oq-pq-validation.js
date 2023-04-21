@@ -101,16 +101,16 @@ const sections = [
  */
 const faqContent = [
   {
-    question: "?",
-    answer: "A."
-  },
-  {
-    question: "?",
-    answer: "A."
-  },
-    {
-    question: "?",
-    answer: "A."
+    question: "What is IQ OQ PQ validation protocol?",
+    answer: "IQ OQ PQ validation protocol is a process used to validate equipment and systems in laboratory and industrial settings. IQ stands for Installation Qualification, OQ stands for Operational Qualification, and PQ stands for Performance Qualification. 
+
+Installation Qualification (IQ) ensures that the equipment is installed correctly and meets the manufacturer's specifications. This includes verifying that all components are present, that the equipment is properly installed, and that it meets safety requirements.
+
+Operational Qualification (OQ) ensures that the equipment operates as intended and meets the user's requirements. This includes testing the equipment under normal operating conditions and verifying that it meets performance specifications.
+
+Performance Qualification (PQ) ensures that the equipment consistently performs as intended over time. This includes testing the equipment under a range of conditions and verifying that it meets performance specifications over an extended period.
+
+Overall, IQ OQ PQ validation protocol is an important process to ensure that laboratory and industrial equipment and systems are reliable, accurate, and safe to use."
   }
 ]
 
