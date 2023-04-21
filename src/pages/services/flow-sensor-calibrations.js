@@ -216,16 +216,8 @@ APS performs NIST traceable ISO 17025 optical flow sensor calibration in analyti
  */
 const faqContent = [
   {
-    question: "?",
-    answer: "A."
-  },
-  {
-    question: "?",
-    answer: "A."
-  },
-    {
-    question: "?",
-    answer: "A."
+    question: "What are in line flow meters?",
+    answer: "In line flow meters are devices used to measure the flow rate of liquids or gases in a pipeline. They are installed directly in the pipeline and provide real-time measurements of the flow rate. In line flow meters are commonly used in laboratory settings for measuring the flow rate of liquids in experiments, as well as in industrial production processes for monitoring the flow rate of liquids or gases in manufacturing processes. There are different types of in line flow meters, including electromagnetic, ultrasonic, and thermal flow meters, each with their own advantages and limitations. The choice of in line flow meter depends on the specific application and the properties of the fluid being measured. "
   }
 ]
 
