@@ -11,7 +11,7 @@ export function Footer(props) {
             <p className="text-start">©2023 All rights reserved</p>
           </div>
           <div className="col-6">
-            <p className="text-center">contact: Tim Erisman | <a className="text-primary" href="tel:925.258.1920">925.258.1920</a> | <a className="text-primary" href="mailto: terisman@advancedprosystems.com">terisman@advancedprosystems.com</a></p>
+            <p className="text-center">contact: Tim Erisman | <a className="text-primary phone-click" href="tel:925.258.1920">925.258.1920</a> | <a className="text-primary email-click" href="mailto: terisman@advancedprosystems.com">terisman@advancedprosystems.com</a></p>
           </div>
           <div className="col-3">
             <p className="text-end">
