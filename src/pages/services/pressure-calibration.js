@@ -21,7 +21,7 @@ const metaData = {
   title: "Advanced Pressure Gauge Calibration | Sensors + Transmitters",
   description: "APS calibrates pressure gauges using industry standards of pressure sensor calibration from all manufacturers! Digital and analogue, pressure transmitters, and more!",
   canonicalUrl: "https://www.advancedprosystems.com/services/pressure-calibration/",
-  img: "",
+  img: "https://www.advancedprosystems.com/static/pressure-controller-5aa5097b2a0d09f63629c6db2714ba88.jpg",
   imgAlt: "",
 }
 
