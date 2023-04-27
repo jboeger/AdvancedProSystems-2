@@ -78,7 +78,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
       <div>
         <h2>Pressure Calibration Services</h2>
         <p>
-          APS performs <a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">NIST traceable ISO 17025 pressure gauge calibrations</a> in laboratory and industrial process applications. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid pressure gauge calibration turnaround</strong>. A sampling of gauges we regularly calibrate are digital pressure, analog pressure, differential, and test gages. We also calibrate pressure transducer, pressure transmitter, and pressure calibrator applications as well as other pressure applications using a digital pressure indicator, barometer, or pressure module.
+          APS performs <a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">NIST traceable ISO 17025 pressure gauge calibration services</a> in laboratory and industrial process applications. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid pressure gauge calibration turnaround</strong>. A sampling of gauges we regularly calibrate are digital pressure, analog pressure, differential, and test gages. We also calibrate pressure transducer, pressure transmitter, and pressure calibrator applications as well as other pressure applications using a digital pressure indicator, barometer, or pressure module.
         </p>
         <h3>Pressure calibration types include:</h3>
         <ul>
@@ -93,7 +93,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
           <li>Barometer calibration</li>
           <li>Pressure transmitter calibration</li>
         </ul>
-        <p>More information about <a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Advanced Pressure Calibrations</a>.
+        <p>More information about <a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Advanced Pressure Calibration Services</a>.
       </p>
       </div>
     )
@@ -117,7 +117,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
           <li>Pin-line flow meter</li>
           <li>NIST calibrations</li>
         </ul>
-      <p>More information about <a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibrations" className="link-primary">Advanced Flow Sensor Calibrations</a>.
+      <p>More information about <a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibrations" className="link-primary">Advanced Flow Sensor Calibration Services</a>.
       </p>
       </div>
     )
@@ -130,9 +130,9 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
       <div>
       <h2>Electrical Calibration Services</h2>
         <p>
-          APS performs <a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">NIST traceable ISO 17025 electrical meter calibration</a> in lab and industrial settings. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid electrical instrument calibration and turnaround</strong>. A sampling of electrical instrument calibration we regularly perform are multimeter,  clamp meter, and data logger. We perform electrical calibrations for many manufacturers of insulation tester, hipot tester (high potential tester), loop tester, and multifunction tester.
+          APS performs <a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">NIST traceable ISO 17025 electrical meter calibration</a> in lab and industrial settings. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid electrical meter calibration and turnaround</strong>. A sampling of electrical instrument calibration we regularly perform include: multimeter, clamp meter, and data logger. We perform electrical calibrations for many manufacturers of insulation tester, hipot tester (high potential tester), loop tester, and multifunction tester.
       </p>
-        <h3>Electrical calibration types include:</h3>
+        <h3>Electrical meter calibration types include:</h3>
         <ul>
           <li>Data Loggers</li>
           <li>Insulation Testers</li>
@@ -144,7 +144,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
           <li>Loop Testers</li>
           <li>Multifunction testers</li>
         </ul>
-            <p>More information about <a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Advanced Electrical Calibrations</a>.
+            <p>More information about <a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Advanced Electrical Calibration Services</a>.
       </p>
       </div>
     )  
@@ -169,7 +169,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
           <li>Manometers</li>
           <li>Digital force gauge</li>
           <li>Torque analyzers / torque testers</li>
-          <li>Torque screwdriver calibration</li>
+          <li>Torque screwdriver calibration services</li>
         </ul>
       </div>
     )  
