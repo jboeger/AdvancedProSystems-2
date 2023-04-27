@@ -51,7 +51,7 @@ const sections = [
       </p>
       <p>
       <ul>
-      <li><strong>Electrical</strong></li>
+      <li><strong>Electrical Meter Calibration</strong></li>
       <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow Sensor</a></li>
       <li>Mechanical and Balance</li>
       <li>Optical</li>
@@ -126,14 +126,6 @@ const faqContent = [
   {
     question: "?",
     answer: "A."
-  },
-  {
-    question: "?",
-    answer: "A."
-  },
-    {
-    question: "?",
-    answer: "A."
   }
 ]
 
@@ -144,7 +136,7 @@ const CalibrationsPage = () => {
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>
-      <FAQ title="Calibrations FAQs - Frequently Asked Questions" content={faqContent} />
+      <FAQ title="Electrical Calibrations FAQs - Frequently Asked Questions" content={faqContent} />
     </Layout>
   );
 };
