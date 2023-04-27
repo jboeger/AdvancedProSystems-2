@@ -72,7 +72,7 @@ const sections = [
       <div>
         <h2>Digital Pressure Gauge Calibration Services</h2>
         <p>
-          Advanced Process Systems provides expert <strong>digital pressure gauge calibration service</strong> for digital pressure gauges and indicators. We have vast experience in digital pressure gauges from all OEM manufacturers.
+          Advanced Process Systems provides expert <strong>digital pressure gauge calibration service</strong> for digital pressure gauges and indicators. We have vast experience in digital pressure gauges / pressure calibration from all OEM manufacturers.
         </p>
       </div>
     )
@@ -85,7 +85,7 @@ const sections = [
       <div>
         <h2>Advanced Analogue Pressure Gauge Calibration Services</h2>
         <p>
-          Advanced Process Systems provides expert analog pressure gauge calibration services for your analogue pressure gauge instruments and indicators. 
+          Advanced Process Systems provides expert analog pressure gauge calibration services for your analogue pressure instruments and indicators. 
         </p>
       </div>
     )
@@ -98,7 +98,7 @@ const sections = [
       <div>
       <h2>Pressure Transmitter Calibration Services</h2>
         <p>
-          Advanced Process Systems provides an expert pressure transmitter calibration services using our ISO 17025 compliant pressure transmitter calibration procedure. We have vast experience in <strong>Rosemount pressure transmitter calibration</strong> as well as other OEM manufacturers.
+          Advanced Process Systems provides an expert <strong>pressure transmitter calibration services</strong> using our ISO 17025 compliant pressure transmitter calibration procedure. We have vast experience in <strong>Rosemount pressure transmitter calibration</strong> as well as other OEM manufacturers.
       </p>
       </div>
     )  
@@ -111,7 +111,7 @@ const sections = [
       <div>
       <h2>Pressure Calibrators</h2>
         <p>
-          Advanced Process Systems pressure calibrators use our ISO 17025 compliant pressure calibrators procedure. We have vast experience in pressure gauge calibrators including <strong>digital pressure calibrators</strong> and <strong>portable pressure calibrators</strong>.
+          Advanced Process Systems pressure calibrators use our ISO 17025 compliant pressure calibrators procedure. We have vast experience in pressure gauge calibrators / pressure calibration including <strong>digital pressure calibrators</strong> and <strong>portable pressure calibrators</strong>.
        </p>
       </div>
     )  
@@ -140,14 +140,6 @@ const faqContent = [
   {
     question: "?",
     answer: "A."
-  },
-  {
-    question: "?",
-    answer: "A."
-  },
-    {
-    question: "?",
-    answer: "A."
   }
 ]
 
@@ -158,7 +150,7 @@ const CalibrationsPage = () => {
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>
-      <FAQ title="Calibrations FAQs - Frequently Asked Questions" content={faqContent} />
+      <FAQ title="Pressure Calibration FAQs - Frequently Asked Questions about Pressure Gauge Calibrations" content={faqContent} />
     </Layout>
   );
 };
