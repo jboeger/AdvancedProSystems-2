@@ -20,7 +20,7 @@ import electricalclamp from "images/clamp-meter.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Calibration Services | Flow, gas, pressure + more",
+  title: "Advanced Calibration Services | NIST Calibrations",
   description: "APS performs NIST traceable calibrations in analytical and industrial applications, from flow / pressure to thermal, electrical, and balance calibrations.",
   canonicalUrl: "https://www.advancedprosystems.com/services/calibrations/",
   img: "",
@@ -258,19 +258,19 @@ APS performs <a href="https://www.advancedprosystems.com/services/temperature-ca
 const faqContent = [
   {
     question: "What does NIST traceable mean?",
-    answer: "National Institute of Standards and Technology standard historical recordkeeping on equipment. This is an unbroken chain of our standard calibrations traceable back to NIST. In conjunction with this, we can provide cradle to grave traceabiltiy over the equipment lifetime. "
+    answer: "National Institute of Standards and Technology standard historical recordkeeping on equipment. This is an unbroken chain of our standard calibrations traceable back to NIST. In conjunction with this, we can provide cradle to grave traceabiltiy over the equipment lifetime. APS specializes in NIST calibrations. "
   },
   {
     question: "Who is ANAB?",
     answer: "The ANSI National Accreditation Board (ANAB) is a non-governmental organization that provides accreditation services and training to public- and private-sector organizations. "
   },
     {
-    question: "What is IQ OQ PQ  validation?",
-    answer: "Installation Qualification, Operational Qualification, and Performance Qualificaton refers to establishing and documenting a process to test new instruments after initial installation in the conditions they operate in, and to the standards that they can be expected to perform too."
+    question: "What is IQ OQ PQ validation?",
+    answer: "Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualificaton (PQ) refers to establishing and documenting a process to test new instruments after initial installation in the conditions they operate in, and to the standards that they can be expected to perform to."
   },
   {
     question: "Does APS provide calibrations near me?",
-    answer: "We provide on-site calibrations throughout the US and Canada as well as centralized instrument calibration through our laboratories in Pleasanton, CA and St. Petersburg, FL."
+    answer: "We provide on-site calibrations throughout the United States and Canada as well as centralized instrument calibration through our laboratories in Pleasanton, California and St. Petersburg, Florida."
   },
 ]
 
@@ -281,7 +281,7 @@ const CalibrationsPage = () => {
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>
-      <FAQ title="Calibrations FAQs - Frequently Asked Questions" content={faqContent} />
+      <FAQ title="Advanced Calibrations FAQs - Frequently Asked Questions" content={faqContent} />
     </Layout>
   );
 };
