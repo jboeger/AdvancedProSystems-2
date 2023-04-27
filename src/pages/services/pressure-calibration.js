@@ -45,7 +45,7 @@ const sections = [
       <div>
         <h1>Advanced Pressure Calibration</h1>
         <p>
-           Adanced Process Systems uses calibration of pressure gauges standards in our ISO 17025 compliant pressure gage calibration. At APS, we know how to calibrate a pressure gauge using industry standards of pressure sensor calibration from all manufacturers of pressure calibration equipment due to our understanding of pressure calibration and how to calibrate a pressure gauge. APS provides pressure calibration with our extensive experience in the calibration of pressure gauges. 
+           Adanced Process Systems uses calibration of pressure gauge standards in our ISO 17025 compliant pressure gage calibration. At APS, we know how to calibrate a pressure gauge using industry standards of pressure sensor calibration from all manufacturers of pressure calibration equipment. 
         </p>
       <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
       </p>
@@ -57,7 +57,7 @@ const sections = [
       <li>Optical</li>
       <li>Physical Dimensional</li>
       <li>Pipette</li>
-      <li><strong>Pressure</strong></li>
+      <li><strong>Pressure Gauge Calibration</strong></li>
       <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermal</a></li>
       </ul>
       </p>
@@ -70,9 +70,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Digital Pressure Gauge / Indicator Calibration</h2>
+        <h2>Digital Pressure Gauge Calibration Services</h2>
         <p>
-          Advanced Process Systems provides expert digital pressure gauge calibration service. We have vast experience in digital pressure gauge from all OEM manufacturers.
+          Advanced Process Systems provides expert <strong>digital pressure gauge calibration service</strong> for digital pressure gauges and indicators. We have vast experience in digital pressure gauges from all OEM manufacturers.
         </p>
       </div>
     )
@@ -83,9 +83,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Analogue Pressure Guage / Indicator Calibration</h2>
+        <h2>Advanced Analogue Pressure Gauge Calibration Services</h2>
         <p>
-          Advanced Process Systems provides expert analog pressure gauge calibration service for your analogue pressure gauge calibration. 
+          Advanced Process Systems provides expert analog pressure gauge calibration services for your analogue pressure gauge instruments and indicators. 
         </p>
       </div>
     )
@@ -96,9 +96,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-      <h2>Pressure Transmitter Calibration</h2>
+      <h2>Pressure Transmitter Calibration Services</h2>
         <p>
-          Advanced Process Systems provides an expert pressure transmitter calibration procedure using our ISO 17025 compliant pressure transmitter calibration procedure. We have vast experience in Rosemount pressure transmitter calibration as well as from all other OEM manufacturers.
+          Advanced Process Systems provides an expert pressure transmitter calibration services using our ISO 17025 compliant pressure transmitter calibration procedure. We have vast experience in <strong>Rosemount pressure transmitter calibration</strong> as well as other OEM manufacturers.
       </p>
       </div>
     )  
@@ -111,7 +111,7 @@ const sections = [
       <div>
       <h2>Pressure Calibrators</h2>
         <p>
-          Advanced Process Systems pressure calibrators use our ISO 17025 compliant pressure calibrators procedure. We have vast experience in pressure gauge calibrators including digital pressure calibrators and portable pressure calibrators.
+          Advanced Process Systems pressure calibrators use our ISO 17025 compliant pressure calibrators procedure. We have vast experience in pressure gauge calibrators including <strong>digital pressure calibrators</strong> and <strong>portable pressure calibrators</strong>.
        </p>
       </div>
     )  
