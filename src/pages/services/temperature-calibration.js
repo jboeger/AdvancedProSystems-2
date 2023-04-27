@@ -71,7 +71,7 @@ const sections = [
       <div>
         <h2>Digital and glass thermometer calibration</h2>
         <p>
-          Advanced Process Systems provides expert service in glass thermometer calibration and digital thermometer calibration. We have vast experience in how to calibrate a digital thermometer from a variety of manufacturers. We can perform thermometer calibration compliant to ISO 17025 accreditation on how to calibrate a digital thermometer.
+          Advanced Process Systems provides expert service in glass thermometer calibration and digital thermometer calibration. We have vast experience in how to calibrate a digital thermometer from a variety of manufacturers. We can perform thermometer calibration compliant to ISO 17025 accreditation. APS is your temperature calibration expert!
         </p>
         <h3>Digital and glass thermometer calibration types include:</h3>
         <ul>
@@ -89,7 +89,7 @@ const sections = [
       <div>
         <h2>Infrared thermometer calibration</h2>
         <p>
-          Advanced Process Systems provides expert service in the calibration of infrared thermometers. We have vast experience in how to calibrate infrared thermometers from a variety of manufacturers. We can perform infrared thermometer calibration compliant to ISO 17025 accreditation on how to calibrate an infrared thermometer.
+          Advanced Process Systems provides expert service in the calibration of infrared thermometers. We have vast experience in how to calibrate infrared thermometers from a variety of manufacturers. We can perform infrared thermometer calibration compliant to ISO 17025 accreditation.
         </p>
       </div>
     )
@@ -115,7 +115,7 @@ const sections = [
       <div>
       <h2>Data logger calibration certificate</h2>
         <p>
-          Advanced Process Systems provides expert data logger calibration service for data logger humidity calibratation. We have vast experience in data logger calibration from all OEM manufacturers. We can provide a data logger calibration certificate compliant to ISO 17025 accreditation for temperature data logger calibration.
+          Advanced Process Systems provides expert data logger calibration service for data logger humidity calibratation. We have vast experience in data logger calibration from all OEM manufacturers. We can provide a data logger calibration certificate compliant to ISO 17025 accreditation.
        </p>
       </div>
     )  
@@ -129,14 +129,6 @@ const sections = [
  */
 const faqContent = [
   {
-    question: "?",
-    answer: "A."
-  },
-  {
-    question: "?",
-    answer: "A."
-  },
-    {
     question: "?",
     answer: "A."
   }
