@@ -76,7 +76,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     imgCols: "6",
     content: (
       <div>
-        <h2>Pressure Calibration</h2>
+        <h2>Pressure Calibration Services</h2>
         <p>
           APS performs <a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">NIST traceable ISO 17025 pressure gauge calibrations</a> in laboratory and industrial process applications. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid pressure gauge calibration turnaround</strong>. A sampling of gauges we regularly calibrate are digital pressure, analog pressure, differential, and test gages. We also calibrate pressure transducer, pressure transmitter, and pressure calibrator applications as well as other pressure applications using a digital pressure indicator, barometer, or pressure module.
         </p>
@@ -84,6 +84,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
         <ul>
           <li>Digital pressure gauge</li>
           <li>Test gauge</li>
+          <li>NIST calibrations</li>
           <li>Pressure transducers</li>
           <li>Digital indicators</li>
           <li>Pressure transmitters</li>
@@ -103,7 +104,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     imgCols: "6",
     content: (
       <div>
-        <h2>Flow Sensor Calibration</h2>
+        <h2>Flow Sensor Calibration Services</h2>
         <p>
           APS performs NIST traceable ISO 17025 <a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibrations" className="link-primary">flow sensor calibration</a> in laboratory and industrial settings. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid flow meter calibration turnaround</strong>. A sampling of flow sensors we regularly calibrate are liquid flow, gas flow and mass flow meters using in-line flow, volumetric flow or optical flow technology. We also calibrate mass flow controllers and other non-invasive flow measurement equipment.
         </p>
@@ -114,6 +115,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
           <li>Liquid flow meter</li>
           <li>Volumetric flow meter</li>
           <li>Pin-line flow meter</li>
+          <li>NIST calibrations</li>
         </ul>
       <p>More information about <a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibrations" className="link-primary">Advanced Flow Sensor Calibrations</a>.
       </p>
@@ -126,7 +128,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     imgCols: "6",
     content: (
       <div>
-      <h2>Electrical Calibration</h2>
+      <h2>Electrical Calibration Services</h2>
         <p>
           APS performs <a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">NIST traceable ISO 17025 electrical meter calibration</a> in lab and industrial settings. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid electrical instrument calibration and turnaround</strong>. A sampling of electrical instrument calibration we regularly perform are multimeter,  clamp meter, and data logger. We perform electrical calibrations for many manufacturers of insulation tester, hipot tester (high potential tester), loop tester, and multifunction tester.
       </p>
@@ -135,6 +137,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
           <li>Data Loggers</li>
           <li>Insulation Testers</li>
           <li>Power Supplies</li>
+          <li>NIST calibrations</li>
           <li>Megohmmeters</li>
           <li>Clamp Meters</li>
           <li>Hipot Testers</li>
@@ -152,7 +155,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     imgCols: "6",
     content: (
       <div>
-      <h2>Mechanical and Balance Calibration</h2>
+      <h2>Mechanical and Balance Calibration Services</h2>
         <p>
           APS performs NIST traceable ISO 17025 sensor calibrations that can be serviced on-site or via overnight to our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate include digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. <strong>Torque wrench calibration is a common request where we expedite service</strong>. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" title="IQ OQ PQ Validation" className="link-primary">qualification and validation</a>.
        </p>
@@ -160,6 +163,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
         <ul>
           <li>Load cell sensor calibration</li>
           <li>Vernier calipers</li>
+          <li>NIST calibrations</li>
           <li>Torque wrench calibration</li>
           <li>Height gauge</li>
           <li>Manometers</li>
@@ -176,7 +180,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     imgCols: "6",
     content: (
       <div>
-      <h2>Dimensional Calibration</h2>
+      <h2>Physical Dimensional Calibration Services</h2>
         <p>
 APS performs NIST traceable ISO 17025 physical dimensional calibration of sensors in analytical lab and industrial settings. We can quickly accommodate on-site or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly include dimensional calibrations covering range from calipers to micrometers to all manner of precison gages. APS is often requested to perform physical dimensional calibration of vernier caliper, height gauge, digital micrometer, and other precision instruments. APS calibration procedures for micrometers enable us to perform calibrations where there is no longer support by the OEM manufacturer and thereby extend the useful life. Once again, physical dimensional calibration is a common request where we expedite service! </p>
         <h3>Physical Dimensional Calibrations include:</h3>
@@ -184,6 +188,7 @@ APS performs NIST traceable ISO 17025 physical dimensional calibration of sensor
           <li>Calipers calibration</li>
           <li>Micrometers calibration</li>
           <li>Dial test indicators calibration</li>
+          <li>NIST calibrations</li>
           <li>Height gages</li>
           <li>Pin gages</li>
           <li>Threaded plug gages</li>
@@ -199,7 +204,7 @@ APS performs NIST traceable ISO 17025 physical dimensional calibration of sensor
       <div>
       <h2>Optical Calibration Services</h2>
         <p>
-APS performs NIST traceable ISO 17025 optical calibration of sensors in analytical lab and industrial settings. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid turnaround. We perform optical comparator calibration or calibration of the optical comparator calibration kit. We will provide optical level calibration, optical calibration,or optical calibration services in general.
+APS performs NIST traceable ISO 17025 optical calibration of sensors in analytical lab and industrial settings. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid turnaround. We perform optical comparator calibration or calibration of the optical comparator calibration kit. We will provide optical level calibration, optical calibration, or optical NIST calibration services in general.
       </p>
       </div>
     )  
@@ -210,16 +215,17 @@ APS performs NIST traceable ISO 17025 optical calibration of sensors in analytic
     imgCols: "6",
     content: (
       <div>
-      <h2>Pipette Calibration</h2>
+      <h2>Pipette Calibration Services</h2>
         <p>
 APS performs NIST traceable ISO 17025 pipette calibration services on all manor of pipettes whether they are a single channel pipette,  multichannel pipette, digital pipette, or repeat pipette. Manufacturers we calibrate regularly are Rainin, Eppendorf, Hamilton, Gilsons, Thermo Fisher Scientific, and Mettler-Toledo,. We can accommodate equipment overnighted into our laboratory for rapid calibration / instrument turnaround. Our pipette calibration services include the calibration of pipette diluters.
       </p>
-        <h3>Types of pipette calibration services:</h3>
+        <h3>Types of pipette calibrations:</h3>
         <ul>
           <li>Pipette calibration services</li>
           <li>Pipette diluters</li>
           <li>Rainin pipette calibration</li>
           <li>Eppendorf pipette calibration</li>
+          <li>NIST calibrations</li>
           <li>Multichannel pipette calibration</li>
         </ul>
       </div>
@@ -231,7 +237,7 @@ APS performs NIST traceable ISO 17025 pipette calibration services on all manor 
     imgCols: "6",
     content: (
       <div>
-      <h2>Temperature Calibration</h2>
+      <h2>Temperature Calibration Services</h2>
         <p>
 APS performs <a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">NIST traceable ISO 17025 thermometer calibration</a> in laboratory and industrial process settings. <strong>We can quickly accommodate equipment overnighted into our laboratory for rapid instrument calibration and turnaround</strong>. We perform digital and glass thermometer calibration on a range of applicatons that also include humidity calibration. Many of these applications include datalogger calibration and thermometer calibration. Several applications of thermometer calibration and humidity calibration require us to set up an initial IQ OQ PQ process qualification and <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" title="IQ OQ PQ Validation" className="link-primary">validation</a>.
       </p>
@@ -244,6 +250,7 @@ APS performs <a href="https://www.advancedprosystems.com/services/temperature-ca
           <li>Data logger calibration certificate</li>
           <li>Thermometer calibration log</li>
           <li>Thermal mass flow calibration</li>
+          <li>NIST calibrations</li>
         </ul>
               <p>More information about <a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Advanced Temperature Calibrations</a>.
       </p>
