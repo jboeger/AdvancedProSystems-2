@@ -114,11 +114,11 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Liquid Flow Meter Calibration</h2>
+        <h2>Liquid Flow Rate Calibration</h2>
         <p>
-          A liquid flow meter is an instrument designed for measuring the rate of fluid flow via a fluid transmission system. APS performs liquid flow meter calibrations whether the measurement system is based on a single fundamental parameter or a very complicated process. The method of measurement depends on the technology used.  <strong>We perform backflow test gauge calibration on a regular basis.</strong>
+          A liquid flow meter is an instrument designed for measuring the flow rate of fluid via a fluid transmission system. APS performs liquid flow rate calibrations (flow meter calibration) whether the measurement system is based on a single fundamental parameter or a very complicated process. The method of measurement depends on the technology used.  <strong>We perform backflow test gauge calibrations / flow rate calibrations on a regular basis.</strong>
         </p>
-        <h3>Leading liquid flow meter brands that we calibrate and service include:</h3>
+        <h3>Leading liquid flow meters we calibrate and service:</h3>
         <ul>
           <li>Hoffer flow controls</li>
           <li>Sonotec / Gems Sensors</li>
@@ -140,7 +140,7 @@ const sections = [
       <div>
       <h2>Mass Flow Meter Calibrations</h2>
         <p>
-          APS performs mass flow meter calibrations to the finest of tolerances in gas measurement. Because the mass flow controller is a specific inline device it is critical that is regularly maintained and calibrated in laboratories or production settings. Mass flow sensor calibration requires both measurement and control functions all the while tight thermal/pressure control is maintained for consistent volumetric metering.
+          APS performs mass flow meter calibrations / flow rate calibrations to the finest of tolerances in gas measurement. Because the mass flow controller is a specific inline device it is critical that is regularly maintained and calibrated in laboratories or production settings. Mass flow sensor calibration requires both measurement and control functions all the while tight thermal/pressure control is maintained for consistent volumetric metering.
       </p>
       <h3>Leading mass flow meter calibrations include: </h3>
       <ul>
