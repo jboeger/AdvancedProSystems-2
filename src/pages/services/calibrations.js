@@ -266,11 +266,11 @@ const faqContent = [
   },
     {
     question: "What is IQ OQ PQ validation?",
-    answer: "Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualificaton (PQ) refers to establishing and documenting a process to test new instruments after initial installation in the conditions they operate in, and to the standards that they can be expected to perform to."
+    answer: "Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualificaton (PQ) refers to establishing and documenting a process to test new instruments after initial installation in the conditions they operate in, and to the standards that they can be expected to perform to. Learn more about <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/">IQ OQ PQ validation</a>."
   },
   {
     question: "Does APS provide calibrations near me?",
-    answer: "We provide on-site calibrations throughout the United States and Canada as well as centralized instrument calibration through our laboratories in Pleasanton, California and St. Petersburg, Florida."
+    answer: "We provide on-site advanced calibrations throughout the United States and Canada as well as centralized instrument calibration through our laboratories in Pleasanton, California and St. Petersburg, Florida."
   },
 ]
 
