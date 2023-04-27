@@ -266,7 +266,7 @@ const faqContent = [
   },
     {
     question: "What is IQ OQ PQ validation?",
-    answer: "Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualificaton (PQ) refers to establishing and documenting a process to test new instruments after initial installation in the conditions they operate in, and to the standards that they can be expected to perform to. Learn more about <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/">IQ OQ PQ validation</a>."
+    answer: "Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualificaton (PQ) refers to establishing and documenting a process to test new instruments after initial installation in the conditions they operate in, and to the standards that they can be expected to perform to. "
   },
   {
     question: "Does APS provide calibrations near me?",
@@ -281,7 +281,7 @@ const CalibrationsPage = () => {
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>
-      <FAQ title="Advanced Calibrations FAQs - Frequently Asked Questions" content={faqContent} />
+      <FAQ title="Advanced Calibrations FAQs - Frequently Asked Questions about NIST Calibrations" content={faqContent} />
     </Layout>
   );
 };
