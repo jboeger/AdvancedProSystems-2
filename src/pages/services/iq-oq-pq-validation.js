@@ -56,7 +56,7 @@ const sections = [
     {
     content: (
       <div>
-        <h2>Advanced Validation Division</h2>
+        <h2>Advanced IQ OQ PQ Validation Division</h2>
         <p>
           With our state of the art KAYE AVS systems we can provide all of your:
         </p>
@@ -72,24 +72,24 @@ const sections = [
   {
     content: (
       <div>
-        <h2>Equipment Validation</h2>
+        <h2>Equipment Qualification</h2>
         <p>
-          APS can create initial protocols or execute existing protocols from simplified to advanced requirements to assist customers equipment qualification or process requirements. Advanced Validation Services can provide comprehensive calibration to validation as "one stop shop" for your qualification requirements.
+          APS can create initial protocols or execute existing protocols from simplified to advanced requirements to assist customers equipment qualification or process requirements. Advanced Validation Services can provide comprehensive calibration to validation as "one stop shop" for your equipment qualification requirements.
         </p>
       <h3>Freezers</h3>
       <p>Full freezer temperature mapping, calibration, and validation protocol execution. </p>
-            <h3>Refrigerators</h3>
+      <h3>Refrigerators</h3>
       <p>Full refrigerator temperature mapping, calibration, and validation protocol execution.</p>
-            <h3>Cold Rooms</h3>
+      <h3>Cold Rooms</h3>
       <p>Full cold room temperature mapping, calibration, and validation protocol execution.</p>
-            <h3>Incubators</h3>
+      <h3>Incubators</h3>
       <p>Incubator temperature mapping, calibration, and validation protocol execution.</p>
-            <h3>Bioreactors</h3>
+      <h3>Bioreactors</h3>
       <p>Full system calibration and validation protocol execution.</p>
-            <h3>Tangental Flow Filtration Systems (TFF)</h3>
-      <p>Full TFF system calibration, validation, and IQ/OQ/PQ qualification protocol execution.</p>
-            <h3>Process Systems</h3>
-      <p>Full process system calibration, validation, and IQ/OQ/PQ qualification protocol execution.</p>
+      <h3>Tangental Flow Filtration Systems (TFF)</h3>
+      <p>Full TFF system calibration, validation, and IQ OQ PQ qualification protocol execution.</p>
+      <h3>Process Systems</h3>
+      <p>Full process system calibration, validation, and IQ OQ PQ validation / qualification protocol execution.</p>
       </div>
     )
   }
