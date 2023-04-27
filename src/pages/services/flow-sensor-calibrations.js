@@ -21,8 +21,8 @@ import flowmeter from "images/flowmeter.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Flow Sensor Calibration | Gas Flow Meter | Controllers | APS",
-  description: "APS performs advanced calibration services for flow sensors, gas flow meters, optical flow sensors, mass flow controllers, liquid flow sensors and more.",
+  title: "Flow Sensor Calibration | Flow Rate Calibration | APS",
+  description: "APS performs ADVANCED CALIBRATION SERVICES for flow sensors, flow rate meters, optical flow sensors, mass flow controllers and more.",
   canonicalUrl: "https://www.advancedprosystems.com/services/flow-sensor-calibrations/",
   img: "",
   imgAlt: "",
@@ -55,7 +55,7 @@ const sections = [
       <p>
       <ul>
       <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical</a></li>
-      <li><strong>Flow Sensor</strong></li>
+      <li><strong>Flow Sensor Calibration</strong></li>
       <li>Mechanical and Balance</li>
       <li>Optical</li>
       <li>Physical Dimensional</li>
@@ -140,9 +140,9 @@ const sections = [
       <div>
       <h2>Mass Flow Meter Calibrations</h2>
         <p>
-          APS performs mass flow meter calibrations to the finest of tolerances in gas measurement. Because the mass flow controller is a specific inline device it is critical that is regularly maintained and calibrated in laboratories or production settings. The mass flow sensor requires calibration for both it’s measurement and control functions all the while tight thermal/pressure control is maintained for consistent volumetric metering.
+          APS performs mass flow meter calibrations to the finest of tolerances in gas measurement. Because the mass flow controller is a specific inline device it is critical that is regularly maintained and calibrated in laboratories or production settings. Mass flow sensor calibration requires both measurement and control functions all the while tight thermal/pressure control is maintained for consistent volumetric metering.
       </p>
-      <h3>Leading mass flow meters calibrated and serviced: </h3>
+      <h3>Leading mass flow meter calibrations include: </h3>
       <ul>
       <li>Brooks</li>
       <li>Burkert</li>
@@ -160,9 +160,9 @@ const sections = [
       <div>
       <h2>Volumetric Flow Meter Calibration</h2>
         <p>
-          APS performs NIST traceable ISO 17025 sensor calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate are digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. Torque wrench calibration is a common request where we expedite service. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process qualification and validation.
+          APS performs NIST traceable ISO 17025 sensor calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted to our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate include: digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. <strong>Torque wrench calibration is a common request where we expedite service</strong>. Several applications of balance calibration, load cell calibration, torque calibration and flow sensor calibration involve our setting up an initial IOPQ process qualification and validation.
        </p>
-      <h3>Leading brands calibrated and serviced:</h3>
+      <h3>Leading volumentric flow meter calibrations include:</h3>
       <ul>
       <li>Copley</li>
       <li>TSI</li>
@@ -176,7 +176,7 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-      <h2>In-Line Flow Meters</h2>
+      <h2>In-Line Flow Meter Calibration</h2>
         <p>
 APS works with NIST traceable ISO 17025 in-line flow meter calibration in analytical laboratory and in industrial process applications. These meters work on a variety of physical properties that include acoustic, optical, volumetric, or gravimetric methods.
         </p>
@@ -217,7 +217,7 @@ APS performs NIST traceable ISO 17025 optical flow sensor calibration in analyti
 const faqContent = [
   {
     question: "What are in line flow meters?",
-    answer: "In line flow meters are devices used to measure the flow rate of liquids or gases in a pipeline. They are installed directly in the pipeline and provide real-time measurements of the flow rate. In line flow meters are commonly used in laboratory settings for measuring the flow rate of liquids in experiments, as well as in industrial production processes for monitoring the flow rate of liquids or gases in manufacturing processes. There are different types of in line flow meters, including electromagnetic, ultrasonic, and thermal flow meters, each with their own advantages and limitations. The choice of in line flow meter depends on the specific application and the properties of the fluid being measured. "
+    answer: "In line flow meters are devices used to measure the flow rate of liquids or gases in a pipeline. They are installed directly in the pipeline and provide real-time measurements of the flow rate. In line flow meters (sensors) are commonly used in laboratory settings for measuring the flow rate of liquids in experiments, as well as in industrial production processes for monitoring the flow rate of liquids or gases in manufacturing processes. There are different types of in line flow meters, including electromagnetic, ultrasonic, and thermal flow meters, each with their own advantages and limitations. The choice of in line flow meter depends on the specific application and the properties of the fluid being measured. "
   }
 ]
 
