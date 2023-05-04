@@ -123,7 +123,12 @@ const sections = [
 /**
  * similar thing here - each object {} is a FAQ entry
  */
-
+const faqContent = [
+  {
+    question: ". ",
+    answer: ". "
+  }
+]
 
 const CalibrationsPage = () => {
   return (
