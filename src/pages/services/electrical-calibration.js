@@ -73,8 +73,11 @@ const sections = [
       <div>
         <h2>Multimeter calibration</h2>
         <p>
-          Advanced Process Systems provides expert ISO 17025 compliant multimeter calibration service for all OEM multimeter manufacturers. 
+          Advanced Process Systems provides expert ISO 17025 compliant <strong>multimeter calibration</strong> service for all OEM multimeter manufacturers. 
         </p>
+        <p>
+          Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid turnaround.
+        </p> 
       </div>
     )
   },
