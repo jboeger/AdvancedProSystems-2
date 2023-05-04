@@ -111,7 +111,7 @@ const sections = [
       <div>
       <h2>Pressure Calibrators</h2>
         <p>
-          Advanced Process Systems pressure calibrators use our ISO 17025 compliant pressure calibrators procedure. We have vast experience in pressure gauge calibrators / pressure calibration including <strong>digital pressure calibrators</strong> and <strong>portable pressure calibrators</strong>.
+          Advanced Process Systems brings an exceptional level of expertise to our pressure calibration procedures, adhering strictly to ISO 17025 standards. Our proficiency spans a broad spectrum of <strong>pressure gauge calibrators</strong>, inclusive of <strong>digital and portable pressure calibrators</strong>. Each type of calibrator offers unique advantages: the digital variant provides precision with easy-to-read displays, while portable models ensure flexibility and convenience for on-site calibrations. At APS, we have amassed considerable experience across these varying calibrators, enabling us to deliver precise, reliable calibration services attuned to each specific device and its intended application.
        </p>
       </div>
     )  
@@ -124,7 +124,7 @@ const sections = [
       <div>
       <h2>Test Gauge Calibration</h2>
         <p>
-          Advanced Process Systems test gauge calibration uses our ISO 17025 compliant calibration procedure.
+          Advanced Process Systems employs our ISO 17025 compliant calibration procedure in our test gauge calibration services. This process ensures we maintain the highest level of precision and accuracy, demonstrating our commitment to excellence in every calibration we perform.
        </p>
       </div>
     )  
@@ -138,8 +138,8 @@ const sections = [
  */
 const faqContent = [
   {
-    question: "?",
-    answer: "A."
+    question: ".",
+    answer: "."
   }
 ]
 
