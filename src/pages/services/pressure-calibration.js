@@ -72,7 +72,7 @@ const sections = [
       <div>
         <h2>Digital Pressure Gauge Calibration Services</h2>
         <p>
-          Advanced Process Systems provides expert <strong>digital pressure gauge calibration service</strong> for digital pressure gauges and indicators. We have vast experience in digital pressure gauges / pressure calibration from all OEM manufacturers.
+      Advanced Process Systems proudly offers exceptional <strong>digital pressure gauge calibration</strong> services for both digital pressure gauges and indicators. Our extensive experience in digital pressure gauge calibration encompasses devices from all Original Equipment Manufacturer (OEM) sources, showcasing our dedication to delivering precise and accurate results across a wide range of instruments.
         </p>
       </div>
     )
@@ -85,7 +85,7 @@ const sections = [
       <div>
         <h2>Advanced Analogue Pressure Gauge Calibration Services</h2>
         <p>
-          Advanced Process Systems provides expert analog pressure gauge calibration services for your analogue pressure instruments and indicators. 
+          Advanced Process Systems offers expert <strong>analog pressure gauge calibration</strong> services for all your analog pressure instruments and indicators. Unlike their digital counterparts, analog gauges provide an inherent ruggedness and simplicity, making them indispensable in certain environments and applications. Their unique functionality, with no requirement for power sources and resistance to power surges, underscores the importance of their meticulous calibration. At APS, we understand these subtle nuances between analog and digital devices, and we tailor our services to ensure each device's unique needs are met with precision and accuracy.
         </p>
       </div>
     )
