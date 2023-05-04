@@ -45,7 +45,7 @@ const sections = [
       <div>
         <h1>Advanced Pressure Calibration</h1>
         <p>
-           Adanced Process Systems uses calibration of pressure gauge standards in our ISO 17025 compliant pressure gage calibration. At APS, we know how to calibrate a pressure gauge using industry standards of pressure sensor calibration from all manufacturers of pressure calibration equipment. 
+           Advanced Process Systems (APS) is dedicated to the meticulous calibration of pressure gauge standards, a critical procedure that forms an integral part of our ISO 17025 compliant pressure gauge calibration process. Our extensive knowledge and expertise at APS allow us to proficiently calibrate pressure gauges, employing industry-wide standards for pressure sensor calibration. This proficiency extends to equipment from all manufacturers, reflecting our commitment to universal quality and accuracy.
         </p>
       <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
       </p>
