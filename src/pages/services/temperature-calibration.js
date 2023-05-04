@@ -94,6 +94,9 @@ const sections = [
         <p>
           Advanced Process Systems provides expert service in the calibration of infrared thermometers. We have vast experience in how to calibrate infrared thermometers from a variety of manufacturers. We can perform infrared thermometer calibrations compliant to ISO 17025 accreditation.
         </p>
+      <p>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid infrared thermometer calibration turnaround. </mark>
+        </p> 
       </div>
     )
   },
@@ -107,6 +110,9 @@ const sections = [
         <p>
           APS provides expert humidity calibration service for hygrometers. We have vast experience in relative humidity calibration standards from a variety of manufacturers. We can perform hygrometer calibration complant to ISO 17025 accreditation for humidity sensor calibration.
       </p>
+            <p>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid humidity sensor calibration turnaround. </mark>
+        </p> 
       </div>
     )  
   },
@@ -120,6 +126,9 @@ const sections = [
         <p>
           APS provides expert data logger calibration service for data logger humidity calibratation. <strong><em>We have vast experience in data logger calibration from all OEM manufacturers</em></strong>. We can provide a data logger calibration certificate compliant to ISO 17025 accreditation.
        </p>
+            <p>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid data logger calibration certificate turnaround. </mark>
+        </p> 
       </div>
     )  
   }
