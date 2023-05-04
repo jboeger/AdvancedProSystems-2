@@ -78,6 +78,9 @@ const sections = [
           <li>APS' thermal range of calibration for digital thermometers is from -196C to 680C</li>
           <li>APS' thermal range of calibration for glass thermometers is from -50C to 250C</li>
         </ul>
+        <p>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid digital thermometer calibration turnaround. </mark>
+        </p> 
       </div>
     )
   },
