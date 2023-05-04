@@ -66,6 +66,9 @@ const sections = [
           <li>Follow and test your company's internal Protocols.</li>
           <li>Can provide temperature mapping.</li>
         </ul>
+        <p>
+          <mark> <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for Advanced IQ OQ PQ Validation services. </mark>
+        </p> 
       </div>
     )
   },
@@ -90,6 +93,9 @@ const sections = [
       <p>Full TFF system calibration, validation, and IQ OQ PQ qualification protocol execution.</p>
       <h3>Process Systems</h3>
       <p>Full process system calibration, validation, and IQ OQ PQ validation / qualification protocol execution.</p>
+            <p>
+          <mark> <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for Advanced Equipment Qualification services. </mark>
+        </p> 
       </div>
     )
   }
