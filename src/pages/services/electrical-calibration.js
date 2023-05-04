@@ -73,7 +73,7 @@ const sections = [
       <div>
         <h2>Multimeter calibration</h2>
         <p>
-          Advanced Process Systems provides expert multimeter calibration service for all OEM manufacturers of multimeters. Full service multimeter calibration services are as close as any "multimeter calibration near me" with our overnight calibration and shipping service compliant to ISO 17025.
+          Advanced Process Systems provides expert ISO 17025 compliant multimeter calibration service for all OEM multimeter manufacturers. 
         </p>
       </div>
     )
@@ -86,7 +86,7 @@ const sections = [
       <div>
         <h2>Insulation Testers</h2>
         <p>
-          Insulation testers calibration services are as close as our available overnight calibration and shipping service compliant to ISO 17025. 
+          Advanced Process Systems provides expert ISO 17025 compliant insulation testers calibration service for all OEM insulation tester manufacturers. 
         </p>
       </div>
     )
@@ -99,7 +99,7 @@ const sections = [
       <div>
       <h2>Pressure Transmitter Calibration</h2>
         <p>
-          Advanced Process Systems provides an expert pressure transmitter calibration procedure using our ISO 17025 compliant pressure transmitter calibration procedure. We have vast experience in Rosemount pressure transmitter calibration as well as from all other OEM manufacturers.
+          Advanced Process Systems provides an expert ISO 17025 compliant pressure transmitter calibration services. We have vast experience in Rosemount pressure transmitter calibration as well as from all other OEM pressure transmitter manufacturers.
       </p>
       </div>
     )  
@@ -112,7 +112,7 @@ const sections = [
       <div>
       <h2>Power Supply</h2>
         <p>
-          Power supplies calibration services are as close as our available overnight calibration and shipping service compliant to ISO 17025.
+          APS provides expert ISO 17025 compliant POWER SUPPLY calibration services.
        </p>
       </div>
     )  
@@ -123,12 +123,7 @@ const sections = [
 /**
  * similar thing here - each object {} is a FAQ entry
  */
-const faqContent = [
-  {
-    question: "?",
-    answer: "A."
-  }
-]
+
 
 const CalibrationsPage = () => {
   return (
