@@ -107,6 +107,9 @@ const sections = [
           <li>Siemens calibrations</li>
           <li>Yokogawa flow meter calibration</li>
         </ul>
+      <p>
+          <mark> <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for gas flow meter calibration services. </mark>
+        </p> 
       </div>
     )
   },
@@ -131,6 +134,9 @@ const sections = [
           <li>Rosemount transmitter calibration</li>
           <li>Agilent calibration</li>
         </ul>
+            <p>
+          <mark> <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for liquid flow rate calibration services. </mark>
+        </p> 
       </div>
     )
   },
@@ -151,6 +157,9 @@ const sections = [
       <li>Bronkhorst</li>
       <li>Porter</li>
       </ul>
+            <p>
+          <mark> <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for mass flow meter calibration services. </mark>
+        </p> 
       </div>
     )  
   },
@@ -169,6 +178,9 @@ const sections = [
       <li>Copley</li>
       <li>TSI</li>
       </ul>
+            <p>
+          <mark> <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for volumetric flow meter calibration services. </mark>
+        </p> 
       </div>
     )  
   },
@@ -182,6 +194,9 @@ const sections = [
         <p>
 APS works with NIST traceable ISO 17025 <strong>in-line flow meter calibration</strong> in analytical laboratory and in industrial process applications. These flow meters work on a variety of physical properties that include acoustic, optical, volumetric, or gravimetric methods.
         </p>
+            <p>
+          <mark> <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for IN-LINE flow meter calibration services. </mark>
+        </p> 
       </div>
     )  
   },
@@ -195,6 +210,9 @@ APS works with NIST traceable ISO 17025 <strong>in-line flow meter calibration</
         <p>
 APS performs <strong>acoustic flow meter calibration</strong> that incorporates the geometric calibration of the tube or pipe the liquid passes through. APS performs acoustic flow sensor calibration on flow meters, bubble sensors, and level sensors using this technology. <strong>Inline or non-invasive available!</strong>
       </p>
+            <p>
+          <mark> <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for acoustic flow sensor calibration services. </mark>
+        </p> 
       </div>
     )  
   },
