@@ -35,7 +35,7 @@ const sections = [
               Installation
             </li>
             <li>
-              Calibration
+              <a href="https://www.advancedprosystems.com/services/calibrations/" title="Calibration" className="link-primary">Calibration</a>
             </li>
             <li>
               Integration
