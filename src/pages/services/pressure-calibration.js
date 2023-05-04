@@ -153,8 +153,8 @@ const sections = [
  */
 const faqContent = [
   {
-    question: ".",
-    answer: "."
+    question: "What is pressure gauge calibration? ",
+    answer: "Pressure gauge calibration is the process of checking and adjusting the accuracy of a pressure gauge by comparing its readings to a reference standard of known accuracy. It ensures that the pressure gauge is measuring pressure correctly, so it can be relied upon for accurate and reliable measurements. Regular calibration is important for maintaining accuracy and meeting industry standards and regulations. "
   }
 ]
 
