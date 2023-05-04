@@ -227,7 +227,7 @@ APS performs <strong>acoustic flow meter calibration</strong> that incorporates 
 APS performs NIST traceable ISO 17025 <strong>optical flow sensor</strong> calibration in analytical laboratory and in industrial process applications. APS calibrates these sensors whether the optical flow meter measures through optical fiber interferometry, optical hot-wire anemometry, or scintillation. Inline or non-invasive available.
       </p>
       <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid optical flow meter calibration turnaround. </mark>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for optical flow meter calibration services. </mark>
         </p> 
       </div>
     )  
