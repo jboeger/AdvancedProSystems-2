@@ -46,7 +46,7 @@ const sections = [
         <h1>Electrical Calibration</h1>
         <h2>Electrical Meter Calibration</h2>
         <p>
-           Adanced Process Systems performs electrical calibration for all manner of instrumentation including hipot testers and clampon meters. APS provides precise ISO 17025 compliant electrical meter calibration.
+           Adanced Process Systems performs precise ISO 17025 compliant electrical calibration for all manner of instrumentation including multimeters, insulation testers, pressure transmitters, power supplies, hipot testers and clampon meters.
         </p>
       <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
       </p>
@@ -86,7 +86,7 @@ const sections = [
       <div>
         <h2>Insulation Testers</h2>
         <p>
-          Advanced Process Systems provides expert ISO 17025 compliant insulation testers calibration service for all OEM insulation tester manufacturers. 
+          APS provides expert ISO 17025 compliant <strong>insulation testers calibration</strong> service for all OEM insulation tester manufacturers. 
         </p>
       </div>
     )
@@ -99,7 +99,7 @@ const sections = [
       <div>
       <h2>Pressure Transmitter Calibration</h2>
         <p>
-          Advanced Process Systems provides an expert ISO 17025 compliant pressure transmitter calibration services. We have vast experience in Rosemount pressure transmitter calibration as well as from all other OEM pressure transmitter manufacturers.
+          Advanced Process Systems provides an expert ISO 17025 compliant <strong>pressure transmitter calibration</strong> services. We have vast experience in Rosemount pressure transmitter calibration as well as from all other OEM pressure transmitter manufacturers.
       </p>
       </div>
     )  
