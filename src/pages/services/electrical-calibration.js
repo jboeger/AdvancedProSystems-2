@@ -76,7 +76,7 @@ const sections = [
           Advanced Process Systems provides expert ISO 17025 compliant <strong>multimeter calibration</strong> service for all OEM multimeter manufacturers. 
         </p>
         <p>
-          <mark>Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid turnaround. </mark>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid multimeter calibration turnaround. </mark>
         </p> 
       </div>
     )
@@ -91,6 +91,9 @@ const sections = [
         <p>
           APS provides expert ISO 17025 compliant <strong>insulation testers calibration</strong> service for all OEM insulation tester manufacturers. 
         </p>
+       <p>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid insulation testers calibration turnaround. </mark>
+        </p> 
       </div>
     )
   },
@@ -104,6 +107,9 @@ const sections = [
         <p>
           Advanced Process Systems provides an expert ISO 17025 compliant <strong>pressure transmitter calibration</strong> services. We have vast experience in Rosemount pressure transmitter calibration as well as from all other OEM pressure transmitter manufacturers.
       </p>
+      <p>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid pressure transmitter calibration turnaround. </mark>
+        </p> 
       </div>
     )  
   },
@@ -117,6 +123,9 @@ const sections = [
         <p>
           APS provides expert ISO 17025 compliant POWER SUPPLY calibration services.
        </p>
+        <p>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid power supply calibration turnaround. </mark>
+        </p> 
       </div>
     )  
   }
