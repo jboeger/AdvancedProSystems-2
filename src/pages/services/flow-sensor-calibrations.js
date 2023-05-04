@@ -21,8 +21,8 @@ import flowmeter from "images/flowmeter.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Flow Sensor Calibration | Flow Rate Calibration | APS",
-  description: "APS performs ADVANCED CALIBRATION SERVICES for flow sensors, flow rate meters, optical flow sensors, mass flow controllers and more.",
+  title: "Flow Sensor Calibration | Gas, Flow Rate Calibration",
+  description: "APS performs ADVANCED CALIBRATION SERVICES for flow sensors, flow rate meters, optical flow sensors, gas flow meters, mass flow controllers and more.",
   canonicalUrl: "https://www.advancedprosystems.com/services/flow-sensor-calibrations/",
   img: "",
   imgAlt: "",
@@ -77,7 +77,7 @@ const sections = [
       <div>
         <h2>Gas Flow Meters and Sensors</h2>
         <p>
-          APS performs gas flow sensor calibrations whether the measurement system is based on a single fundamental parameter or a very complicated process. The gas flow meter used for measurement depends on the technology used.
+          APS performs <strong>gas flow sensor calibrations</strong> whether the measurement system is based on a single fundamental parameter or a very complicated process. The gas flow meter used for measurement depends on the technology used.
         </p>
         <h3>Gas flow and liquid flow metering technology types:</h3>
         <p>There are 8 commonly used technologies in gas flow and liquid flow measurement. They are:</p>
@@ -118,7 +118,7 @@ const sections = [
       <div>
         <h2>Liquid Flow Rate Calibration</h2>
         <p>
-          A liquid flow meter is an instrument designed for measuring the flow rate of fluid via a fluid transmission system. APS performs liquid flow rate calibrations (flow meter calibration) whether the measurement system is based on a single fundamental parameter or a very complicated process. The method of measurement depends on the technology used.  <strong>We perform backflow test gauge calibrations / flow rate calibrations on a regular basis.</strong>
+          A liquid flow meter is an instrument designed for measuring the <strong>flow rate</strong> of fluid via a fluid transmission system. APS performs liquid flow rate calibrations (flow meter calibration) whether the measurement system is based on a single fundamental parameter or a very complicated process. The method of measurement depends on the technology used.  <strong><em>We perform backflow test gauge calibrations / flow rate calibrations on a regular basis.</em></strong>
         </p>
         <h3>Leading liquid flow meters we calibrate and service:</h3>
         <ul>
@@ -142,7 +142,7 @@ const sections = [
       <div>
       <h2>Mass Flow Meter Calibrations</h2>
         <p>
-          APS performs mass flow meter calibrations / flow rate calibrations to the finest of tolerances in gas measurement. Because the mass flow controller is a specific inline device it is critical that is regularly maintained and calibrated in laboratories or production settings. Mass flow sensor calibration requires both measurement and control functions all the while tight thermal/pressure control is maintained for consistent volumetric metering.
+          APS performs <strong>mass flow meter calibrations / flow rate calibrations</strong> to the finest of tolerances in gas measurement. Because the mass flow controller is a specific inline device it is critical that is regularly maintained and calibrated in laboratories or production settings. Mass flow sensor calibration requires both measurement and control functions all the while tight thermal / pressure control is maintained for consistent volumetric metering.
       </p>
       <h3>Leading mass flow meter calibrations include: </h3>
       <ul>
@@ -162,7 +162,7 @@ const sections = [
       <div>
       <h2>Volumetric Flow Meter Calibration</h2>
         <p>
-          APS performs NIST traceable ISO 17025 sensor calibration in analytical laboratory and in industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted to our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate include: digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. <strong>Torque wrench calibration is a common request where we expedite service</strong>. Several applications of balance calibration, load cell calibration, torque calibration and flow sensor calibration involve our setting up an initial IOPQ process qualification and validation.
+          APS performs NIST traceable ISO 17025 volumetric flow sensor calibration in analytical laboratory / industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted to our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate include: digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. <strong>Torque wrench calibration is a common request where we expedite service</strong>. Several applications of balance calibration, load cell calibration, torque calibration and flow sensor calibration involve our setting up an initial IOPQ process qualification and validation.
        </p>
       <h3>Leading volumentric flow meter calibrations include:</h3>
       <ul>
@@ -180,7 +180,7 @@ const sections = [
       <div>
       <h2>In-Line Flow Meter Calibration</h2>
         <p>
-APS works with NIST traceable ISO 17025 in-line flow meter calibration in analytical laboratory and in industrial process applications. These meters work on a variety of physical properties that include acoustic, optical, volumetric, or gravimetric methods.
+APS works with NIST traceable ISO 17025 <strong>in-line flow meter calibration</strong> in analytical laboratory and in industrial process applications. These flow meters work on a variety of physical properties that include acoustic, optical, volumetric, or gravimetric methods.
         </p>
       </div>
     )  
@@ -193,7 +193,7 @@ APS works with NIST traceable ISO 17025 in-line flow meter calibration in analyt
       <div>
       <h2>Acoustic Flow Sensor - Inline or non-invasive acoustic flow sensor calibration</h2>
         <p>
-APS performs acoustic flow meter calibration that incorporates the geometric calibration of the tube or pipe the liquid passes through. APS performs acoustic flow sensor calibration on flow meters, bubble sensors, and level sensors using this technology. Inline or non-invasive available.
+APS performs <strong>acoustic flow meter calibration</strong> that incorporates the geometric calibration of the tube or pipe the liquid passes through. APS performs acoustic flow sensor calibration on flow meters, bubble sensors, and level sensors using this technology. <strong>Inline or non-invasive available!</strong>
       </p>
       </div>
     )  
