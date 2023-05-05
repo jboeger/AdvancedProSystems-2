@@ -153,8 +153,20 @@ const sections = [
  */
 const faqContent = [
   {
+    question: "What is pressure calibration? ",
+    answer: "Pressure calibration is the process of verifying and adjusting the accuracy of instruments used to measure pressure by comparing them to a reference standard. This can include pressure gauges, transducers, and sensors. The goal of calibration is to ensure that the instrument is measuring pressure correctly and providing reliable measurements. While pressure gauge calibration specifically refers to the calibration of pressure gauges, pressure calibration encompasses a wider range of instruments used to measure pressure. Regular calibration of pressure instruments is important for maintaining accuracy and meeting industry standards and regulations. Calibration can be done in-house using specialized equipment, or by sending the instrument to a calibration laboratory. "
+  },
+    {
     question: "What is pressure gauge calibration? ",
     answer: "Pressure gauge calibration is the process of checking and adjusting the accuracy of a pressure gauge by comparing its readings to a reference standard of known accuracy. It ensures that the pressure gauge is measuring pressure correctly, so it can be relied upon for accurate and reliable measurements. Regular calibration is important for maintaining accuracy and meeting industry standards and regulations. "
+  },
+      {
+    question: "What is a pressure transmitter? ",
+    answer: "A pressure transmitter measures and transmits pressure readings in industrial applications. Accurate readings are crucial for safety and avoiding errors. Proper calibration is necessary to maintain accuracy and prevent costly errors. "
+  },
+        {
+    question: "What is a differential pressure transmitter? ",
+    answer: "A differential pressure transmitter measures the difference in pressure between two points in a system. They are commonly used in industrial applications such as flow measurement and require regular calibration to ensure accurate and reliable measurements. "
   }
 ]
 
