@@ -141,8 +141,16 @@ const sections = [
  */
 const faqContent = [
   {
-    question: "?",
-    answer: "A."
+    question: "What is temperature calibration?",
+    answer: "Temperature calibration is the process of checking and adjusting the accuracy of instruments used to measure temperature, such as thermometers and temperature sensors. Calibration involves comparing the instrument to a reference standard of known accuracy, and making adjustments to ensure accurate and reliable measurements. Regular calibration is important for meeting industry standards and regulations. "
+  },
+    {
+    question: "What is thermometer calibration?",
+    answer: "Thermometer calibration ensures accurate temperature measurement. Digital thermometers are calibrated by comparing readings to a reference standard, glass thermometers are calibrated at specific temperature points, and infrared thermometers are calibrated against a known reference. Regular calibration is important for meeting industry standards and regulations. "
+  },
+      {
+    question: "How does 'constant temp' affect thermocouple calibration?",
+    answer: "A stable temperature environment is essential during thermocouple calibration to obtain accurate results. Temperature fluctuations can affect the accuracy of the thermocouple readings. A constant temperature is typically achieved using a temperature-controlled furnace or a dry block calibrator. "
   }
 ]
 
