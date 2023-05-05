@@ -137,8 +137,11 @@ const sections = [
  */
 const faqContent = [
   {
-    question: ". ",
-    answer: ". "
+    question: "What is electrical calibration? ",
+    answer: "Electrical calibration is the process of verifying and adjusting the accuracy of electrical measurement instruments such as multimeters and oscilloscopes. The instrument is compared to a reference standard to ensure accurate and reliable measurements. Regular calibration is important to meet industry standards and regulations. "
+  },
+      question: "What is the standard for electrical calibration? ",
+    answer: "National or international organizations like NIST or ISO set the standards for electrical calibration. These standards ensure accuracy and reliability by providing guidelines and procedures for calibration of electrical instruments. Adhering to these standards is important for meeting industry regulations and quality management systems. "
   }
 ]
 
