@@ -29,21 +29,21 @@ const cards = [
     body: "",
     img: card1Img,
     imgAlt: "Picture of gears including rules, standards, policies, and compliance - appropriate for process consulting and calibration services. ",
-    link: "/services/calibrations"
+    link: "/services/calibrations/"
   },
   {
     title: "Laboratory, Industrial Service Plans",
     body: "",
     img: card2Img,
     imgAlt: "Picture close-up of lab technician working with a bioreactor. ",
-    link: "/services"
+    link: "/services/"
   },
   {
     title: "Biotech Equipment and Parts",
     body: "",
     img: card3Img,
     imgAlt: "Products - Biotech Equipment and Parts",
-    link: "/products"
+    link: "/products/"
   }
 ];
 
