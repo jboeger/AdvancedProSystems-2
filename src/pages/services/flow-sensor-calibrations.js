@@ -52,20 +52,20 @@ const sections = [
       
       <p>At APS, we understand the importance of precise calibration for these diverse instruments to ensure the utmost accuracy and stability of the process. Our commitment to excellence underpins every calibration we perform, fostering trust in the precision and reliability of every measurement.
         </p>
-      <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
-      </p>
-      <p>
+      <div class="list-group-wrapper">
+      <h3><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></h3>
+      
       <ul>
-      <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical</a></li>
-      <li><strong>Flow Sensor Calibration</strong></li>
+      <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical, Multimeters</a></li>
+      <li><strong>Flow - Fluids, Liquids, Gas</strong></li>
       <li>Mechanical and Balance</li>
       <li>Optical</li>
       <li>Physical Dimensional</li>
       <li>Pipette</li>
-      <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermal</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure Gauge Calibration</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermometers</a></li>
       </ul>
-      </p>
+      </div>
       </div>
     )
   },
