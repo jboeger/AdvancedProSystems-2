@@ -9,7 +9,8 @@
 }
 
 .list-group-wrapper {
-  padding: 0 20px 0 20px;
+  padding: 10px 20px 0 10px;
   border: 1px solid #212529;
   border-radius: 7px;
+  font-size: 0.9em;
 }
