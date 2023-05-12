@@ -47,12 +47,12 @@ const sections = [
         <p>
            Advanced Process Systems (APS) is dedicated to the meticulous calibration of pressure gauge standards, a critical procedure that forms an integral part of our ISO 17025 compliant pressure gauge calibration process. Our extensive knowledge and expertise at APS allow us to proficiently calibrate pressure gauges, employing industry-wide standards for pressure sensor calibration. This proficiency extends to equipment from all manufacturers, reflecting our commitment to universal quality and accuracy.
         </p>
-      <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
-      </p>
-            <p>
+      <div class="list-group-wrapper">
+      <a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations - Main" className="link-primary">Advanced Calibrations main page</a>
+
       <ul>
-      <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow Sensor</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical / Multimeters</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow - Gas, fluid, liquid</a></li>
       <li>Mechanical and Balance</li>
       <li>Optical</li>
       <li>Physical Dimensional</li>
@@ -60,7 +60,7 @@ const sections = [
       <li><strong>Pressure Gauge Calibration</strong></li>
       <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermal</a></li>
       </ul>
-      </p>
+      </div>
       </div>
     )
   },
