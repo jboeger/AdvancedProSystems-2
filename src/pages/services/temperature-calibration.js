@@ -47,7 +47,7 @@ const sections = [
            Adanced Process Systems performs thermometer calibration, thermocouple calibration, thermal cycler calibration, and thermal probe calibration as we can provide thermometer calibration logs, thermometer calibration certificates, and thermal anlysis calibrations.  APS provides precise temperature calibration with our extensive experience in how to calibrate thermocouples, how to calibrate hygrometers, and how to calibrate thermometers. 
         </p>
       <div class="list-group-wrapper">
-      <h3><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a></h3>
+      <h3><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></h3>
 
       <ul>
       <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical, Multimeters</a></li>
