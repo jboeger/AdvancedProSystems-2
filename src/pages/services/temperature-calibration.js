@@ -59,7 +59,7 @@ const sections = [
       <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure Gauge Calibration</a></li>
       <li><strong>Temperature / Thermometers</strong></li>
       </ul>
-      </p>
+      </div>
       </div>
     )
   },
