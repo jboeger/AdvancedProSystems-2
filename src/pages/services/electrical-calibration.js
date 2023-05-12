@@ -48,9 +48,9 @@ const sections = [
         <p>
            Adanced Process Systems performs <strong>precise ISO 17025 compliant electrical calibration</strong> for all manner of instrumentation including multimeters, insulation testers, pressure transmitters, power supplies, hipot testers and clampon meters.
         </p>
-      <p><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a>
-      </p>
-      <p>
+      <div class="list-group-wrapper">
+      <h3><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a></h3>
+
       <ul>
       <li><strong>Electrical Meter Calibration</strong></li>
       <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow Sensor</a></li>
@@ -61,7 +61,7 @@ const sections = [
       <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure</a></li>
       <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermal</a></li>
       </ul>
-      </p>
+      </div>
       </div>
     )
   },
