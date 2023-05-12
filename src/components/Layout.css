@@ -7,3 +7,9 @@
   /* background-blend-mode: "lighten"; */
   /* background-color: "rgba(0,0,0,.1)"; */
 }
+
+.list-group-wrapper {
+  padding: 0 20px 0 20px;
+  border: 1px solid #212529;
+  border-radius: 7px;
+}
