@@ -49,7 +49,7 @@ const sections = [
            Adanced Process Systems performs <strong>precise ISO 17025 compliant electrical calibration</strong> for all manner of instrumentation including multimeters, insulation testers, pressure transmitters, power supplies, hipot testers and clampon meters.
         </p>
       <div class="list-group-wrapper">
-      <h3><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations main page</a></h3>
+      <h3><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></h3>
 
       <ul>
       <li><strong>Electrical Meter Calibration</strong></li>
@@ -58,7 +58,7 @@ const sections = [
       <li>Optical</li>
       <li>Physical Dimensional</li>
       <li>Pipette</li>
-      <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure Gauge Calibration</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Gauge Calibration" className="link-primary">Pressure Gauge Calibration</a></li>
       <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermal</a></li>
       </ul>
       </div>
