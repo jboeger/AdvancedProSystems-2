@@ -53,12 +53,12 @@ const sections = [
 
       <ul>
       <li><strong>Electrical Meter Calibration</strong></li>
-      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow Sensor</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow - Liquid, Fluid, Gas</a></li>
       <li>Mechanical and Balance</li>
       <li>Optical</li>
       <li>Physical Dimensional</li>
       <li>Pipette</li>
-      <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure Gauge Calibration</a></li>
       <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermal</a></li>
       </ul>
       </div>
