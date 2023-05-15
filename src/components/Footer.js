@@ -19,6 +19,9 @@ export function Footer(props) {
             </p>
           </div>
         </div>
+        <div className="row">
+          <div className="col-12"><p className="text-center">6920 Koll Center Parkway, Suite 223, Pleasanton, California 94566</div>
+                </div>
       </div>
     </section>
   );
