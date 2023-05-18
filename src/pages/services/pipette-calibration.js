@@ -73,6 +73,9 @@ const sections = [
         <p>
           On automated liquid handlers, APS offers NIST calibration certificates as well as preventive maintenance on well known brands such as Hamilton, Beckman, and Tecan. We also offer pipette tips that are NIST certified to work with Rainin, Eppendorf, Hamilton, Beckman, and Tecan. If your pharma process requires ISO 17025 compliance, APS is compliant to those standards as well.
         </p>
+      <p>
+          As a premium service, APS can provide a 24 hour service for pipette calibrations. APS performs on-site pipette calibration services for automated liquid handlers as well manual pipettes. APS regularly performs Rainin pipette calibration, Eppendorf pipette calibration and all manual or multichannel pipettes.
+        </p>
         <p>
           <mark> Need overnight pipette calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid pipettes calibration turnaround. </mark>
         </p> 
@@ -85,11 +88,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <p>
-          As a premium service, APS can provide a 24 hour service for pipette calibrations. APS performs on-site pipette calibration services for automated liquid handlers as well manual pipettes. APS regularly performs Rainin pipette calibration, Eppendorf pipette calibration and all manual or multichannel pipettes.
-        </p>
+        
       <p>
-      Highly flexible on-site calibration services, we offer in lab pipette calibration or we can precertify pipette tips. With decades of experience, our highly trained technicians will perform pipette calibrations in you facility or in our dedicated pipette calibration lab.
+    Our highly adaptable on-site calibration services include comprehensive lab pipette calibration or pre-certification of pipette tips as needed. Leveraging years of accumulated expertise, our meticulously trained technicians are prepared to conduct pipette calibrations either at your facility or within our specialized pipette calibration laboratory.
       </p>
       <ul>
       <li>APS offers service levels tailored to your specific operational procedures to the level of accuracy and precision your require.</li>
@@ -111,16 +112,8 @@ const sections = [
  */
 const faqContent = [
   {
-    question: "What is temperature calibration?",
-    answer: "Temperature calibration is the process of checking and adjusting the accuracy of instruments used to measure temperature, such as thermometers and temperature sensors. Calibration involves comparing the instrument to a reference standard of known accuracy, and making adjustments to ensure accurate and reliable measurements. Regular calibration is important for meeting industry standards and regulations. "
-  },
-    {
-    question: "What is thermometer calibration?",
-    answer: "Thermometer calibration ensures accurate temperature measurement. Digital thermometers are calibrated by comparing readings to a reference standard, glass thermometers are calibrated at specific temperature points, and infrared thermometers are calibrated against a known reference. Regular calibration is important for meeting industry standards and regulations. "
-  },
-      {
-    question: "How does 'constant temp' affect thermocouple calibration?",
-    answer: "A stable temperature environment is essential during thermocouple calibration to obtain accurate results. Temperature fluctuations can affect the accuracy of the thermocouple readings. A constant temperature is typically achieved using a temperature-controlled furnace or a dry block calibrator. "
+    question: "No questions yet... please contact us and ask!",
+    answer: "."
   }
 ]
 
@@ -131,7 +124,7 @@ const CalibrationsPage = () => {
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>
-      <FAQ title="Temperature Calibration FAQs - Frequently Asked Questions about Thermometer Calibrations" content={faqContent} />
+      <FAQ title="Pipette Calibration FAQs - Frequently Asked Questions about Thermometer Calibrations" content={faqContent} />
     </Layout>
   );
 };
