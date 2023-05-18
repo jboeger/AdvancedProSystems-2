@@ -71,15 +71,10 @@ const sections = [
       <div>
         <h2>NIST Pipette Calibration Services</h2>
         <p>
-          APS provides expert service in glass thermometer calibration and digital thermometer calibration. We have vast experience in how to calibrate a digital thermometer from a variety of manufacturers. We can perform thermometer calibration compliant to ISO 17025 accreditation. APS is your temperature calibration expert!
+          On automated liquid handlers, APS offers NIST calibration certificates as well as preventive maintenance on well known brands such as Hamilton, Beckman, and Tecan. We also offer pipette tips that are NIST certified to work with Rainin, Eppendorf, Hamilton, Beckman, and Tecan. If your pharma process requires ISO 17025 compliance, APS is compliant to those standards as well.
         </p>
-        <h3>Digital and glass thermometer calibration types include:</h3>
-        <ul>
-          <li>APS' thermal range of calibration for digital thermometers is from -196C to 680C</li>
-          <li>APS' thermal range of calibration for glass thermometers is from -50C to 250C</li>
-        </ul>
         <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid digital thermometer calibration turnaround. </mark>
+          <mark> Need overnight pipette calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid pipettes calibration turnaround. </mark>
         </p> 
       </div>
     )
@@ -90,13 +85,20 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Infrared thermometer calibration services</h2>
         <p>
-          Advanced Process Systems provides expert service in the calibration of infrared thermometers. We have vast experience in how to calibrate infrared thermometers from a variety of manufacturers. We can perform infrared thermometer calibrations compliant to ISO 17025 accreditation.
+          As a premium service, APS can provide a 24 hour service for pipette calibrations. APS performs on-site pipette calibration services for automated liquid handlers as well manual pipettes. APS regularly performs Rainin pipette calibration, Eppendorf pipette calibration and all manual or multichannel pipettes.
         </p>
       <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid infrared thermometer calibration turnaround. </mark>
-        </p> 
+      Highly flexible on-site calibration services, we offer in lab pipette calibration or we can precertify pipette tips. With decades of experience, our highly trained technicians will perform pipette calibrations in you facility or in our dedicated pipette calibration lab.
+      </p>
+      <p>APS offers:
+        </p>
+      <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      </ul>
       </div>
     )
   },
