@@ -57,7 +57,7 @@ const sections = [
       <li>Physical Dimensional</li>
       <li><strong>Pipette Calibration</strong></li>
       <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure Gauge Calibration</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermometers</li>
+      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermometers</a></li>
       </ul>
       </div>
       </div>
