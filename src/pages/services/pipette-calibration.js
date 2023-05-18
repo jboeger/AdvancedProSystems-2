@@ -91,48 +91,16 @@ const sections = [
       <p>
       Highly flexible on-site calibration services, we offer in lab pipette calibration or we can precertify pipette tips. With decades of experience, our highly trained technicians will perform pipette calibrations in you facility or in our dedicated pipette calibration lab.
       </p>
-      <p>APS offers:
-        </p>
       <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>APS offers service levels tailored to your specific operational procedures to the level of accuracy and precision your require.</li>
+      <li>NIST traceable calibrations certificates provided.</li>
+      <li>ISO 17025 accredited calibration service available.</li>
+      <li>We support your preventative maintenance protocols as requested.</li>
+      <li>Where exacting standards and quality are required, we specialize in providing calibrations for customers in biotechnology, biopharma, chemistry, life sciences, educational laboratories, research labs, forensic laboratories among others.</li>
+      <li>Our Advanced Calibration Services are meticulously designed to mitigate disruptions to your operations, offering swift turnaround times and proficient services of unrivaled quality. As a highly-regarded partner, we deeply appreciate the significance of pipettes in our clients' operational ecosystem and remain committed to exceeding their expectations.</li>
       </ul>
       </div>
     )
-  },
-  {
-    img: humidmeter,
-    imgAlt: "placeholder.",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>Humidity sensor calibration - Hygrometers!</h2>
-        <p>
-          APS provides expert humidity calibration service for hygrometers. We have vast experience in relative humidity calibration standards from a variety of manufacturers. We can perform hygrometer calibration complant to ISO 17025 accreditation for humidity sensor calibration.
-      </p>
-            <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid humidity sensor calibration turnaround. </mark>
-        </p> 
-      </div>
-    )  
-  },
-    {
-    img: thermometerdata,
-    imgAlt: "Placeholder. ",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>Data logger calibration certificates</h2>
-        <p>
-          APS provides expert data logger calibration service for data logger humidity calibratation. <strong><em>We have vast experience in data logger calibration from all OEM manufacturers</em></strong>. We can provide a data logger calibration certificate compliant to ISO 17025 accreditation.
-       </p>
-            <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid data logger calibration certificate turnaround. </mark>
-        </p> 
-      </div>
-    )  
   }
 
   
