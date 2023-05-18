@@ -42,9 +42,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Advanced Pipette Calibration</h1>
+        <h1>Advanced Pipette Calibration Services</h1>
         <p>
-           Adanced Process Systems performs thermometer calibration, thermocouple calibration, thermal cycler calibration, and thermal probe calibration as we can provide thermometer calibration logs, thermometer calibration certificates, and thermal anlysis calibrations.  APS provides precise temperature calibration with our extensive experience in how to calibrate thermocouples, how to calibrate hygrometers, and how to calibrate thermometers. 
+           Advanced Process Systems offers both manual and automated, single and multi-channel pipette calibration services. APS will perform pipette calibration on site or in our pipette calibration lab. APS will provide a NIST pipette calibration certificate to the standards you select.
         </p>
       <div class="list-group-wrapper">
       <h3><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></h3>
@@ -55,9 +55,9 @@ const sections = [
       <li>Mechanical and Balance</li>
       <li>Optical</li>
       <li>Physical Dimensional</li>
-      <li>Pipette</li>
+      <li><strong>Pipette Calibration</strong></li>
       <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure Gauge Calibration</a></li>
-      <li><strong>Temperature / Thermometers</strong></li>
+      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermometers</li>
       </ul>
       </div>
       </div>
@@ -69,7 +69,7 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Digital and glass thermometer calibration services</h2>
+        <h2>NIST Pipette Calibration Services</h2>
         <p>
           APS provides expert service in glass thermometer calibration and digital thermometer calibration. We have vast experience in how to calibrate a digital thermometer from a variety of manufacturers. We can perform thermometer calibration compliant to ISO 17025 accreditation. APS is your temperature calibration expert!
         </p>
