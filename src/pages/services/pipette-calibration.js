@@ -6,13 +6,15 @@ import { Layout } from "components/Layout";
 import { FAQ } from "components/homePage/FAQ";
 
 // image imports
-import heroHomeImg from "images/hero-home-01a-big.jpg";
-import thermometer from "images/thermometer-data-logger-1.png";
-import thermometerglass from "images/glass-thermometer.jpg";
-import thermometerinfrared from "images/infrared-thermometer.jpg";
-import thermometerdata from "images/Thermometer-Data-Logger.png";
-import thermometerlab from "images/thermometers-in-lab.jpg";
-import humidmeter from "images/relative-humidity-and-temperature-meter.jpg";
+import singlechannelpipette from "images/manual-single-channel-pipette.jpg";
+import handler24 from "images/automated-liquid-handler-24-well.jpg";
+import peristalticpumps from "images/peristaltic-pumps.jpg";
+import singlechannelpipette2 from "images/manual-pipette-single-channel.jpg";
+import manualmultipipette from "images/manual-multichannel-pipette.jpg";
+import handler962 from "images/automated-liquid-handler-96-well-2.jpg";
+import labreactors from "images/laboratory-reactors.jpg";
+import multichannelpipette from "images/manual-multi-channel-pipette.jpg";
+import handler96 from "images/automated-liquid-handler-96-well.jpg";
 
 export const padding = "40px";
 
@@ -37,7 +39,7 @@ const metaData = {
 
 const sections = [
   {
-    img: thermometer,
+    img: handler24,
     imgAlt: "Thermometer data logger. ",
     imgCols: "6",
     content: (
