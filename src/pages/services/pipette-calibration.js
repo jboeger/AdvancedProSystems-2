@@ -66,7 +66,7 @@ const sections = [
     )
   },
     {
-    img: thermometerglass,
+    img: singlechannelpipette2,
     imgAlt: "Placeholder. ",
     imgCols: "6",
     content: (
@@ -85,7 +85,7 @@ const sections = [
     )
   },
   {
-    img: thermometerinfrared,
+    img: handler962,
     imgAlt: "placeholder. ",
     imgCols: "6",
     content: (
