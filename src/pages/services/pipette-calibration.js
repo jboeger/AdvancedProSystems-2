@@ -12,7 +12,6 @@ import peristalticpumps from "images/peristaltic-pumps.jpg";
 import singlechannelpipette2 from "images/manual-pipette-single-channel.jpg";
 import manualmultipipette from "images/manual-multichannel-pipette.jpg";
 import handler962 from "images/automated-liquid-handler-96-well-2.jpg";
-import labreactors from "images/laboratory-reactors.jpg";
 import multichannelpipette from "images/manual-multi-channel-pipette.jpg";
 import handler96 from "images/automated-liquid-handler-96-well.jpg";
 
