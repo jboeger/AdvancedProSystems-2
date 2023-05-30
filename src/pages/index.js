@@ -98,6 +98,7 @@ const HomePage = () => {
       <Hero
         height="400px"
         img={heroImg}
+        imgAlt="Picture of gears including rules, standards, policies, and compliance - appropriate for process consulting and calibration services. "
         title="Advanced Processing Systems - Complete Bioprocessing Service Solutions"
         body="We provide complete service solutions for your bioprocessing needs."
       />
@@ -105,7 +106,7 @@ const HomePage = () => {
       <Section
         bgColor="rgb(255, 255, 255, .5)"
         img={heroImg}
-        imgAlt=""
+        imgAlt="Picture close-up of lab technician working with a bioreactor. "
         imgSide="left"
         imgCols="7"
         content={content.section1}
@@ -114,7 +115,7 @@ const HomePage = () => {
       <Section
         bgColor="rgb(255, 255, 255, .5)"
         img={heroImg}
-        imgAlt=""
+        imgAlt="Products - Biotech Equipment and Parts. "
         imgSide="right"
         imgCols="7"
         content={content.section2}
