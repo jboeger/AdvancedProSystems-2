@@ -12,7 +12,7 @@ const metaData = {
   description: "APS provides expertise and on-site services for upstream bioprocessing, downstream bio processing, calibration, and validation. We provide service plans for all scales: from lab scale to pilot plant to industrial scale.",
   canonicalUrl: "https://www.advancedprosystems.com/services/",
   img: "https://www.advancedprosystems.com/static/hero-lab-02-60291c3bc807bec062f755de596e5344.jpg",
-  imgAlt: "",
+  imgAlt: "Photo of bioreactor requiring IQ OQ PQ validatin and calibration. ",
   imgWidth: "800",
   imgHeight: "532",
   imgType: "image/jpg"
