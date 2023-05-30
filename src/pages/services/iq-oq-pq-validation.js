@@ -16,7 +16,7 @@ const metaData = {
   description: "APS provides high level validation + equipment qualification services for lab + industrial processing, pharmaceutical, food + bev, petrochemical, and more. ",
   canonicalUrl: "https://www.advancedprosystems.com/services/iq-oq-pq-validation/",
   img: "https://www.advancedprosystems.com/static/validation-process-54455618c2180dcd414f422835bcde3f.jpg",
-  imgAlt: "",
+  imgAlt: "Hand drawn process of validating equipment to IQ OQ PQ standards. ",
 }
 
 /**
