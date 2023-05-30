@@ -21,8 +21,8 @@ const metaData = {
   title: "Advanced Pipette Calibration | Thermometer, Hygrometer",
   description: "APS provides Advanced Temperature Calibration Services for hygrometers, digital + analog thermometers, thermocouples, thermal analysis calibration and more!",
   canonicalUrl: "https://www.advancedprosystems.com/services/pipette-calibration/",
-  img: "",
-  imgAlt: "",
+  img: "https://www.advancedprosystems.com/static/automated-liquid-handler-24-well-41de765e5e11c45150b309bd164bed13.jpg",
+  imgAlt: "Photograph of pipettes in a laboratory that need to be calibrated. ",
 }
 
 /**
@@ -39,7 +39,7 @@ const metaData = {
 const sections = [
   {
     img: handler24,
-    imgAlt: "Thermometer data logger. ",
+    imgAlt: "Photograph of pipettes in a laboratory that need to be calibrated. ",
     imgCols: "6",
     content: (
       <div>
