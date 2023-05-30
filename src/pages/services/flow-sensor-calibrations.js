@@ -24,8 +24,8 @@ const metaData = {
   title: "Flow Sensor Calibration | Gas, Flow Rate Calibration",
   description: "APS performs ADVANCED CALIBRATION SERVICES for flow sensors, flow rate meters, optical flow sensors, gas flow meters, mass flow controllers and more.",
   canonicalUrl: "https://www.advancedprosystems.com/services/flow-sensor-calibrations/",
-  img: "",
-  imgAlt: "",
+  img: "https://www.advancedprosystems.com/static/gas-flow-control-e398a4843f7ac07b6fecaa16dd15f706.jpg",
+  imgAlt: "Photo of gas flow and liquid flow sensors that need to be calibrated.",
 }
 
 /**
