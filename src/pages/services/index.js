@@ -8,7 +8,7 @@ import padding from "pages/index";
 import imgSection2 from "images/hero-lab-02.jpg";
 
 const metaData = {
-  title: "Lab + Industrial | Biotech + Bioprocessing Services | Advanced Pro Systems",
+  title: "Lab + Industrial | Biotech + Bioprocessing Services | APS",
   description: "APS provides expertise and on-site services for upstream bioprocessing, downstream bio processing, calibration, and validation. We provide service plans for all scales: from lab scale to pilot plant to industrial scale.",
   canonicalUrl: "https://www.advancedprosystems.com/services/",
   img: "https://www.advancedprosystems.com/static/hero-lab-02-60291c3bc807bec062f755de596e5344.jpg",
