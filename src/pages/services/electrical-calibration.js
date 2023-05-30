@@ -22,8 +22,8 @@ const metaData = {
   title: "Advanced Electrical Meter Calibration | Multimeters | APS",
   description: "APS performs electrical meter calibration for all manager of instrumentation including hipot testers, insulation testers, and clamp-on meters. ",
   canonicalUrl: "https://www.advancedprosystems.com/services/electrical-calibration/",
-  img: "",
-  imgAlt: "",
+  img: "https://www.advancedprosystems.com/static/clamp-meter-a6ca78100540561645eec3fce77a7d84.jpg",
+  imgAlt: "Picture of an electric clamp on meter for electrical calibration. ",
 }
 
 /**
