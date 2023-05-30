@@ -58,7 +58,7 @@ export function NavBar(props) {
         className="nav-item border border-3 border-primary ms-2"
         style={{ borderRadius: "10px" }}
       >
-        <Link to="/contact" className="nav-link contact-link" activeClassName="active" aria-current="page">
+        <Link to="/contact/" className="nav-link contact-link" activeClassName="active" aria-current="page">
           <strong>Contact</strong>
         </Link>
       </li>
