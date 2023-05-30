@@ -23,8 +23,8 @@ const metaData = {
   title: "Advanced Calibration Services | NIST Calibrations",
   description: "APS performs NIST traceable calibrations in analytical and industrial applications, from flow / pressure to thermal, electrical, and balance calibrations.",
   canonicalUrl: "https://www.advancedprosystems.com/services/calibrations/",
-  img: "",
-  imgAlt: "",
+  img: "https://www.advancedprosystems.com/static/card2-lab-02-7db6966a2a9bb67765e0da9404f0670b.jpg",
+  imgAlt: "Close-up photo of lab technician calibrating a bioreactor.",
 }
 
 /**
