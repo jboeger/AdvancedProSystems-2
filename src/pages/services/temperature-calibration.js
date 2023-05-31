@@ -92,10 +92,10 @@ const sections = [
       <div>
         <h2>Infrared thermometer calibration services</h2>
         <p>
-          Advanced Process Systems provides expert service in the calibration of infrared thermometers. We have vast experience in how to calibrate infrared thermometers from a variety of manufacturers. We can perform infrared thermometer calibrations compliant to ISO 17025 accreditation.
+          APS provides expert service in the calibration of infrared thermometers. We have vast experience in how to calibrate infrared thermometers from a variety of manufacturers. We can perform infrared thermometer calibration standard compliant to ISO 17025 accreditation.
         </p>
       <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid infrared thermometer calibration turnaround. </mark>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid infrared thermometer calibration standard turnaround. </mark>
         </p> 
       </div>
     )
