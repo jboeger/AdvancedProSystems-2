@@ -89,17 +89,17 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        
+        <h2>On-site Pipette Calibration Services</h2>
       <p>
-    Our highly adaptable on-site calibration services include comprehensive lab pipette calibration or pre-certification of pipette tips as needed. Leveraging years of accumulated expertise, our meticulously trained technicians are prepared to conduct pipette calibrations either at your facility or within our specialized pipette calibration laboratory.
+    Our highly adaptable on-site pipette calibration services include comprehensive lab pipette calibration or pre-certification of pipette tips as needed. Leveraging years of accumulated expertise, our meticulously trained technicians are prepared to conduct pipette calibrations either at your facility or within our specialized pipette calibration laboratory.
       </p>
       <ul>
       <li>APS offers service levels tailored to your specific operational procedures to the level of accuracy and precision your require.</li>
-      <li>NIST traceable calibrations certificates provided.</li>
-      <li>ISO 17025 accredited calibration service available.</li>
+      <li>NIST traceable pipette calibrations certificates provided.</li>
+      <li>ISO 17025 accredited pipette calibration service available.</li>
       <li>We support your preventative maintenance protocols as requested.</li>
-      <li>Where exacting standards and quality are required, we specialize in providing calibrations for customers in biotechnology, biopharma, chemistry, life sciences, educational laboratories, research labs, forensic laboratories among others.</li>
-      <li>Our Advanced Calibration Services are meticulously designed to mitigate disruptions to your operations, offering swift turnaround times and proficient services of unrivaled quality. As a highly-regarded partner, we deeply appreciate the significance of pipettes in our clients' operational ecosystem and remain committed to exceeding their expectations.</li>
+      <li>Where exacting standards and quality are required, we specialize in providing advanced pipette calibrations for customers in biotechnology, biopharma, chemistry, life sciences, educational laboratories, research labs, forensic laboratories among others.</li>
+      <li>Our advanced pipette calibration services are meticulously designed to mitigate disruptions to your operations, offering swift turnaround times and proficient services of unrivaled quality. As a highly-regarded partner, we deeply appreciate the significance of pipettes in our clients' operational ecosystem and remain committed to exceeding their expectations.</li>
       </ul>
       </div>
     )
