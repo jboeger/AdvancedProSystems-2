@@ -271,18 +271,6 @@ export function ContactForm(props) {
               </label>
             </div>
             <div className="col-12">
-              <input
-                id="optionText"
-                type="radio"
-                value="optionText"
-                name="optionText"
-                style={{ verticalAlign: "top" }}
-                checked={formData.radioSelection == "optionText"}
-                onChange={(e) => setRadioSelection(e.target.value)}
-              />
-              <TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/>
-            </div>
-            <div className="col-12">
               <h5>Pleases describe your needs</h5>
               <TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/></div>
           </div>
