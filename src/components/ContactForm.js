@@ -175,7 +175,7 @@ export function ContactForm(props) {
                 checked={formData.radioSelection == "optionText"}
                 onChange={(e) => setRadioSelection(e.target.value)}
               />
-              <span style="whitespace: nowrap;">Other: <TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/></span>
+              Other:<TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/>
             </div>
           </div>
           <div className="row justify-content-center py-2 gy-2">
