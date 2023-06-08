@@ -166,7 +166,7 @@ export function ContactForm(props) {
             </div>
 
             <div className="col-9">
-              <h3>Please describe your needs:</h3>
+              <h5>Please describe your needs:</h5>
               <TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/>
               </div>
           </div>
