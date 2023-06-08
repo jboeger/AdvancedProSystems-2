@@ -32,7 +32,7 @@ export function ContactForm(props) {
     phone: "",
     radioSelection: "option1",
     textArea: "",
-    message: optionsMsgs.option1
+    message: "",
   });
 
   const handleChange = e => {
