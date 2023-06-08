@@ -32,6 +32,7 @@ export function ContactForm(props) {
     phone: "",
     radioSelection: "option1",
     textArea: "",
+    comments: "",
     message: optionsMsgs.option1
   });
 
@@ -194,6 +195,10 @@ export function ContactForm(props) {
             <div className="col-5">
               <label for="nameInput fw-bold">Best Phone</label>
               <input className={textInput} id="nameInput" name="phone" onChange={handleChange}></input>
+            </div>
+            <div className="col-5">
+              <label for="nameInput fw-bold">Comments</label>
+              <input className={textInput} id="nameInput" name="comments" onChange={handleChange}></input>
             </div>
             <div class="w-100"></div>
           </div>
