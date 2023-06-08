@@ -164,19 +164,9 @@ export function ContactForm(props) {
                 {optionsMsgs.option5}
               </label>
             </div>
+
             <div className="col-9">
-              <input
-                id="optionText"
-                type="radio"
-                value="optionText"
-                name="optionText"
-                style={{ verticalAlign: "top" }}
-                checked={formData.radioSelection == "optionText"}
-                onChange={(e) => setRadioSelection(e.target.value)}
-              />
-              <TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/>
-            </div>
-            <div className="col-9">
+              <h3>Please describe your needs:</h3>
               <TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/>
               </div>
           </div>
@@ -312,7 +302,6 @@ export function ContactForm(props) {
               <input className={textInput} id="nameInput" name="phone" onChange={handleChange}></input>
             </div>
             <div class="w-100"></div>
-            <div class="w-100">Test 1</div>
           </div>
           <div className="row justify-content-center py-2">
             <div className="col-6">
