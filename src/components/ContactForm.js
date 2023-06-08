@@ -282,6 +282,9 @@ export function ContactForm(props) {
               />
               <TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/>
             </div>
+            <div className="col-12">
+              <h5>Pleases describe your needs</h5>
+              <TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/></div>
           </div>
           <div className="row justify-content-center py-2 gy-2">
             <div className="col-6">
