@@ -101,7 +101,7 @@ const ServicesPage = () => {
               <li>Mechanical and Balance</li>
               <li>Optical</li>
               <li>Physical Dimensional</li>
-              <li>Pipette Calibration</li>
+              <li><a href="https://www.advancedprosystems.com/services/pipette-calibration/" className="link-primary" title="Pipette Calibration">Pipette Calibration</a></li>
               <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" className="link-primary" title="Pressure Gauge Calibration">Pressure Gauge Calibration</a></li>
               <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" className="link-primary" title="Temperature Calibration">Temperature, Thermometers</a></li>
             </ul>
