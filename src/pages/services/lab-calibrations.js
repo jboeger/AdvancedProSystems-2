@@ -22,7 +22,7 @@ export const padding = "40px";
 const metaData = {
   title: "Advanced Lab Calibrations | Advanced Processing Systems",
   description: "APS performs NIST traceable calibrations in analytical and industrial applications, from flow / pressure to thermal, electrical, and balance calibrations.",
-  canonicalUrl: "https://www.advancedprosystems.com/services/calibrations/",
+  canonicalUrl: "https://www.advancedprosystems.com/services/lab-calibrations/",
   img: "https://www.advancedprosystems.com/static/card2-lab-02-7db6966a2a9bb67765e0da9404f0670b.jpg",
   imgAlt: "Close-up photo of lab technician calibrating a bioreactor.",
 }
@@ -45,30 +45,20 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Advanced Calibration Services</h1>
+        <h1>Advanced Lab Calibration Services</h1>
         <p>
-           APS provides the highest level of standard calibration services to the laboratory, industrial processing, pharmaceutical, food and beverage manufacturing, petrochemical, and standards dependent industries that require accurate recordkeeping, calibration, maintenance, and repair of their instruments. APS calibrates to the calibration standard and if requested hold that data on NIST calibrations in our database managed and audited by ANSI accredited (through ANAB accreditation services).
+           APS delivers premium lab calibration services, adhering to the most rigorous industry standards. We perform precise calibrations to the most exacting specifications and, upon request, retain these data from NIST calibrations in our secure, regularly audited database. 
         </p>
         <p>
-           Customers include the range from start-ups to most established biopharma, biotechnology, and biomedical equipment companies to US national laboratories, and food and beverage companies with the most stringent calibration standards. APS works with the full range of requirements from individual calibrations, supplying calibration personnel, OEM calibration services, to setting up the processes for entire metrology departments. In some cases, we provide comprehensive calibration facilities management.
+           Our advanced calibration processes are ANSI accredited via ANAB accreditation services. We provide ISO 17025 compliant documentation and adhere to standards required for FDA compliance. Furthermore, we offer comprehensive calibration compliance tracking from initiation to completion, ensuring unbroken oversight throughout the process.
         </p>
 
           <p>
+Customers include the range from start-ups to the most established biopharma, biotechnology, and biomedical equipment companies to US national laboratories, chemical, and food and beverage companies with the most stringent calibration standards. APS works with the full range of requirements from individual calibrations, more exacting custom standards, supplying calibration personnel, OEM calibration services, to setting up the processes for entire metrology departments. In some cases, we provide comprehensive calibration facilities management.
+      </p>
+                <p>
 In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" title="IQ OQ PQ Validation" className="link-primary">IQ OQ PQ validation</a> is necessary, APS can expedite the process with all the necessary calibrations. Whether the IQ/OQ/PQ validation SOP needs to be written from scratch or a pre-approved package needs to be strictly adhered to, APS will provide the most efficient, timely, and cost effective solution.
       </p>
-      <div class="list-group-wrapper">
-      <h2>Advanced Calibrations</h2>
-      <ul>
-      <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical, Multimeters</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow - Gas, Fluid, Liquid</a></li>
-      <li>Mechanical and Balance</li>
-      <li>Optical</li>
-      <li>Physical Dimensional</li>
-      <li><a href="https://www.advancedprosystems.com/services/pipette-calibration/" title="Pipette Calibration" className="link-primary">Pipette</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure Gauge Calibration</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermometers</a></li>
-      </ul>
-      </div>
       </div>
     )
   },
