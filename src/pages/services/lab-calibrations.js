@@ -16,6 +16,7 @@ import optical from "images/Optical.jpg";
 import pipette from "images/Pipette.jpg";
 import thermometer from "images/thermometer-data-logger-1.png";
 import electricalclamp from "images/clamp-meter.jpg";
+import biopresser from "images/bioreactor-with-pressure-monitoring.jpg";
 
 export const padding = "40px";
 
@@ -63,7 +64,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     )
   },
     {
-    img: pressure,
+    img: biopresser,
     imgAlt: "Close-up photo of two pressure guages. ",
     imgCols: "6",
     content: (
