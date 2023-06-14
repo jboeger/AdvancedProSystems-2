@@ -114,7 +114,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
         <p>
           APS performs NIST traceable ISO 17025 <a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibrations" className="link-primary">flow sensor calibration</a> in laboratory and industrial settings. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid flow meter calibration turnaround</strong>. A sampling of flow sensors we regularly calibrate are liquid flow, gas flow and mass flow meters using in-line flow, volumetric flow or optical flow technology. We also calibrate mass flow controllers and other non-invasive flow measurement equipment.
         </p>
-        <h3>Flow sensor calibration types inclue:</h3>
+        <h3>Flow sensor calibration types include:</h3>
         <ul>
           <li>Gas flow meter</li>
           <li>Mass flow controllers</li>
