@@ -133,21 +133,26 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     imgCols: "6",
     content: (
       <div>
-      <h2>Electrical Calibration Services</h2>
+      <h2>Electronic Calibration Services</h2>
         <p>
-          APS performs <a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">NIST traceable ISO 17025 electrical meter calibration</a> in lab and industrial settings. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid electrical meter calibration and turnaround</strong>. A sampling of electrical instrument calibration we regularly perform include: multimeter, clamp meter, and data logger. We perform electrical calibrations for many manufacturers of insulation tester, hipot tester (high potential tester), loop tester, and multifunction tester.
+APS performs NIST traceable ISO 17025 electrical meter calibration in the lab. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid electronic equipment calibration and turnaround. 
       </p>
-        <h3>Electrical meter calibration types include:</h3>
+              <p>
+We regularly perform electrical calibration for lab equipment including: peristaltic pumps, agitation motors, and instrument communication interfaces.
+      </p>
+        <h3>Electronic Equipment calibration types OEM's include:</h3>
         <ul>
-          <li>Data Loggers</li>
-          <li>Insulation Testers</li>
-          <li>Power Supplies</li>
-          <li>NIST calibrations</li>
-          <li>Megohmmeters</li>
-          <li>Clamp Meters</li>
-          <li>Hipot Testers</li>
-          <li>Loop Testers</li>
-          <li>Multifunction testers</li>
+          <li>Peristaltic Pumps</li>
+          <li>Quattroflow Pumps</li>
+          <li>Syringe Pumps</li>
+          <li>Metering Pumps</li>
+          <li>Diaphragm Pumps</li>
+          <li>Watson-Marlow</li>
+          <li>Masterflex</li>
+          <li>Fisher Scientific</li>
+          <li>Cole Parmer</li>
+      <li>Sigma-Aldrich</li>
+      <li>Agilent</li>
         </ul>
             <p>More information about <a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Advanced Electrical Calibration Services</a>.
       </p>
