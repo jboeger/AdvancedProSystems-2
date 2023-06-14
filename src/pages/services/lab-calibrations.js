@@ -68,25 +68,38 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     imgCols: "6",
     content: (
       <div>
-        <h2>Pressure Calibration Services</h2>
+        <h2>Bioreactor Calibration</h2>
         <p>
-          APS performs <a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">NIST traceable ISO 17025 pressure gauge calibration services</a> in laboratory and industrial process applications. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid pressure gauge calibration turnaround</strong>. A sampling of gauges we regularly calibrate are digital pressure, analog pressure, differential, and test gages. We also calibrate pressure transducer, pressure transmitter, and pressure calibrator applications as well as other pressure applications using a digital pressure indicator, barometer, or pressure module.
+          APS performs installation, maintenance, and repair on bioreactors that can range from basic confirmation of operation with specified parameters on the mass flow controllers, motors, agitation groups, peristaltic pumps, mass flow controllers, pH sensors, DO sensors, off-gas sensors, cell counters, viable cell sensors to the most highly documents NIST traceable ISO 17025 calibration standards in laboratory applications. 
         </p>
-        <h3>Pressure calibration types include:</h3>
+              <p>
+          We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid fermentor calibration turnaround. A sampling of bioreactors we regularly calibrate are Sartorius, Eppendorf, Infors, Getinge (Applikon), KBiotech, Agilitech, Solaris, and Biostream-International. 
+        </p>
+              <p>
+          On automated bioreactors we can confirm and validate manufactures' adherence to stated specifications. APS regularly performs installation, maintenance, and confirmation of operation within performance specifications while supplying NIST traceable documentation and data collection on single-use bioreactor systems. APS provides performance confirmation and calibration certificates on single-use consumable parts. 
+        </p>
+              <p>
+          APS will perform this service to confirm the performance within standards of single use bioreactor components (example: single use sensors, single use bags, pipette tips, and tubing from OEM and secondary suppliers. APS calibrates and confirms the stated performance parameters on all principal operating styles of stirred-tank bioreactors, rocker bioreactors, air lift bioreactors, and fixed-bed bioreactors.
+        </p>
+      
+        <h3>Bioreactors that we calibrate include:</h3>
         <ul>
-          <li>Digital pressure gauge</li>
-          <li>Test gauge</li>
-          <li>NIST calibrations</li>
-          <li>Pressure transducers</li>
-          <li>Digital indicators</li>
-          <li>Pressure transmitters</li>
-          <li>Pressure calibrators</li>
-          <li>Analogue pressure gauge</li>
-          <li>Barometer calibration</li>
-          <li>Pressure transmitter calibration</li>
+          <li>Sartorius</li>
+          <li>Eppendorf</li>
+          <li>Beckman</li>
+          <li>Cyteva</li>
+          <li>Infors</li>
+          <li>Getinge (Applikon)</li>
+          <li>KBiotech</li>
+          <li>Agilitech</li>
+          <li>Ipratech Cytosis</li>
+          <li>Solaris</li>
+          <li>Biostream-International</li>
+          <li>Parallel Systems</li>
+          <li>Amber 250</li>
+          <li>Biostat</li>
+          <li>BioKook</li>
         </ul>
-        <p>More information about <a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Advanced Pressure Calibration Services</a>.
-      </p>
       </div>
     )
   },
