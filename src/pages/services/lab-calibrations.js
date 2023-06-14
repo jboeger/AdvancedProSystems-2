@@ -190,19 +190,6 @@ Lab instruments we regularly calibrate and provide calibration certificates for 
       </div>
     )  
   },
-            {
-    img: optical,
-    imgAlt: "Photo of optical connectors that need calibration. ",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>Optical Calibration Services</h2>
-        <p>
-APS performs NIST traceable ISO 17025 optical calibration of sensors in analytical lab and industrial settings. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid turnaround. We perform optical comparator calibration or calibration of the optical comparator calibration kit. We will provide optical level calibration, optical calibration, or optical NIST calibration services in general.
-      </p>
-      </div>
-    )  
-  },
   {
     img: pipette,
     imgAlt: "Photo of a pipette getting dipped into a test tube. ",
