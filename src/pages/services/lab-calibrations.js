@@ -165,43 +165,26 @@ We regularly perform electrical calibration for lab equipment including: perista
     imgCols: "6",
     content: (
       <div>
-      <h2>Mechanical and Balance Calibration Services</h2>
+      <h2>Scale, Load Cell, and Balance Calibration Services</h2>
         <p>
-          APS performs NIST traceable ISO 17025 sensor calibrations that can be serviced on-site or via overnight to our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate include digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. <strong>Torque wrench calibration is a common request where we expedite service</strong>. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" title="IQ OQ PQ Validation" className="link-primary">qualification and validation</a>.
+APS performs NIST traceable ISO 17025 sensor calibrations that can be serviced on-site or via overnight to our California laboratory for rapid calibration and instrument turnaround. 
        </p>
-        <h3>Types of mechanical and balance calibrations:</h3>
+       <p>
+Lab instruments we regularly calibrate and provide calibration certificates for include load cells, balances, and scales. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IQ OQ PQ process qualification and validation.
+       </p>
+        <h3>Types of Scale, Load Cell, and Balance Calibrations:</h3>
         <ul>
           <li>Load cell sensor calibration</li>
-          <li>Vernier calipers</li>
           <li>NIST calibrations</li>
-          <li>Torque wrench calibration</li>
-          <li>Height gauge</li>
-          <li>Manometers</li>
-          <li>Digital force gauge</li>
-          <li>Torque analyzers / torque testers</li>
-          <li>Torque screwdriver calibration services</li>
-        </ul>
-      </div>
-    )  
-  },
-        {
-    img: dimensional,
-    imgAlt: "Close-up photo of calipers getting perfectly calibrated in the laboratory. ",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>Physical Dimensional Calibration Services</h2>
-        <p>
-APS performs NIST traceable ISO 17025 physical dimensional calibration of sensors in analytical lab and industrial settings. We can quickly accommodate on-site or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly include dimensional calibrations covering range from calipers to micrometers to all manner of precison gages. APS is often requested to perform physical dimensional calibration of vernier caliper, height gauge, digital micrometer, and other precision instruments. APS calibration procedures for micrometers enable us to perform calibrations where there is no longer support by the OEM manufacturer and thereby extend the useful life. Once again, physical dimensional calibration is a common request where we expedite service! </p>
-        <h3>Physical Dimensional Calibrations include:</h3>
-        <ul>
-          <li>Calipers calibration</li>
-          <li>Micrometers calibration</li>
-          <li>Dial test indicators calibration</li>
-          <li>NIST calibrations</li>
-          <li>Height gages</li>
-          <li>Pin gages</li>
-          <li>Threaded plug gages</li>
+          <li>Mettler-Toledo</li>
+          <li>Kern</li>
+          <li>Sartorius</li>
+          <li>OHAUS</li>
+          <li>A&D Weighing</li>
+          <li>Adam Equipment</li>
+          <li>Radwag</li>
+      <li>Torbal</li>
+      <li>Tree Scales</li>
         </ul>
       </div>
     )  
