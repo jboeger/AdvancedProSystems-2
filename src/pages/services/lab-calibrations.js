@@ -22,10 +22,10 @@ export const padding = "40px";
 
 const metaData = {
   title: "Advanced Lab Calibrations | Advanced Processing Systems",
-  description: "APS performs NIST traceable calibrations in analytical and industrial applications, from flow / pressure to thermal, electrical, and balance calibrations.",
+  description: "APS performs NIST traceable calibrations in laboratories, from flow and pressure to thermo and electrico and balance calibrations.",
   canonicalUrl: "https://www.advancedprosystems.com/services/lab-calibrations/",
   img: "https://www.advancedprosystems.com/static/card2-lab-02-7db6966a2a9bb67765e0da9404f0670b.jpg",
-  imgAlt: "Close-up photo of lab technician calibrating a bioreactor.",
+  imgAlt: "Close-up photo of laboratory scientist calibrating a bioreactor.",
 }
 
 /**
@@ -42,7 +42,7 @@ const metaData = {
 const sections = [
   {
     img: bioReactor,
-    imgAlt: "Close-up photo of lab technician working with a calibrated bioreactor. ",
+    imgAlt: "Close-up photo of lab scientist working with a calibrated bioreactor. ",
     imgCols: "6",
     content: (
       <div>
@@ -65,7 +65,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
   },
     {
     img: biopresser,
-    imgAlt: "Close-up photo of two pressure guages. ",
+    imgAlt: "Close-up photo of two pressure guages in a laboratory. ",
     imgCols: "6",
     content: (
       <div>
