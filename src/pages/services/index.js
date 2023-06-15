@@ -98,6 +98,7 @@ const ServicesPage = () => {
             <ul>
             <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" className="link-primary" title="Electrical Calibration">Electrical, Multimeters</a></li>
               <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" className="link-primary" title="Flow Sensor Calibrations">Flow - Gas, Liquid, Fluid</a></li>
+                <li><a href="https://www.advancedprosystems.com/services/lab-calibrations/" className="link-primary" title="Lab Calibrations">Lab Calibrations</a></li>
               <li>Mechanical and Balance</li>
               <li>Optical</li>
               <li>Physical Dimensional</li>
