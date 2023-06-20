@@ -131,7 +131,14 @@ export function ContactForm(props) {
           </div>
           <div className="row justify-content-center py-2 gy-2">
             <div className="col-10">
-              <TextareaAutosize className={optionTextInput} minRows="3" name="message" onChange={(e) => setMessage(e.target.value)} />
+              <TextareaAutosize 
+                className={optionTextInput} 
+                minRows="3" 
+                name="message" 
+                onChange={(e) => setMessage(e.target.value)} 
+                placeholder="Questions or comments" 
+              >
+              </TextareaAutosize>
             </div>
             <div className="col-5">
               <label for="nameInput fw-bold">Name</label>
@@ -213,7 +220,14 @@ export function ContactForm(props) {
           </div>
           <div className="row justify-content-center py-2 gy-2">
             <div className="col-12">
-              <TextareaAutosize className={optionTextInput} minRows="3" name="message" onChange={(e) => setMessage(e.target.value)} />
+              <TextareaAutosize 
+                className={optionTextInput} 
+                minRows="3" 
+                name="message" 
+                onChange={(e) => setMessage(e.target.value)} 
+                placeholder="Questions or comments" 
+              >
+              </TextareaAutosize>
             </div>
             <div className="col-6">
               <label for="nameInput fw-bold">Name</label>
