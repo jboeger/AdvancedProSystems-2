@@ -45,12 +45,12 @@ export function ContactForm(props) {
     });
   }
 
-  const setRadioSelection = val => {
+  const setRadioSelection = e => {
     setFormData((prevState) => {
       return {
         ...prevState,
-        radioSelection: val,
-        option: optionsMsgs[val]
+        radioSelection: e.target.value,
+        option: optionsMsgs[e.target.value]
       }
     });
   }
@@ -120,42 +120,14 @@ export function ContactForm(props) {
             <div className="col-10">
               <h5>Which best describes you?</h5>
             </div>
-            <div className="col-9">
-              <input id="option1" type="radio" value="option1" name="option1" checked={formData.radioSelection == "option1"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option1">
-                {optionsMsgs.option1}
-              </label>
-            </div>
-            <div className="col-9">
-              <input id="option2" type="radio" value="option2" name="option2" checked={formData.radioSelection == "option2"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option2">
-                {optionsMsgs.option2}
-              </label>
-            </div>
-            <div className="col-9 align-items-center">
-              <input id="option3" type="radio" value="option3" name="option3" checked={formData.radioSelection == "option3"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option3">
-                {optionsMsgs.option3}
-              </label>
-            </div>
-            <div className="col-9 align-items-center">
-              <input id="option4" type="radio" value="option4" name="option4" checked={formData.radioSelection == "option4"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option4">
-                {optionsMsgs.option4}
-              </label>
-            </div>
-            <div className="col-9 align-items-center">
-              <input id="option5" type="radio" value="option5" name="option5" checked={formData.radioSelection == "option5"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option5">
-                {optionsMsgs.option5}
-              </label>
-            </div>
-            <div className="col-9 align-items-center">
-              <input id="option6" type="radio" value="option6" name="option6" checked={formData.radioSelection == "option6"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option6">
-                {optionsMsgs.option6}
-              </label>
-            </div>
+            {Object.entries(optionsMsgs).map(([key, val]) => (
+              <div className="col-9">
+                <input key={key} id={key} type="radio" value={key} name={key} checked={formData.radioSelection == key} onChange={setRadioSelection} />
+                <label className={optionLabel} for={key}>
+                  {val}
+                </label>
+              </div>
+            ))}
           </div>
           <div className="row justify-content-center py-2 gy-2">
             <div className="col-10">
@@ -230,42 +202,14 @@ export function ContactForm(props) {
             <div className="col-12">
               <h5>Which best describes you?</h5>
             </div>
-            <div className="col-12">
-              <input id="option1" type="radio" value="option1" name="option1" checked={formData.radioSelection == "option1"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option1">
-                {optionsMsgs.option1}
-              </label>
-            </div>
-            <div className="col-12">
-              <input id="option2" type="radio" value="option2" name="option2" checked={formData.radioSelection == "option2"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option2">
-                {optionsMsgs.option2}
-              </label>
-            </div>
-            <div className="col-12">
-              <input id="option3" type="radio" value="option3" name="option3" checked={formData.radioSelection == "option3"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option3">
-                {optionsMsgs.option3}
-              </label>
-            </div>
-            <div className="col-12">
-              <input id="option4" type="radio" value="option4" name="option4" checked={formData.radioSelection == "option4"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option4">
-                {optionsMsgs.option4}
-              </label>
-            </div>
-            <div className="col-12">
-              <input id="option5" type="radio" value="option5" name="option5" checked={formData.radioSelection == "option5"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option5">
-                {optionsMsgs.option5}
-              </label>
-            </div>
-            <div className="col-12">
-              <input id="option6" type="radio" value="option6" name="option6" checked={formData.radioSelection == "option6"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option6">
-                {optionsMsgs.option6}
-              </label>
-            </div>
+            {Object.entries(optionsMsgs).map(([key, val]) => (
+              <div style={{display: "flex"}}>
+                <input id={key} type="radio" value={key} name={key} checked={formData.radioSelection === key} onChange={setRadioSelection} />
+                <label className={optionLabel} for={key}>
+                  {val}
+                </label>
+              </div>
+            ))}
           </div>
           <div className="row justify-content-center py-2 gy-2">
             <div className="col-12">
