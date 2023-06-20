@@ -25,6 +25,8 @@ export function ContactForm(props) {
     "option6": "Other"
   }
 
+  const textAreaTitle = "Details of your project, or to save you from entering long lists, please include a link to the file of calibrations you\’d like us to quote here.";
+
   const [formData, setFormData] = React.useState({
     country: "United States",
     region: "",
@@ -118,7 +120,7 @@ export function ContactForm(props) {
           <h1 className="text-center">Get More Info</h1>
           <div id="options" className="row justify-content-center py-2 gy-2" name="radioSelection">
             <div className="col-10">
-              <h5>Which best describes you?</h5>
+              <h4>How can we help you?</h4>
             </div>
             {Object.entries(optionsMsgs).map(([key, val]) => (
               <div className="col-9">
@@ -131,12 +133,14 @@ export function ContactForm(props) {
           </div>
           <div className="row justify-content-center py-2 gy-2">
             <div className="col-10">
+              <h6>{textAreaTitle}</h6>
+            </div>
+            <div className="col-10">
               <TextareaAutosize 
                 className={optionTextInput} 
                 minRows="3" 
                 name="message" 
                 onChange={(e) => setMessage(e.target.value)} 
-                placeholder="Questions or comments" 
               >
               </TextareaAutosize>
             </div>
@@ -207,7 +211,7 @@ export function ContactForm(props) {
           <h1 className="text-center">Get More Info</h1>
           <div id="options" className="row justify-content-center py-2 gy-2">
             <div className="col-12">
-              <h5>Which best describes you?</h5>
+              <h5>How can we help you?</h5>
             </div>
             {Object.entries(optionsMsgs).map(([key, val]) => (
               <div style={{display: "flex"}}>
@@ -220,12 +224,12 @@ export function ContactForm(props) {
           </div>
           <div className="row justify-content-center py-2 gy-2">
             <div className="col-12">
+              <h6>{textAreaTitle}</h6>
               <TextareaAutosize 
                 className={optionTextInput} 
                 minRows="3" 
                 name="message" 
                 onChange={(e) => setMessage(e.target.value)} 
-                placeholder="Questions or comments" 
               >
               </TextareaAutosize>
             </div>
