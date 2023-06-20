@@ -22,6 +22,7 @@ export function ContactForm(props) {
     "option3": "I need my equipment calibrated right away.",
     "option4": "I need upstream or downstream Process Consulting Services.",
     "option5": "I need help with specifying, supplying, and/or modifying my equipment. ",
+    "option6": "Other"
   }
 
   const [formData, setFormData] = React.useState({
@@ -31,9 +32,8 @@ export function ContactForm(props) {
     email: "",
     phone: "",
     radioSelection: "option1",
-    textArea: "",
-    comments: "",
-    message: optionsMsgs.option1
+    option: optionsMsgs.option1,
+    message: ""
   });
 
   const handleChange = e => {
@@ -46,37 +46,22 @@ export function ContactForm(props) {
   }
 
   const setRadioSelection = val => {
-    let message = "";
-    if (val == "optionText") {
-      message = formData.textArea;
-    }
-    else {
-      message = optionsMsgs[val];
-    }
     setFormData((prevState) => {
       return {
         ...prevState,
         radioSelection: val,
-        message: message
+        option: optionsMsgs[val]
       }
     });
   }
 
-  const setTextArea = val => {
+  const setMessage = val => {
     setFormData((prevState) => {
       return {
         ...prevState,
-        textArea: val,
+        message: val,
       }
     });
-    if (formData.radioSelection == "optionText") {
-      setFormData((prevState) => {
-        return {
-          ...prevState,
-          message: val
-        }
-      });
-    }
   }
 
   const setCountry = (val) => {
@@ -165,36 +150,33 @@ export function ContactForm(props) {
                 {optionsMsgs.option5}
               </label>
             </div>
-            <div className="col-9">
-              <input
-                id="optionText"
-                type="radio"
-                value="optionText"
-                name="optionText"
-                style={{ verticalAlign: "top" }}
-                checked={formData.radioSelection == "optionText"}
-                onChange={(e) => setRadioSelection(e.target.value)}
-              />
-              &nbsp;Other:<TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/>
+            <div className="col-9 align-items-center">
+              <input id="option6" type="radio" value="option6" name="option6" checked={formData.radioSelection == "option6"} onChange={(e) => setRadioSelection(e.target.value)}/>
+              <label className={optionLabel} for="option6">
+                {optionsMsgs.option6}
+              </label>
             </div>
           </div>
           <div className="row justify-content-center py-2 gy-2">
+            <div className="col-10">
+              <TextareaAutosize className={optionTextInput} minRows="3" name="message" onChange={(e) => setMessage(e.target.value)} />
+            </div>
             <div className="col-5">
               <label for="nameInput fw-bold">Name</label>
               <input className={textInput} id="nameInput" name="name" onChange={handleChange}></input>
             </div>
             <div className="col-5">
               <label for="nameInput fw-bold">Company</label>
-              <input className={textInput} id="nameInput" name="company" onChange={handleChange}></input>
+              <input className={textInput} id="companyInput" name="company" onChange={handleChange}></input>
             </div>
             <div class="w-100"></div>
             <div className="col-5">
               <label for="nameInput fw-bold">Email</label>
-              <input className={textInput} id="nameInput" name="email" onChange={handleChange}></input>
+              <input className={textInput} id="emailInput" name="email" onChange={handleChange}></input>
             </div>
             <div className="col-5">
               <label for="nameInput fw-bold">Best Phone</label>
-              <input className={textInput} id="nameInput" name="phone" onChange={handleChange}></input>
+              <input className={textInput} id="phoneInput" name="phone" onChange={handleChange}></input>
             </div>
             <div class="w-100"></div>
           </div>
@@ -268,30 +250,27 @@ export function ContactForm(props) {
             </div>
             <div className="col-12">
               <input id="option4" type="radio" value="option4" name="option4" checked={formData.radioSelection == "option4"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option3">
+              <label className={optionLabel} for="option4">
                 {optionsMsgs.option4}
               </label>
             </div>
             <div className="col-12">
               <input id="option5" type="radio" value="option5" name="option5" checked={formData.radioSelection == "option5"} onChange={(e) => setRadioSelection(e.target.value)}/>
-              <label className={optionLabel} for="option3">
+              <label className={optionLabel} for="option5">
                 {optionsMsgs.option5}
               </label>
             </div>
             <div className="col-12">
-              <input
-                id="optionText"
-                type="radio"
-                value="optionText"
-                name="optionText"
-                style={{ verticalAlign: "top" }}
-                checked={formData.radioSelection == "optionText"}
-                onChange={(e) => setRadioSelection(e.target.value)}
-              />
-              &nbsp;Other:<TextareaAutosize className={optionTextInput} minRows="1" name="message" onChange={(e) => setTextArea(e.target.value)}/>
+              <input id="option6" type="radio" value="option6" name="option6" checked={formData.radioSelection == "option6"} onChange={(e) => setRadioSelection(e.target.value)}/>
+              <label className={optionLabel} for="option6">
+                {optionsMsgs.option6}
+              </label>
             </div>
           </div>
           <div className="row justify-content-center py-2 gy-2">
+            <div className="col-12">
+              <TextareaAutosize className={optionTextInput} minRows="3" name="message" onChange={(e) => setMessage(e.target.value)} />
+            </div>
             <div className="col-6">
               <label for="nameInput fw-bold">Name</label>
               <input className={textInput} id="nameInput" name="name" onChange={handleChange}></input>
