@@ -72,7 +72,7 @@ const content = {
       <h2>Why choose Advanced Processing Systems?</h2>
       <p>
         Advanced Process Systems Corp is dedicated to provide professional services for
-        installations, calibrations, and validations of major systems, to include GMP, process
+        installations, calibrations, and IQ OQ PQ validations of major systems, to include GMP, process
         systems and lab equipment. We are factory trained and qualified by companies such as
         Sonotec, Hamilton, BlueSens and SecureCell.
       </p>
