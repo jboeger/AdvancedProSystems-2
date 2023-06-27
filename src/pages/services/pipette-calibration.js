@@ -18,11 +18,11 @@ import handler96 from "images/automated-liquid-handler-96-well.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Pipette Calibration | Thermometer, Hygrometer",
-  description: "APS provides Advanced Temperature Calibration Services for hygrometers, digital + analog thermometers, thermocouples, thermal analysis calibration and more!",
+  title: "Pipette Calibration Services - On Site or in Lab!",
+  description: "APS provides Advanced Pipette Calibration Services both on site or in our California lab. ",
   canonicalUrl: "https://www.advancedprosystems.com/services/pipette-calibration/",
   img: "https://www.advancedprosystems.com/static/automated-liquid-handler-24-well-41de765e5e11c45150b309bd164bed13.jpg",
-  imgAlt: "Photograph of pipettes in a laboratory that need to be calibrated. ",
+  imgAlt: "Photograph of pipettes in a laboratory that need to be calibrated and liquid handled. ",
 }
 
 /**
@@ -52,13 +52,13 @@ const sections = [
 
       <ul>
       <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical, Multimeters</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow Rate - Gas, Fluid, Liquid</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow Rate Sensors - Gas, Fluid, Liquid</a></li>
       <li>Mechanical and Balance</li>
       <li>Optical</li>
       <li>Physical Dimensional</li>
       <li><strong>Pipette Calibration</strong></li>
       <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure Gauge Calibration</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermometers</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermometer Calibration</a></li>
       </ul>
       </div>
       </div>
