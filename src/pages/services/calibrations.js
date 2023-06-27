@@ -24,7 +24,7 @@ const metaData = {
   description: "APS performs NIST traceable calibrations in analytical and industrial applications, from flow / pressure to thermal, electrical, and balance calibrations.",
   canonicalUrl: "https://www.advancedprosystems.com/services/calibrations/",
   img: "https://www.advancedprosystems.com/static/card2-lab-02-7db6966a2a9bb67765e0da9404f0670b.jpg",
-  imgAlt: "Close-up photo of lab technician calibrating a bioreactor.",
+  imgAlt: "Close-up photo of lab technician calibrating a bioreactor as part of NIST calibration services.",
 }
 
 /**
@@ -60,13 +60,13 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
       <h2>Advanced Calibrations</h2>
       <ul>
       <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical, Multimeters</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow - Gas, Fluid, Liquid</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow Meter Calibration - Gas, Fluid, Liquid</a></li>
       <li>Mechanical and Balance</li>
       <li>Optical</li>
       <li>Physical Dimensional</li>
-      <li><a href="https://www.advancedprosystems.com/services/pipette-calibration/" title="Pipette Calibration" className="link-primary">Pipette</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/pipette-calibration/" title="Pipette Calibration" className="link-primary">Pipette Calibration</a></li>
       <li><a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">Pressure Gauge Calibration</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermometers</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermometer Calibration</a></li>
       </ul>
       </div>
       </div>
