@@ -18,7 +18,7 @@ import filterintegrity from "images/filter-integrity-tester-analog-gauge.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Pressure Gauge Calibration | Sensors + Transmitters",
+  title: "Pressure Gauge Calibration Services | Sensors, Calibrators",
   description: "APS calibrates pressure gauges to all manufacturer industry standards of pressure sensor calibration! Digital + analogue, pressure transmitters, and more!",
   canonicalUrl: "https://www.advancedprosystems.com/services/pressure-calibration/",
   img: "https://www.advancedprosystems.com/static/pressure-controller-5aa5097b2a0d09f63629c6db2714ba88.jpg",
@@ -51,14 +51,14 @@ const sections = [
       <h3><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations - Main" className="link-primary">Advanced Calibrations - Main</a></h3>
 
       <ul>
-      <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical / Multimeters</a></li>
-      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow - Gas, fluid, liquid</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electro Calibration, Multimeters</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibration" className="link-primary">Flow Meter Calibration - Gas, fluid, liquid</a></li>
       <li>Mechanical and Balance</li>
       <li>Optical</li>
       <li>Physical Dimensional</li>
-      <li><a href="https://www.advancedprosystems.com/services/pipette-calibration/" title="Pipette Calibration" className="link-primary">Pipette</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/pipette-calibration/" title="Pipette Calibration" className="link-primary">Pipette Calibration</a></li>
       <li><strong>Pressure Gauge Calibration</strong></li>
-      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Temperature / Thermal</a></li>
+      <li><a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Thermo Calibration</a></li>
       </ul>
       </div>
       </div>
