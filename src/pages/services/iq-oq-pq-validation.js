@@ -12,8 +12,8 @@ import validationprocess from "images/validation-process.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced IQ OQ PQ Validation + Equipment Qualification | APS",
-  description: "APS provides high level validation + equipment qualification services for lab + industrial processing, pharmaceutical, food + bev, petrochemical, and more. ",
+  title: "IQ OQ PQ Validation and Qualification Services",
+  description: "APS provides high level validation and equipment qualification services for lab and industrial processing, pharmaceutical, food & bev, petrochemical, and more. ",
   canonicalUrl: "https://www.advancedprosystems.com/services/iq-oq-pq-validation/",
   img: "https://www.advancedprosystems.com/static/validation-process-54455618c2180dcd414f422835bcde3f.jpg",
   imgAlt: "Hand drawn process of validating equipment to IQ OQ PQ standards. ",
