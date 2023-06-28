@@ -48,7 +48,7 @@ const sections = [
            Advanced Process Systems offers both manual and automated, single and multi-channel pipette calibration services. APS will perform pipette calibration on site or in our pipette calibration lab. APS will provide a NIST pipette calibration certificate to the standards you select.
         </p>
       <div class="list-group-wrapper">
-      <h3><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></h3>
+      <strong><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></strong>
 
       <ul>
       <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical, Multimeters</a></li>
