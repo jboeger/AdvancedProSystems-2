@@ -20,7 +20,7 @@ import electricalclamp from "images/clamp-meter.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "NIST Calibration Services | Balance, Flow, Pipette, Pressure",
+  title: "Advanced NIST Calibration Services | Overnight available!",
   description: "APS performs NIST traceable calibrations in analytical and industrial applications, from flow and pressure to thermal, electrical, and balance calibrations.",
   canonicalUrl: "https://www.advancedprosystems.com/services/calibrations/",
   img: "https://www.advancedprosystems.com/static/card2-lab-02-7db6966a2a9bb67765e0da9404f0670b.jpg",
