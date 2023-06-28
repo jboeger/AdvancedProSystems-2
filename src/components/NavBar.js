@@ -69,7 +69,7 @@ export function NavBar(props) {
     <div className="container">
       <div className="d-flex flex-wrap justify-content-center align-items-center py-2">
         <Link to="/" className="d-flex align-items-center me-md-auto text-decoration-none">
-          <img className="bi me-2" height="100px" src={logoImg} />
+          <img className="bi me-2" height="100px" alt="Advanced Process Systems Corp logo" src={logoImg} />
         </Link>
         {navPills("nav nav-pills align-items-center")} 
       </div>
@@ -80,7 +80,7 @@ export function NavBar(props) {
     <div className="container-lg">
       <div className="d-flex flex-wrap justify-content-between align-items-center py-2">
         <Link to="/" className="d-flex align-items-center me-md-auto text-decoration-none">
-          <img className="bi me-2" height="70px" src={logoImg} />
+          <img className="bi me-2" height="70px" alt="Advanced Process Systems Corp logo" src={logoImg} />
         </Link>
         <ul className="nav nav-pills">
           <li className="nav-item">
