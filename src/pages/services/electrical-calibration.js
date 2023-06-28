@@ -50,7 +50,7 @@ const sections = [
            Adanced Process Systems performs <strong>precise ISO 17025 compliant electrical calibration</strong> for all manner of instrumentation including multimeters, insulation testers, pressure transmitters, power supplies, hipot testers and clampon meters.
         </p>
       <div class="list-group-wrapper">
-      <h3><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></h3>
+      <strong><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></strong>
 
       <ul>
       <li><strong>Electrical Meter Calibration</strong></li>
