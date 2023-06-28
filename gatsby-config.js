@@ -94,7 +94,9 @@ module.exports = {
     },
     {
       resolve: "gatsby-plugin-manifest",
-      icon: "src/images/favicon.png"
+      options: {
+        icon: "src/images/favicon.png"
+      }
     }
   ],
   pathPrefix: "/AdvancedProSystems",
