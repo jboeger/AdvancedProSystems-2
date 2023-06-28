@@ -42,7 +42,8 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Advanced Temperature Calibration</h1>
+        <h1>Advanced Temperature Calibration Services</h1>
+      <h2>APS Calibrates Thermometers, Humidity Sensors, and Data Loggers</h2>
         <p>
            Adanced Process Systems performs thermometer calibration, thermocouple calibration, thermal cycler calibration, and thermal probe calibration as we can provide thermometer calibration logs, thermometer calibration certificates, and thermal anlysis calibrations.  APS provides precise temperature calibration with our extensive experience in how to calibrate thermocouples, how to calibrate hygrometers, and how to calibrate thermometers. 
         </p>
@@ -69,7 +70,7 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Digital and glass thermometer calibration services</h2>
+        <h2>Digital and Glass Thermometer Calibration Services</h2>
         <p>
           APS provides expert service in glass thermometer calibration and digital thermometer calibration. We have vast experience in how to calibrate a digital thermometer from a variety of manufacturers. We can perform thermometer calibration compliant to ISO 17025 accreditation. APS is your temperature calibration expert!
         </p>
@@ -90,7 +91,7 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Infrared thermometer calibration services</h2>
+        <h2>Infrared Thermometer Calibration Services</h2>
         <p>
           APS provides expert service in the calibration of infrared thermometers. We have vast experience in how to calibrate infrared thermometers from a variety of manufacturers. We can perform infrared thermometer calibration standard compliant to ISO 17025 accreditation.
         </p>
@@ -106,7 +107,7 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-      <h2>Humidity sensor calibration - Hygrometers!</h2>
+      <h2>Humidity Sensor Calibration - Hygrometers!</h2>
         <p>
           APS provides expert humidity calibration service for hygrometers. We have vast experience in relative humidity calibration standards from a variety of manufacturers. We can perform hygrometer calibration complant to ISO 17025 accreditation for humidity sensor calibration.
       </p>
@@ -122,7 +123,7 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-      <h2>Data logger calibration certificates</h2>
+      <h2>Data Logger Calibration Certificates</h2>
         <p>
           APS provides expert data logger calibration service for data logger humidity calibratation. <strong><em>We have vast experience in data logger calibration from all OEM manufacturers</em></strong>. We can provide a data logger calibration certificate compliant to ISO 17025 accreditation.
        </p>
