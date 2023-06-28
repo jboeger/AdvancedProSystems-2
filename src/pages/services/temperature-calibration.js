@@ -17,8 +17,8 @@ import humidmeter from "images/relative-humidity-and-temperature-meter.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Temperature Calibration | Thermometer, Hygrometer",
-  description: "APS provides Advanced Temperature Calibration Services for hygrometers, digital + analog thermometers, thermocouples, thermal analysis calibration and more!",
+  title: "Temperature Calibration Services | Thermometer, Hygrometer",
+  description: "APS provides Advanced Temperature Calibration Services for hygrometers, digital & analog thermometers, thermocouples, thermal analysis calibration and more!",
   canonicalUrl: "https://www.advancedprosystems.com/services/temperature-calibration/",
   img: "https://www.advancedprosystems.com/static/thermometer-data-logger-1-66a2db38fce48b05f6c35497c3f920b6.png",
   imgAlt: "Photo of a thermometer data logger. We calibrate thermometer data loggers. ",
