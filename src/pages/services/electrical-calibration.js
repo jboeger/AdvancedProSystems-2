@@ -72,7 +72,7 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Multimeter calibration</h2>
+        <h2>Multimeter Calibration Services</h2>
         <p>
           Advanced Process Systems provides expert ISO 17025 compliant <strong>multimeter calibration</strong> service for all OEM multimeter manufacturers. 
         </p>
@@ -104,7 +104,7 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-      <h2>Pressure Transmitter Calibration</h2>
+      <h2>Pressure Transmitter Calibration Services</h2>
         <p>
           Advanced Process Systems provides an expert ISO 17025 compliant <strong>pressure transmitter calibration</strong> services. We have vast experience in Rosemount pressure transmitter calibration as well as from all other OEM pressure transmitter manufacturers.
       </p>
