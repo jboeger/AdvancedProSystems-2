@@ -53,7 +53,7 @@ const sections = [
       <p>At APS, we understand the importance of precise calibration for these diverse instruments to ensure the utmost accuracy and stability of the process. Our commitment to excellence underpins every calibration we perform, fostering trust in the precision and reliability of every measurement.
         </p>
       <div class="list-group-wrapper">
-      <h3><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></h3>
+      <strong><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></strong>
       
       <ul>
       <li><a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">Electrical, Multimeters</a></li>
