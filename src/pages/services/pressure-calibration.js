@@ -167,6 +167,10 @@ const faqContent = [
         {
     question: "What is a differential pressure transmitter? ",
     answer: "A differential pressure transmitter measures the difference in pressure between two points in a system. They are commonly used in industrial applications such as flow measurement and require regular calibration to ensure accurate and reliable measurements. "
+  },
+        {
+    question: "What does a pressure gauge calibration service involve? ",
+    answer: "Pressure gauge calibration involves benchmarking your device output against a more accurate reference instrument. The goal is to confirm and adjust, as necessary, your device's precision to ensure optimal functioning. Despite their robustness and accuracy, pressure gauges may depreciate over time, necessitating regular calibration for reliable readings. While an annual calibration cycle is generally advised, some scenarios may demand more frequent checks to maintain accuracy."
   }
 ]
 
