@@ -19,7 +19,7 @@ import insulationtester from "images/insulation-tester.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Electrical Meter Calibration | Multimeters | APS",
+  title: "Electronic Meter Calibration Services | Multimeters",
   description: "APS performs electrical meter calibration for all manager of instrumentation including hipot testers, insulation testers, and clamp-on meters. ",
   canonicalUrl: "https://www.advancedprosystems.com/services/electrical-calibration/",
   img: "https://www.advancedprosystems.com/static/clamp-meter-a6ca78100540561645eec3fce77a7d84.jpg",
@@ -44,10 +44,10 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Electrical Calibration</h1>
-        <h2>Electrical Meter Calibration</h2>
+        <h1>Electronic Calibration Services</h1>
+        <h2>Electrical Meter Calibrations</h2>
         <p>
-           Adanced Process Systems performs <strong>precise ISO 17025 compliant electrical calibration</strong> for all manner of instrumentation including multimeters, insulation testers, pressure transmitters, power supplies, hipot testers and clampon meters.
+           Advanced Process Systems performs <strong>precision ISO 17025 compliant electrical calibration</strong> for all manner of instrumentation including multimeters, insulation testers, pressure transmitters, power supplies, hipot testers and clampon meters.
         </p>
       <div class="list-group-wrapper">
       <strong><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></strong>
@@ -68,7 +68,7 @@ const sections = [
   },
     {
     img: electricalmulti,
-    imgAlt: "Picture of a multimeter device. ",
+    imgAlt: "Picture of a multimeter device to be calibrated. ",
     imgCols: "6",
     content: (
       <div>
@@ -77,14 +77,14 @@ const sections = [
           Advanced Process Systems provides expert ISO 17025 compliant <strong>multimeter calibration</strong> service for all OEM multimeter manufacturers. 
         </p>
         <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid multimeter calibration turnaround. </mark>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact/" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid multimeter calibration turnaround. </mark>
         </p> 
       </div>
     )
   },
   {
     img: insulationtester,
-    imgAlt: "Insulation Testers. ",
+    imgAlt: "Picture of insulation Testers to be calibrated. ",
     imgCols: "6",
     content: (
       <div>
@@ -93,7 +93,7 @@ const sections = [
           APS provides expert ISO 17025 compliant <strong>insulation testers calibration</strong> service for all OEM insulation tester manufacturers. 
         </p>
        <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid insulation testers calibration turnaround. </mark>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact/" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid insulation testers calibration turnaround. </mark>
         </p> 
       </div>
     )
@@ -109,7 +109,7 @@ const sections = [
           Advanced Process Systems provides an expert ISO 17025 compliant <strong>pressure transmitter calibration</strong> services. We have vast experience in Rosemount pressure transmitter calibration as well as from all other OEM pressure transmitter manufacturers.
       </p>
       <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid pressure transmitter calibration turnaround. </mark>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact/" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid pressure transmitter calibration turnaround. </mark>
         </p> 
       </div>
     )  
@@ -125,7 +125,7 @@ const sections = [
           APS provides expert ISO 17025 compliant POWER SUPPLY calibration services.
        </p>
         <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid power supply calibration turnaround. </mark>
+          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact/" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid power supply calibration turnaround. </mark>
         </p> 
       </div>
     )  
