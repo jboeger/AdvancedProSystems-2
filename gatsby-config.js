@@ -6,15 +6,15 @@ const pages = [
     lastmod: "2023-01-01" //format YYYY-MM-DD
   },
   {
-    path: "/about",
+    path: "/about/",
     lastmod: "2023-01-01"
   },
   {
-    path: "/contact",
+    path: "/contact/",
     lastmod: "2023-01-01"
   },
   {
-    path: "/products",
+    path: "/products/",
     lastmod: "2023-01-01"
   },
   {
@@ -22,31 +22,31 @@ const pages = [
     lastmod: "2023-01-01",
   },
   {
-    path: "/services/calibrations",
+    path: "/services/calibrations/",
     lastmod: "2023-01-01"
   },
   {
-    path: "/services/electrical-calibrations",
+    path: "/services/electrical-calibrations/",
     lastmod: "2023-01-01"
   },
   {
-    path: "/services/flow-sensor-calibrations",
+    path: "/services/flow-sensor-calibrations/",
     lastmod: "2023-01-01"
   },
   {
-    path: "/services/iq-oq-pq-validation",
+    path: "/services/iq-oq-pq-validation/",
     lastmod: "2023-01-01"
   },
   {
-    path: "/services/lab-calibrations",
+    path: "/services/lab-calibrations/",
     lastmod: "2023-01-01"
   },
   {
-    path: "/services/pipette-calibration",
+    path: "/services/pipette-calibration/",
     lastmod: "2023-01-01"
   },
   {
-    path: "/services/temperature-calibration",
+    path: "/services/temperature-calibration/",
     lastmod: "2023-01-01"
   },
 ]
