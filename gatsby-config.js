@@ -91,6 +91,10 @@ module.exports = {
         resolvePages: () => pages,
         serialize: ({path, lastmod}) => ({url: path, lastmod: lastmod})
       }
+    },
+    {
+      resolve: "gatsby-plugin-manifest",
+      icon: "src/images/favicon.png"
     }
   ],
   pathPrefix: "/AdvancedProSystems",
