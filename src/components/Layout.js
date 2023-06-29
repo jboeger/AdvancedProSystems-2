@@ -2,7 +2,7 @@ import * as React from "react";
 import { NavBar } from "./NavBar";
 import { Footer } from "./Footer";
 import { Helmet } from "react-helmet";
-import icon from "images/favicon.png";
+import icon from "images/favicon.ico";
 import "./Layout.css";
 import "../styles.scss";
 const bootstrap =
