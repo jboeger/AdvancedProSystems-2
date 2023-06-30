@@ -28,7 +28,7 @@ export function Hero(props) {
         <h1 style={{ paddingBottom: "20px" }} className="fw-bolder">
           {props.title}
         </h1>
-        <h4 className="fw-light">{props.body}</h4>
+        <p className="fw-light" style={{fontSize: "27px"}}>{props.body}</p>
       </div>
     </div>
   );
