@@ -26,8 +26,8 @@ const pages = [
     lastmod: "2023-06-01"
   },
   {
-    path: "/services/electrical-calibrations/",
-    lastmod: "2023-06-01"
+    path: "/services/electrical-calibration/",
+    lastmod: "2023-07-01"
   },
   {
     path: "/services/flow-sensor-calibrations/",
