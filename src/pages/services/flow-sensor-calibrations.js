@@ -46,9 +46,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Advanced Flow Sensor Calibrations</h1>
+        <h1>Advanced Flow Meter Calibration</h1>
         <p>
-         Advanced Processing is devoted to delivering the pinnacle of standard calibration for all equipment specifically designed to measure flow. These vital instruments quantify the flow rate of fluids, liquids, or gases as they traverse through a confined transmission system. An array of these ingenious devices leverage the inherent physical properties of liquids and gases to achieve the most accurate and cost-effective measurements. They employ a broad range of measurement methods, including ultrasonic, electromagnetic, Karman vortex, paddlewheel, floating element, thermal, and differential pressure techniques. </p>
+         APS is devoted to delivering the pinnacle of standard calibration for all equipment specifically designed to measure flow. These vital instruments quantify the flow rate of fluids, liquids, or gases as they traverse through a confined transmission system. An array of these ingenious devices leverage the inherent physical properties of liquids and gases to achieve the most accurate and cost-effective measurements. They employ a broad range of measurement methods, including ultrasonic, electromagnetic, Karman vortex, paddlewheel, floating element, thermal, and differential pressure techniques. </p>
       
       <p>At APS, we understand the importance of precise calibration for these diverse instruments to ensure the utmost accuracy and stability of the process. Our commitment to excellence underpins every calibration we perform, fostering trust in the precision and reliability of every measurement.
         </p>
@@ -75,9 +75,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Gas Flow Meters and Sensors</h2>
+        <h2>Gas Flow Calibration</h2>
         <p>
-          APS performs <strong>gas flow sensor calibrations</strong> whether the measurement system is based on a single fundamental parameter or a very complicated process. The gas flow meter used for measurement depends on the technology used.
+          APS performs <strong>gas flow meter calibration</strong> whether the measurement system is based on a single fundamental parameter or a very complicated process. The gas flow meter used for measurement depends on the technology used.
         </p>
         <h3>Gas flow and liquid flow metering technology types:</h3>
         <p>There are 8 commonly used technologies in gas flow and liquid flow measurement. They are:</p>
@@ -92,8 +92,8 @@ const sections = [
           <li>Peristaltic pump calibration</li>
           <li>Coriolis</li>
         </ul>
-        <h3>Leading brands and common equipment calibrated and serviced</h3>
-        <p>Advanced Calibrations Services often calibrates the following:</p>
+        <h3>Leading flow meter / sensor brands we commonly calibrate and service</h3>
+        <p>APS often calibrates the following:</p>
         <ul>
           <li>BlueSens</li>
           <li>BW Technologies - gas calibration</li>
@@ -121,7 +121,7 @@ const sections = [
       <div>
         <h2>Liquid Flow Rate Calibration</h2>
         <p>
-          A liquid flow meter is an instrument designed for measuring the <strong>flow rate</strong> of fluid via a fluid transmission system. APS performs liquid flow rate calibrations (flow meter calibration) whether the measurement system is based on a single fundamental parameter or a very complicated process. The method of measurement depends on the technology used.  <strong><em>We perform backflow test gauge calibrations / flow rate calibrations on a regular basis.</em></strong>
+          A liquid flow meter is an instrument designed for measuring the <strong>flow rate</strong> of fluid via a fluid transmission system. APS performs liquid flow rate calibration (flow meter calibration) calibrations whether the measurement system is based on a single fundamental parameter or a very complicated process. The method of measurement depends on the technology used.  <strong><em>We perform backflow test gauge calibrations / flow rate calibrations on a regular basis.</em></strong>
         </p>
         <h3>Leading liquid flow meters we calibrate and service:</h3>
         <ul>
