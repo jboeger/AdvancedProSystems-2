@@ -18,8 +18,8 @@ import handler96 from "images/automated-liquid-handler-96-well.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Pipette Calibration Services - On Site or in Lab!",
-  description: "APS provides Advanced Pipette Calibration Services both on site or in our California lab. ",
+  title: "Advanced Pipette Calibration Services - On Site or in Lab!",
+  description: "APS provides both manual and automatic PIPETTE calibration services -- on site or at our California lab. Overnight for fast calibration turnaround!",
   canonicalUrl: "https://www.advancedprosystems.com/services/pipette-calibration/",
   img: "https://www.advancedprosystems.com/static/automated-liquid-handler-24-well-41de765e5e11c45150b309bd164bed13.jpg",
   imgAlt: "Photograph of pipettes in a laboratory that need to be calibrated and liquid handled. ",
@@ -70,7 +70,8 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>NIST Pipette Calibration Services</h2>
+        <h2>NIST Automated Pipette Calibrations</h2>
+        <h3>Liquid handling calibration services</h3>
         <p>
           On automated liquid handlers, APS offers NIST calibration certificates as well as preventive maintenance on well known brands such as Hamilton, Beckman, and Tecan. We also offer pipette tips that are NIST certified to work with Rainin, Eppendorf, Hamilton, Beckman, and Tecan. If your pharma process requires ISO 17025 compliance, APS is compliant to those standards as well.
         </p>
