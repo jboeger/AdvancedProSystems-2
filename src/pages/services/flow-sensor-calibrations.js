@@ -173,7 +173,7 @@ const sections = [
         <p>
           APS performs NIST traceable ISO 17025 volumetric flow sensor calibration in analytical laboratory / industrial process applications. We can quickly accommodate on-site equipment or equipment overnighted to our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate include: digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. <strong>Torque wrench calibration is a common request where we expedite service</strong>. Several applications of balance calibration, load cell calibration, torque calibration and flow sensor calibration involve our setting up an initial IOPQ process qualification and validation.
        </p>
-      <h3>Leading volumentric flow meter calibrations include:</h3>
+      <h3>Leading volumetric flow meter calibrations include:</h3>
       <ul>
       <li>Copley</li>
       <li>TSI</li>
