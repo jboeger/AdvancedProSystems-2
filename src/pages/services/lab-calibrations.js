@@ -22,7 +22,7 @@ export const padding = "40px";
 
 const metaData = {
   title: "Lab Calibration Services - Bioreactors, Gas Flow, Pipettes!",
-  description: "APS performs NIST Traceable Calibration Services for labs: flow meters, pressure transmitters, balance, dimensional, thermal and electrical calibrations.",
+  description: "APS performs NIST Traceable Calibration Services for labs: flow, pressure, pipette, balance, dimensional, thermal + electrical calibrations.",
   canonicalUrl: "https://www.advancedprosystems.com/services/lab-calibrations/",
   img: "https://www.advancedprosystems.com/static/card2-lab-02-7db6966a2a9bb67765e0da9404f0670b.jpg",
   imgAlt: "Close-up photo of laboratory scientist calibrating a bioreactor in a lab.",
