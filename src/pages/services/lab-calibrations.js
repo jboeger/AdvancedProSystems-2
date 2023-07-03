@@ -48,15 +48,16 @@ const sections = [
       <div>
         <h1>Advanced Lab Calibration Services</h1>
         <p>
-           APS delivers premium lab calibration services, adhering to the most rigorous industry standards. We perform precise calibrations to the most exacting specifications and, upon request, retain these data from NIST calibrations in our secure, regularly audited database. 
+           APS delivers premium lab calibration services adhering to the most rigorous industry standards. We perform precise calibrations to the most exacting specifications and, upon request, retain these data from NIST calibrations in our secure, regularly audited database. 
         </p>
         <p>
-           Our advanced calibration processes are ANSI accredited via ANAB accreditation services. We provide ISO 17025 compliant documentation and adhere to standards required for FDA compliance. Furthermore, we offer comprehensive calibration compliance tracking from initiation to completion, ensuring unbroken oversight throughout the process.
+           Our calibration processes are ANSI accredited via ANAB accreditation services. We provide ISO 17025 compliant documentation and adhere to standards required for FDA compliance. Furthermore, we offer <strong>comprehensive calibration compliance tracking from initiation to completion</strong>, ensuring unbroken oversight throughout the process.
         </p>
 
           <p>
-Customers include the range from start-ups to the most established biopharma, biotechnology, and biomedical equipment companies to US national laboratories, chemical, and food and beverage companies with the most stringent calibration standards. APS works with the full range of requirements from individual calibrations, more exacting custom standards, supplying calibration personnel, OEM calibration services, to setting up the processes for entire metrology departments. In some cases, we provide comprehensive calibration facilities management.
+Customers include the range from start-ups to the most established biopharma, biotech, and biomedical equipment companies to US national laboratories, chemical, and food and beverage companies with the most stringent calibration standards. APS works with the full range of requirements from individual calibrations, more exacting custom standards, supplying calibration personnel and OEM calibration services to setting up the processes for entire metrology departments. In some cases, we provide comprehensive calibration facilities management.
       </p>
+  <h2>Expedited Services and Overnight Calibrations</h2>
                 <p>
 In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" title="IQ OQ PQ Validation" className="link-primary">IQ OQ PQ validation</a> is necessary, APS can expedite the process with all the necessary calibrations. Whether the IQ/OQ/PQ validation SOP needs to be written from scratch or a pre-approved package needs to be strictly adhered to, APS will provide the most efficient, timely, and cost effective solution.
       </p>
@@ -74,8 +75,9 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
           APS performs installation, maintenance, and repair on bioreactors that can range from basic confirmation of operation with specified parameters on the mass flow controllers, motors, agitation groups, peristaltic pumps, mass flow controllers, pH sensors, DO sensors, off-gas sensors, cell counters, viable cell sensors to the most highly documents NIST traceable ISO 17025 calibration standards in laboratory applications. 
         </p>
               <p>
-          We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid fermentor calibration turnaround. A sampling of bioreactors we regularly calibrate are Sartorius, Eppendorf, Infors, Getinge (Applikon), KBiotech, Agilitech, Solaris, and Biostream-International. 
+          <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid fermentor calibration turnaround</strong>. A sampling of bioreactors we regularly calibrate are Sartorius, Eppendorf, Infors, Getinge (Applikon), KBiotech, Agilitech, Solaris, and Biostream-International. 
         </p>
+      <h3>Automation and Single Use Bioreactors</h3>
               <p>
           On automated bioreactors we can confirm and validate manufactures' adherence to stated specifications. APS regularly performs installation, maintenance, and confirmation of operation within performance specifications while supplying NIST traceable documentation and data collection on single-use bioreactor systems. APS provides performance confirmation and calibration certificates on single-use consumable parts. 
         </p>
@@ -139,7 +141,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
       <div>
       <h2>Electronic Calibration Services</h2>
         <p>
-APS performs NIST traceable ISO 17025 electrical meter calibration in the lab. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid electronic equipment calibration and turnaround. 
+APS performs NIST traceable ISO 17025 <a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">electrical meter calibration</a> in the lab. We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid electronic equipment calibration and turnaround. 
       </p>
               <p>
 We regularly perform electrical calibration for lab equipment including: peristaltic pumps, agitation motors, and instrument communication interfaces.
@@ -201,7 +203,7 @@ Lab instruments we regularly calibrate and provide calibration certificates for 
       <div>
       <h2>Pipette Calibration Services</h2>
         <p>
-APS performs NIST traceable ISO 17025 pipette calibration services on all manor of pipettes whether they are a single channel pipette,  multichannel pipette, digital pipette, or repeat pipette. Manufacturers we calibrate regularly are Rainin, Eppendorf, Hamilton, Gilsons, Thermo Fisher Scientific, and Mettler-Toledo,. We can accommodate equipment overnighted into our laboratory for rapid calibration / instrument turnaround. Our pipette calibration services include the calibration of pipette diluters.
+APS performs NIST traceable ISO 17025 <a href="https://www.advancedprosystems.com/services/pipette-calibration/" title="Pipette Calibration" className="link-primary">pipette calibrations</a> on all manor of pipettes whether they are a single channel pipette,  multichannel pipette, digital pipette, or repeat pipette. Manufacturers we calibrate regularly include: Rainin, Eppendorf, Hamilton, Gilsons, Thermo Fisher Scientific, and Mettler-Toledo. <strong>We can accommodate equipment overnighted into our laboratory for rapid calibration / instrument turnaround</strong>. Our pipette calibration services include the calibration of pipette diluters.
       </p>
         <h3>Types of pipette calibrations:</h3>
         <ul>
@@ -223,7 +225,7 @@ APS performs NIST traceable ISO 17025 pipette calibration services on all manor 
       <div>
       <h2>Temperature Calibration Services</h2>
         <p>
-APS performs <a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">NIST traceable ISO 17025 thermometer calibration</a> in laboratory and industrial process settings. <strong>We can quickly accommodate equipment overnighted into our laboratory for rapid instrument calibration and turnaround</strong>. We perform digital and glass thermometer calibration on a range of applicatons that also include humidity calibration. Many of these applications include datalogger calibration and thermometer calibration. Several applications of thermometer calibration and humidity calibration require us to set up an initial IQ OQ PQ process qualification and <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" title="IQ OQ PQ Validation" className="link-primary">validation</a>.
+APS performs NIST traceable ISO 17025 <a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">thermometer calibrations</a> in laboratory and industrial process settings. We perform digital and glass thermometer calibration on a range of applicatons that also include humidity calibration. Many of these applications include datalogger calibration and thermometer calibration. Several applications of thermometer calibration and humidity calibration require us to set up an initial IQ OQ PQ process qualification and <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" title="IQ OQ PQ Validation" className="link-primary">validation</a>.
       </p>
         <h3>Types of temperature calibration:</h3>
         <ul>
@@ -236,7 +238,7 @@ APS performs <a href="https://www.advancedprosystems.com/services/temperature-ca
           <li>Thermal mass flow calibration</li>
           <li>NIST calibrations</li>
         </ul>
-              <p>More information about <a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Advanced Temperature Calibrations</a>.
+              <p>More information about <a href="https://www.advancedprosystems.com/services/temperature-calibration/" title="Temperature Calibration" className="link-primary">Advanced Temperature Calibrations</a>. Yes -- we can accommodate rapid calibration turnaround! Overnight it to our lab in the SF Bay Area.
       </p>
       </div>
     )  
