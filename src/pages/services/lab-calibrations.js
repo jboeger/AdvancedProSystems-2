@@ -51,7 +51,7 @@ const sections = [
            APS delivers premium lab calibration services adhering to the most rigorous industry standards. We perform precise calibrations to the most exacting specifications and, upon request, retain these data from NIST calibrations in our secure, regularly audited database. 
         </p>
         <p>
-           Our calibration processes are ANSI accredited via ANAB accreditation services. We provide ISO 17025 compliant documentation and adhere to standards required for FDA compliance. Furthermore, we offer <strong>comprehensive calibration compliance tracking from initiation to completion</strong>, ensuring unbroken oversight throughout the process.
+           Our calibration processes are ANSI accredited via ANAB accreditation services. We provide ISO 17025 compliant documentation and adhere to standards required for FDA compliance. Furthermore, we offer <strong><em>comprehensive calibration compliance tracking from initiation to completion</em></strong>, ensuring unbroken oversight throughout the process.
         </p>
 
           <p>
