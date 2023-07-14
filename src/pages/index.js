@@ -13,7 +13,7 @@ import card3Img from "../images/card3-stainless-02.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Process Systems Corp | Calibrations & Bioprocessing",
+  title: "Advanced Process Systems Corp | Bioprocessing Specialists",
   description: "APS provides complete service solutions for your bioprocessing needs, whether upstream or downstream... lab scale, pilot plant, or industrial. ",
   canonicalUrl: "https://www.advancedprosystems.com",
   imgURL: "https://www.advancedprosystems.com/static/hero-home-01a-big-bcdf49ad1d926b6cb410bdf5b82ea7c3.jpg",
@@ -71,10 +71,8 @@ const content = {
     <div>
       <h2>Why choose Advanced Processing Systems?</h2>
       <p>
-        Advanced Process Systems Corp is dedicated to provide professional services for
-        installations, <a href="https://www.advancedprosystems.com/services/calibrations/" className="link-primary" title="Advanced Calibration Services">calibrations</a>, and <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" className="link-primary" title="Advanced IQ OQ PQ Validation and Equipment Qualification">IQ OQ PQ validations</a> of major systems, to include GMP, process
-        systems and lab equipment. We are factory trained and qualified by companies such as
-        Sonotec, Hamilton, BlueSens and SecureCell.
+        Advanced Process Systems Corp is dedicated to providing professional services for
+        installations, <a href="https://www.advancedprosystems.com/services/calibrations/" className="link-primary" title="Advanced Calibration Services">calibrations</a>, and <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" className="link-primary" title="Advanced IQ OQ PQ Validation and Equipment Qualification">IQ OQ PQ validations</a> of major systems, to include GMP, process systems and lab equipment. We are factory trained and qualified by companies such as Sonotec, Hamilton, BlueSens and SecureCell.
       </p>
     </div>
   ),
