@@ -14,10 +14,10 @@ export function CredentialCard(props) {
           <h4 className="card-title">{props.title}</h4>
           <img height="40px" src={checkCircle} />
         </span> */}
-        <h4 className="card-title">
+        <h3 className="card-title h4">
           {props.title}
           <img height="30px" style={{ marginLeft: "10px" }} src={checkCircleFill} />
-        </h4>
+        </h3>
         <p className="card-text">{props.text}</p>
       </div>
     </div>
