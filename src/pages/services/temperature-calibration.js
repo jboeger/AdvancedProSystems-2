@@ -17,8 +17,8 @@ import humidmeter from "images/relative-humidity-and-temperature-meter.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Temperature Calibration Services | Thermometers, Hygrometers",
-  description: "APS provides Temperature Calibration Services for hygrometers, digital & analog thermometers, thermocouples, thermal analysis calibration and more!",
+  title: "NIST Traceable Thermometer Calibration Services | APS",
+  description: "Our temperature calibration services include NIST certified thermometer calibration services, humidy sensors (hygrometers), data loggers and more!",
   canonicalUrl: "https://www.advancedprosystems.com/services/temperature-calibration/",
   img: "https://www.advancedprosystems.com/static/thermometer-data-logger-1-66a2db38fce48b05f6c35497c3f920b6.png",
   imgAlt: "Photo of a thermometer data logger. We calibrate thermometer data loggers. ",
@@ -42,11 +42,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Advanced Temperature Calibration Services</h1>
+        <h1>NIST Traceable Thermometer Calibration Services</h1>
       <h2>APS Calibrates Thermometers, Humidity Sensors, and Data Loggers</h2>
-        <p>
-           Adanced Process Systems performs thermometer calibration, thermocouple calibration, thermal cycler calibration, and thermal probe calibration as we can provide thermometer calibration logs, thermometer calibration certificates, and thermal anlysis calibrations.  APS provides precise temperature calibration with our extensive experience in how to calibrate thermocouples, how to calibrate hygrometers, and how to calibrate thermometers. 
-        </p>
+        <p>APS performs thermometer calibration log and thermocouple calibrations, thermal cycler calibration, and thermal probe calibration as we can provide thermometer calibration logs, thermometer calibration certificates, and thermal anlysis calibrations. APS provides precise temperature calibration with our extensive experience in how to calibrate thermocouples, how to calibrate hygrometers, and how to calibrate thermometers. </p>
       <div class="list-group-wrapper">
       <strong><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></strong>
 
@@ -70,11 +68,11 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>Digital and Glass Thermometer Calibration Services</h2>
+        <h2>NIST Certified Thermometer Calibration Services</h2>
         <p>
           APS provides expert service in glass thermometer calibration and digital thermometer calibration. We have vast experience in how to calibrate a digital thermometer from a variety of manufacturers. We can perform thermometer calibration compliant to ISO 17025 accreditation. APS is your temperature calibration expert!
         </p>
-        <h3>Digital and glass thermometer calibration types include:</h3>
+        <h3>Digital / glass thermometers we typically calibrate:</h3>
         <ul>
           <li>APS' thermal range of calibration for digital thermometers is from -196C to 680C</li>
           <li>APS' thermal range of calibration for glass thermometers is from -50C to 250C</li>
@@ -162,7 +160,7 @@ const CalibrationsPage = () => {
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>
-      <FAQ title="Temperature Calibration FAQs - Frequently Asked Questions about Thermometer Calibrations" content={faqContent} />
+      <FAQ title="NIST Traceable Thermometer Calibration FAQs" content={faqContent} />
     </Layout>
   );
 };
