@@ -20,8 +20,8 @@ import electricalclamp from "images/clamp-meter.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced NIST Calibration Services | Overnight available!",
-  description: "APS performs NIST traceable calibrations in analytical and industrial applications, from flow and pressure to thermal, electrical, and balance calibrations.",
+  title: "Advanced NIST Calibration Services | APS",
+  description: "APS performs NIST traceable calibration services  in analytical and industrial applications, from flow, pressure, and pipette to thermal and electrical.",
   canonicalUrl: "https://www.advancedprosystems.com/services/calibrations/",
   img: "https://www.advancedprosystems.com/static/card2-lab-02-7db6966a2a9bb67765e0da9404f0670b.jpg",
   imgAlt: "Close-up photo of lab technician calibrating a bioreactor as part of NIST calibration services.",
@@ -45,7 +45,7 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Advanced Calibration Services</h1>
+        <h1>Advanced NIST Calibration Services</h1>
         <p>
            APS provides the highest level of standard calibration services to the laboratory, industrial processing, pharmaceutical, food and beverage manufacturing, petrochemical, and standards dependent industries that require accurate recordkeeping, calibration, maintenance, and repair of their instruments. APS calibrates to the calibration standard and if requested hold that data on NIST calibrations in our database managed and audited by ANSI accredited (through ANAB accreditation services).
         </p>
@@ -78,11 +78,11 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     imgCols: "6",
     content: (
       <div>
-        <h2>Pressure Calibration Services</h2>
+        <h2>Pressure Gauge Calibration Services</h2>
         <p>
           APS performs <a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">NIST traceable ISO 17025 pressure gauge calibration services</a> in laboratory and industrial process applications. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid pressure gauge calibration turnaround</strong>. A sampling of gauges we regularly calibrate are digital pressure, analog pressure, differential, and test gages. We also calibrate pressure transducer, pressure transmitter, and pressure calibrator applications as well as other pressure applications using a digital pressure indicator, barometer, or pressure module.
         </p>
-        <h3>Pressure calibration types include:</h3>
+        <h3>Pressure gauge calibration types include:</h3>
         <ul>
           <li>Digital pressure gauge</li>
           <li>Test gauge</li>
@@ -106,11 +106,11 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     imgCols: "6",
     content: (
       <div>
-        <h2>Flow Sensor Calibration Services</h2>
+        <h2>Flow Meter Calibration Services</h2>
         <p>
           APS performs NIST traceable ISO 17025 <a href="https://www.advancedprosystems.com/services/flow-sensor-calibrations/" title="Flow Sensor Calibrations" className="link-primary">flow sensor calibration</a> in laboratory and industrial settings. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid flow meter calibration turnaround</strong>. A sampling of flow sensors we regularly calibrate are liquid flow, gas flow and mass flow meters using in-line flow, volumetric flow or optical flow technology. We also calibrate mass flow controllers and other non-invasive flow measurement equipment.
         </p>
-        <h3>Flow sensor calibration types inclue:</h3>
+        <h3>Flow sensor types include:</h3>
         <ul>
           <li>Gas flow meter</li>
           <li>Mass flow controllers</li>
@@ -134,7 +134,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
         <p>
           APS performs <a href="https://www.advancedprosystems.com/services/electrical-calibration/" title="Electrical Calibration" className="link-primary">NIST traceable ISO 17025 electrical meter calibration</a> in lab and industrial settings. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid electrical meter calibration and turnaround</strong>. A sampling of electrical instrument calibration we regularly perform include: multimeter, clamp meter, and data logger. We perform electrical calibrations for many manufacturers of insulation tester, hipot tester (high potential tester), loop tester, and multifunction tester.
       </p>
-        <h3>Electrical meter calibration types include:</h3>
+        <h3>Electronic calibration types include:</h3>
         <ul>
           <li>Data Loggers</li>
           <li>Insulation Testers</li>
@@ -157,7 +157,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     imgCols: "6",
     content: (
       <div>
-      <h2>Mechanical and Balance Calibration Services</h2>
+      <h2>Mechanical Calibration Services</h2>
         <p>
           APS performs NIST traceable ISO 17025 sensor calibrations that can be serviced on-site or via overnight to our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly calibrate include digital force gauge, load cell, balance, vernier caliper, height gauge, torque wrench, torque analyzer, torque tester, torque screwdriver, and manometer. <strong>Torque wrench calibration is a common request where we expedite service</strong>. Several applications of balance calibration, load cell calibration, torque calibration and sensor calibration involve our setting up an initial IOPQ process <a href="https://www.advancedprosystems.com/services/iq-oq-pq-validation/" title="IQ OQ PQ Validation" className="link-primary">qualification and validation</a>.
        </p>
@@ -185,7 +185,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
       <h2>Physical Dimensional Calibration Services</h2>
         <p>
 APS performs NIST traceable ISO 17025 physical dimensional calibration of sensors in analytical lab and industrial settings. We can quickly accommodate on-site or equipment overnighted into our laboratory for rapid calibration and instrument turnaround. A sampling of instruments we regularly include dimensional calibrations covering range from calipers to micrometers to all manner of precison gages. APS is often requested to perform physical dimensional calibration of vernier caliper, height gauge, digital micrometer, and other precision instruments. APS calibration procedures for micrometers enable us to perform calibrations where there is no longer support by the OEM manufacturer and thereby extend the useful life. Once again, physical dimensional calibration is a common request where we expedite service! </p>
-        <h3>Physical Dimensional Calibrations include:</h3>
+        <h3>Dimensional Calibrations include:</h3>
         <ul>
           <li>Calipers calibration</li>
           <li>Micrometers calibration</li>
@@ -221,7 +221,7 @@ APS performs NIST traceable ISO 17025 optical calibration of sensors in analytic
         <p>
 APS performs NIST traceable ISO 17025 pipette calibration services on all manor of pipettes whether they are a single channel pipette,  multichannel pipette, digital pipette, or repeat pipette. Manufacturers we calibrate regularly are Rainin, Eppendorf, Hamilton, Gilsons, Thermo Fisher Scientific, and Mettler-Toledo,. We can accommodate equipment overnighted into our laboratory for rapid calibration / instrument turnaround. Our pipette calibration services include the calibration of pipette diluters.
       </p>
-        <h3>Types of pipette calibrations:</h3>
+        <h3>Types of pipette calibration include:</h3>
         <ul>
           <li>Pipette calibration services</li>
           <li>Pipette diluters</li>
@@ -278,7 +278,7 @@ const faqContent = [
     answer: "Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualificaton (PQ) refers to establishing and documenting a process to test new instruments after initial installation in the conditions they operate in, and to the standards that they can be expected to perform to. "
   },
   {
-    question: "Does APS provide calibrations near me?",
+    question: "Does APS provide calibration services near me?",
     answer: "We provide on-site advanced calibrations throughout the United States and Canada as well as centralized instrument calibration through our laboratories in Pleasanton, California and St. Petersburg, Florida."
   },
 ]
