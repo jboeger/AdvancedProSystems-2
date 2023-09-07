@@ -19,8 +19,8 @@ import insulationtester from "images/insulation-tester.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Electronic Meter Calibration Services | Multimeters",
-  description: "APS performs Electrical Meter Calibrations for laboratory instruments including hipot testers, insulation testers, and clamp-on meters. ",
+  title: "Advanced Electrical Calibration Services | APS",
+  description: "APS performs Electrical Meter Calibration Services for laboratory instruments including hipot and insulation testers, clamp-on meters, and electronics. ",
   canonicalUrl: "https://www.advancedprosystems.com/services/electrical-calibration/",
   img: "https://www.advancedprosystems.com/static/clamp-meter-a6ca78100540561645eec3fce77a7d84.jpg",
   imgAlt: "Picture of an electric clamp on meter for electrical calibration. ",
@@ -44,10 +44,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Electronic Calibration Services</h1>
+        <h1>Electrical Equipment Calibration Services</h1>
         <h2>Electrical Meter Calibrations</h2>
-        <p>
-           Advanced Process Systems performs <strong>precision ISO 17025 compliant electrical calibration</strong> for all manner of instrumentation including multimeters, insulation testers, pressure transmitters, power supplies, hipot testers and clampon meters.
+        <p>Advanced Process Systems performs precision ISO 17025 compliant electrical calibration for all manner of electronics and instrumentation including multimeters, insulation testers and other electrical test equipment, pressure transmitters, power supplies, hipot testers and clampon meters.
         </p>
       <div class="list-group-wrapper">
       <strong><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></strong>
@@ -98,29 +97,14 @@ const sections = [
       </div>
     )
   },
-  {
-    img: pressuretransmitter,
-    imgAlt: "Picture of a pressure transmitter.",
-    imgCols: "6",
-    content: (
-      <div>
-      <h2>Pressure Transmitter Calibration Services</h2>
-        <p>
-          Advanced Process Systems provides an expert ISO 17025 compliant <strong>pressure transmitter calibration</strong> services. We have vast experience in Rosemount pressure transmitter calibration as well as from all other OEM pressure transmitter manufacturers.
-      </p>
-      <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact/" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid pressure transmitter calibration turnaround. </mark>
-        </p> 
-      </div>
-    )  
-  },
+
     {
     img: electricalsupplies,
     imgAlt: "Picture of a power supply. ",
     imgCols: "6",
     content: (
       <div>
-      <h2>Power Supply</h2>
+      <h2>ISO 17025 Accredited Power Supply Calibration Services</h2>
         <p>
           APS provides expert ISO 17025 compliant POWER SUPPLY calibration services.
        </p>
@@ -154,7 +138,7 @@ const CalibrationsPage = () => {
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>
-      <FAQ title="Electrical Calibrations FAQs - Frequently Asked Questions" content={faqContent} />
+      <FAQ title="Electronic Calibrations FAQs" content={faqContent} />
     </Layout>
   );
 };
