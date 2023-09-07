@@ -18,8 +18,8 @@ import handler96 from "images/automated-liquid-handler-96-well.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Pipette Calibration Services - On Site or in Lab!",
-  description: "APS provides both manual and automatic PIPETTE calibration services -- on site or at our California lab. Overnight for fast calibration turnaround!",
+  title: "Advanced Pipette Calibration Services | APS",
+  description: "APS provides pipette calibration services and also preventative maintentance for liquid handlers for well-known brands including Eppendorf and Rainin.",
   canonicalUrl: "https://www.advancedprosystems.com/services/pipette-calibration/",
   img: "https://www.advancedprosystems.com/static/automated-liquid-handler-24-well-41de765e5e11c45150b309bd164bed13.jpg",
   imgAlt: "Photograph of pipettes in a laboratory that need to be calibrated and liquid handled. ",
@@ -70,8 +70,8 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>NIST Automated Pipette Calibrations</h2>
-        <h3>Liquid handling calibration services</h3>
+        <h2>NIST Pipette Calibration Services</h2>
+        <h3>Calibration certificates and preventative maintenance for liquid handlers</h3>
         <p>
           On automated liquid handlers, APS offers NIST calibration certificates as well as preventive maintenance on well known brands such as Hamilton, Beckman, and Tecan. We also offer pipette tips that are NIST certified to work with Rainin, Eppendorf, Hamilton, Beckman, and Tecan. If your pharma process requires ISO 17025 compliance, APS is compliant to those standards as well.
         </p>
@@ -90,7 +90,7 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h2>On-site Pipette Calibration Services</h2>
+        <h2>On-Site Pipette Calibrations</h2>
       <p>
     Our highly adaptable on-site pipette calibration services include comprehensive lab pipette calibration or pre-certification of pipette tips as needed. Leveraging years of accumulated expertise, our meticulously trained technicians are prepared to conduct pipette calibrations either at your facility or within our specialized pipette calibration laboratory.
       </p>
@@ -114,7 +114,7 @@ const sections = [
  */
 const faqContent = [
   {
-    question: "No questions yet... please contact us and ask!",
+    question: "No questions yet... please send us your questions!",
     answer: "."
   }
 ]
@@ -126,7 +126,7 @@ const CalibrationsPage = () => {
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>
-      <FAQ title="Pipette Calibration FAQs - Frequently Asked Questions about Thermometer Calibrations" content={faqContent} />
+      <FAQ title="FAQs about Pipette Calibration" content={faqContent} />
     </Layout>
   );
 };
