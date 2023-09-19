@@ -3,51 +3,51 @@ const siteUrl = process.env.url || "https://www.advancedprosystems.com";
 const pages = [
   {
     path: "/",
-    lastmod: "2023-06-01" //format YYYY-MM-DD
+    lastmod: "2023-09-19" //format YYYY-MM-DD
   },
   {
     path: "/about/",
-    lastmod: "2023-06-01"
+    lastmod: "2023-09-19"
   },
   {
     path: "/contact/",
-    lastmod: "2023-06-01"
+    lastmod: "2023-09-19"
   },
   {
     path: "/products/",
-    lastmod: "2023-06-01"
+    lastmod: "2023-09-19"
   },
   {
     path: "/services/",
-    lastmod: "2023-06-01",
+    lastmod: "2023-09-19",
   },
   {
     path: "/services/calibrations/",
-    lastmod: "2023-06-01"
+    lastmod: "2023-09-19"
   },
   {
     path: "/services/electrical-calibration/",
-    lastmod: "2023-07-01"
+    lastmod: "2023-09-19"
   },
   {
     path: "/services/flow-sensor-calibrations/",
-    lastmod: "2023-06-01"
+    lastmod: "2023-09-19"
   },
   {
     path: "/services/iq-oq-pq-validation/",
-    lastmod: "2023-06-01"
+    lastmod: "2023-09-19"
   },
   {
     path: "/services/lab-calibrations/",
-    lastmod: "2023-06-01"
+    lastmod: "2023-09-19"
   },
   {
     path: "/services/pipette-calibration/",
-    lastmod: "2023-06-01"
+    lastmod: "2023-09-19"
   },
   {
     path: "/services/temperature-calibration/",
-    lastmod: "2023-06-01"
+    lastmod: "2023-09-19"
   },
 ]
 
