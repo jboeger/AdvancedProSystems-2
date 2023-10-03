@@ -22,7 +22,7 @@ export const padding = "40px";
 
 const metaData = {
   title: "Advanced Flow Meter Calibration Services | APS",
-  description: "Our flow calibration services include: gas meters, liquid meters, mass flow controllers, flow rate sensors and more! ",
+  description: "APS provides ISO 17025 compliant calibration for flow meters measuring liquids, gases, and more. Precision and reliability guaranteed. ",
   canonicalUrl: "https://www.advancedprosystems.com/services/flow-sensor-calibrations/",
   img: "https://www.advancedprosystems.com/static/gas-flow-control-e398a4843f7ac07b6fecaa16dd15f706.jpg",
   imgAlt: "Photo of gas flow and liquid flow sensors and flow meters that need to be calibrated.",
@@ -46,9 +46,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Advanced Flow Meters Calibration Services</h1>
-        <p>
-         APS is devoted to delivering the pinnacle of standard calibration for all equipment specifically designed to measure flow. These vital instruments quantify the flow rate of fluids, liquids, or gases as they traverse through a confined transmission system. An array of these ingenious devices leverage the inherent physical properties of liquids and gases to achieve the most accurate and cost-effective measurements. They employ a broad range of measurement methods, including ultrasonic, electromagnetic, Karman vortex, paddlewheel, floating element, thermal, and differential pressure techniques. </p>
+        <h1>Advanced Flow Meter Calibration Services by APS</h1>
+        <h2>Ensuring Precision in Flow Measurement</h2>
+        <p>Advanced Process Systems is dedicated to elevating the standard in calibration for equipment designed to measure flow. These devices measure the flow rate of fluids, liquids, or gases in transmission systems. Various devices use properties of liquids and gases for precise and efficient measurements, utilizing techniques such as ultrasonic, electromagnetic, Karman vortex, and more.</p>
       
       <p>At APS, we understand the importance of precise calibration for these diverse instruments to ensure the utmost accuracy and stability of the process. Our commitment to excellence underpins every calibration we perform, fostering trust in the precision and reliability of every measurement.
         </p>
@@ -239,8 +239,8 @@ APS performs NIST traceable ISO 17025 <strong>optical flow sensor</strong> calib
  */
 const faqContent = [
   {
-    question: "What are in line flow meters?",
-    answer: "In line flow meters are devices used to measure the flow rate of liquids or gases in a tube or pipeline. They are installed directly in the tube or pipeline and provide real-time measurements of the flow rate. In line flow meters (sensors) are commonly used in laboratory settings for measuring the flow rate of liquids in experiments, as well as in industrial production processes for monitoring the flow rate of liquids or gases in manufacturing processes. There are different types of in line flow meters, including electromagnetic, ultrasonic, and thermal flow meters, each with their own advantages and limitations. The choice of in line flow meter depends on the specific application and the properties of the fluid being measured. "
+    question: "What are in-line flow meters?",
+    answer: "In-line flow meters are integral for real-time flow rate measurements in tubes or pipelines. They find applications in labs and industries, with types varying based on the application and fluid properties. "
   }
 ]
 
