@@ -19,8 +19,8 @@ import insulationtester from "images/insulation-tester.jpg";
 export const padding = "40px";
 
 const metaData = {
-  title: "Advanced Electrical Calibration Services | APS",
-  description: "APS performs Electrical Meter Calibration Services for laboratory instruments including hipot and insulation testers, clamp-on meters, and electronics. ",
+  title: "ISO 17025 Electrical Calibration Services | APS",
+  description: "Top-tier ISO 17025 compliant electrical calibration services for multimeters, power supplies, and more. Ensure precision with APS. Contact for rapid turnaround. ",
   canonicalUrl: "https://www.advancedprosystems.com/services/electrical-calibration/",
   img: "https://www.advancedprosystems.com/static/clamp-meter-a6ca78100540561645eec3fce77a7d84.jpg",
   imgAlt: "Picture of an electric clamp on meter for electrical calibration. ",
@@ -44,7 +44,7 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Electrical Equipment Calibration Services</h1>
+        <h1>Electrical Equipment Calibration Services by Advanced Process Systems</h1>
         <h2>Electrical Meter Calibrations</h2>
         <p>Advanced Process Systems performs precision ISO 17025 compliant electrical calibration for all manner of electronics and instrumentation including multimeters, insulation testers and other electrical test equipment, pressure transmitters, power supplies, hipot testers and clampon meters.
         </p>
@@ -73,10 +73,10 @@ const sections = [
       <div>
         <h2>Multimeter Calibration Services</h2>
         <p>
-          Advanced Process Systems provides expert ISO 17025 compliant <strong>multimeter calibration</strong> service for all OEM multimeter manufacturers. 
+          Ensure the utmost accuracy with our ISO 17025 compliant multimeter calibration service for all major OEM manufacturers.
         </p>
         <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact/" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid multimeter calibration turnaround. </mark>
+          <mark> Need precision? <a href="https://www.advancedprosystems.com/contact/" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid multimeter calibration turnaround. </mark>
         </p> 
       </div>
     )
@@ -89,7 +89,7 @@ const sections = [
       <div>
         <h2>Insulation Testers</h2>
         <p>
-          APS provides expert ISO 17025 compliant <strong>insulation testers calibration</strong> service for all OEM insulation tester manufacturers. 
+          Benefit from our industry-leading ISO 17025 compliant insulation testers calibration service, suitable for all major OEM insulation tester manufacturers.
         </p>
        <p>
           <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact/" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid insulation testers calibration turnaround. </mark>
@@ -104,12 +104,12 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-      <h2>ISO 17025 Accredited Power Supply Calibration Services</h2>
+      <h2>ISO 17025 Accredited Power Supply Calibration</h2>
         <p>
-          APS provides expert ISO 17025 compliant POWER SUPPLY calibration services.
+          Experience unparalleled accuracy with our power supply calibration services, compliant with ISO 17025 standards.
        </p>
         <p>
-          <mark> Need overnight calibration? <a href="https://www.advancedprosystems.com/contact/" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid power supply calibration turnaround. </mark>
+          <mark><a href="https://www.advancedprosystems.com/contact/" title="Contact APS" className="link-primary">CONTACT APS</a> for rapid calibration turnaround. </mark>
         </p> 
       </div>
     )  
@@ -123,11 +123,11 @@ const sections = [
 const faqContent = [
   {
     question: "What is electrical calibration? ",
-    answer: "Electrical calibration is the process of verifying and adjusting the accuracy of electrical measurement instruments such as multimeters and oscilloscopes. The instrument is compared to a reference standard to ensure accurate and reliable measurements. Regular calibration is important to meet industry standards and regulations. "
+    answer: "Electrical calibration verifies and adjusts the accuracy of electrical measuring instruments. It's pivotal for ensuring instruments meet industry standards and provide reliable results. "
   },
   {
-    question: "What is the standard for electrical calibration? ",
-    answer: "National or international organizations like NIST or ISO set the standards for electrical calibration. These standards ensure accuracy and reliability by providing guidelines and procedures for calibration of electrical instruments. Adhering to these standards is important for meeting industry regulations and quality management systems. "
+    question: "Why is adhering to electrical calibration standards crucial? ",
+    answer: "Standards from organizations like NIST or ISO are essential for the calibration of electrical instruments. Meeting these standards ensures precision and is a hallmark of quality in the industry. "
   }
 ]
 
