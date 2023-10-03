@@ -19,7 +19,7 @@ export const padding = "40px";
 
 const metaData = {
   title: "Advanced Pipette Calibration Services | APS",
-  description: "APS provides pipette calibration services and also preventative maintentance for liquid handlers for well-known brands including Eppendorf and Rainin.",
+  description: "Expert pipette calibration services for single, multi-channel, manual, and automated pipettes. ISO 17025 compliant with swift turnaround. Contact APS today.",
   canonicalUrl: "https://www.advancedprosystems.com/services/pipette-calibration/",
   img: "https://www.advancedprosystems.com/static/automated-liquid-handler-24-well-41de765e5e11c45150b309bd164bed13.jpg",
   imgAlt: "Photograph of pipettes in a laboratory that need to be calibrated and liquid handled. ",
@@ -43,9 +43,8 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Advanced Pipette Calibration Services</h1>
-        <p>
-           Advanced Process Systems offers both manual and automated, single and multi-channel pipette calibration services. APS will perform pipette calibration on site or in our pipette calibration lab. APS will provide a NIST pipette calibration certificate to the standards you select.
+        <h1>Premium Pipette Calibration Services by APS</h1>
+        <p>Advanced Process Systems extends its proficiency in pipette calibration services, encompassing both manual and automated pipettes across single and multi-channel categories. Whether you prefer on-site calibration or in our state-of-the-art lab, we ensure compliance to NIST standards and deliver certification as per your requirements.
         </p>
       <div class="list-group-wrapper">
       <strong><a href="https://www.advancedprosystems.com/services/calibrations/" title="Advanced Calibrations main page" className="link-primary">Advanced Calibrations - Main</a></strong>
