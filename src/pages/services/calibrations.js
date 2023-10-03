@@ -21,7 +21,7 @@ export const padding = "40px";
 
 const metaData = {
   title: "Advanced NIST Calibration Services | APS",
-  description: "APS performs NIST traceable calibration services  in analytical and industrial applications, from flow, pressure, and pipette to thermal and electrical.",
+  description: "APS offers advanced NIST calibration services for a variety of industries. Specializing in lab, industrial, and pharmaceutical calibration needs. Explore our comprehensive calibration offerings.",
   canonicalUrl: "https://www.advancedprosystems.com/services/calibrations/",
   img: "https://www.advancedprosystems.com/static/card2-lab-02-7db6966a2a9bb67765e0da9404f0670b.jpg",
   imgAlt: "Close-up photo of lab technician calibrating a bioreactor as part of NIST calibration services.",
@@ -45,9 +45,9 @@ const sections = [
     imgCols: "6",
     content: (
       <div>
-        <h1>Advanced NIST Calibration Services</h1>
+        <h1>Leading Advanced NIST Calibration Services Provider</h1>
         <p>
-           APS provides the highest level of standard calibration services to the laboratory, industrial processing, pharmaceutical, food and beverage manufacturing, petrochemical, and standards dependent industries that require accurate recordkeeping, calibration, maintenance, and repair of their instruments. APS calibrates to the calibration standard and if requested hold that data on NIST calibrations in our database managed and audited by ANSI accredited (through ANAB accreditation services).
+           APS is a leading provider of advanced NIST calibration services, serving a diverse range of sectors including laboratory, industrial processing, and more. We adhere to the highest standards, ensuring precise calibrations for all your equipment needs.
         </p>
         <p>
            Customers include the range from start-ups to most established biopharma, biotechnology, and biomedical equipment companies to US national laboratories, and food and beverage companies with the most stringent calibration standards. APS works with the full range of requirements from individual calibrations, supplying calibration personnel, OEM calibration services, to setting up the processes for entire metrology departments. In some cases, we provide comprehensive calibration facilities management.
@@ -79,6 +79,7 @@ In the event an <a href="https://www.advancedprosystems.com/services/iq-oq-pq-va
     content: (
       <div>
         <h2>Pressure Gauge Calibration Services</h2>
+      <p>At APS, our advanced calibration services ensure that pressure gauges function at their optimal levels.</p>
         <p>
           APS performs <a href="https://www.advancedprosystems.com/services/pressure-calibration/" title="Pressure Calibration" className="link-primary">NIST traceable ISO 17025 pressure gauge calibration services</a> in laboratory and industrial process applications. <strong>We can quickly accommodate on-site equipment or equipment overnighted into our laboratory for rapid pressure gauge calibration turnaround</strong>. A sampling of gauges we regularly calibrate are digital pressure, analog pressure, differential, and test gages. We also calibrate pressure transducer, pressure transmitter, and pressure calibrator applications as well as other pressure applications using a digital pressure indicator, barometer, or pressure module.
         </p>
