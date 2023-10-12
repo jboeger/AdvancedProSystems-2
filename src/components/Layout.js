@@ -5,6 +5,7 @@ import { Helmet } from "react-helmet";
 import icon from "images/favicon.ico";
 import "./Layout.css";
 import "../styles.scss";
+// import balanceImg from "../images/Balance.jpg";
 const bootstrap =
   typeof window !== `undefined` ? require("bootstrap/dist/css/bootstrap.min.css") : null;
 
@@ -37,6 +38,7 @@ export function Layout(props) {
         <meta property="og:url" content={props.metaData.canonicalUrl} />
 
         <meta propery="og:image" content={props.metaData.img} />
+        {/* <meta propery="og:image" content={'static/pytorch-logo.png'} /> */}
         <meta property="og:image:alt" content={props.metaData.imgAlt} />
         { props.metaData.imgWidth ? 
           <meta property="og:image:width" content={props.metaData.imgWidth} /> : null

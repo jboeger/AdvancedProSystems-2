@@ -4,7 +4,7 @@ import logoImg from "../images/logo-advancedprosystems-02c.png"
 import justify from "../images/justify.svg";
 import x from "../images/x-lg.svg";
 import { useViewport } from "./Layout";
-import OffCanvas from "react-aria-offcanvas";
+import { Offcanvas } from "react-bootstrap";
 import { overlay, hamburger, navItem } from "./NavBar.module.css";
 const bootstrap =
   typeof window !== `undefined` ? require("bootstrap/dist/css/bootstrap.min.css") : null;
@@ -31,7 +31,7 @@ export function NavBar(props) {
       name: "Calibrations",
       url: "/services/calibrations/"
     },
-        {
+    {
       name: "IQ OQ PQ Validation",
       url: "/services/iq-oq-pq-validation/"
     },
@@ -87,27 +87,15 @@ export function NavBar(props) {
             <button onClick={isOpen ? close : open} className={hamburger}>
               {isOpen ? <img height="30px" src={x} /> : <img height="40px" src={justify} />}
             </button>
-            <OffCanvas
-              style={{
-                content: {
-                  background: "white",
-                  borderRadius: "5px",
-                  marginTop: "85px",
-                },
-                overlay: {
-                  backgroundColor: "rgb(0, 0, 0, 0.5)",
-                },
-              }}
-              isOpen={isOpen}
-              onClose={close}
-              closeOnEsc
-              position="right"
-              height="200px"
-            >
-              <div className="" style={{ height: "100%" }}>
-                {navPills("nav flex-column nav-pills")}
-              </div>
-            </OffCanvas>
+            <Offcanvas show={isOpen} onHide={close} placement="end">
+              <Offcanvas.Header>
+              </Offcanvas.Header>
+              <Offcanvas.Body>
+                <div className="" style={{ height: "100%" }}>
+                  {navPills("nav flex-column nav-pills")}
+                </div>
+              </Offcanvas.Body>
+            </Offcanvas>
           </li>
         </ul>
       </div>

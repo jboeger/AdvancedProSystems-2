@@ -16,7 +16,7 @@ const metaData = {
   title: "Advanced Process Systems Corp | Bioprocessing Specialists",
   description: "APS provides complete service solutions for your bioprocessing needs, whether upstream or downstream... lab scale, pilot plant, or industrial. ",
   canonicalUrl: "https://www.advancedprosystems.com",
-  imgURL: "https://www.advancedprosystems.com/static/hero-home-01a-big-bcdf49ad1d926b6cb410bdf5b82ea7c3.jpg",
+  img: "https://www.advancedprosystems.com/static/hero-home-01a-big-bcdf49ad1d926b6cb410bdf5b82ea7c3.jpg",
   imgAlt: "Large photograph of industrial bioreactors and integrated process systems that specialize in bioprocessing. ",
   imgWidth: "1840", 
   imgHeight: "814",
