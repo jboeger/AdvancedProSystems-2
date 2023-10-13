@@ -1,5 +1,5 @@
 import React from "react";
-import { metaData } from "../pages/metaData";
+import { metaData } from "../metaData";
 import icon from "images/favicon.ico";
 
 export const Head = ({location, params, data, pageContext }) => {
@@ -20,7 +20,7 @@ export const Head = ({location, params, data, pageContext }) => {
       <meta property="og:type" content="website" />
       <meta property="og:url" content={meta.canonicalUrl} />
 
-      <meta propery="og:image" content={meta.imgUrl} />
+      <meta propery="og:image" content={meta.img} />
       <meta property="og:image:alt" content={meta.imgAlt} />
       { meta.imgWidth ? 
         <meta property="og:image:width" content={meta.imgWidth} /> : null

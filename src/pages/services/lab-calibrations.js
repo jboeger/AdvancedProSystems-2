@@ -250,7 +250,6 @@ const faqContent = [
 const CalibrationsPage = () => {
   return (
     <Layout 
-      metaData={metaData}
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>

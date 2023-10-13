@@ -3,7 +3,7 @@ export const metaData = {
     title: "Advanced Process Systems Corp | Bioprocessing Specialists",
     description: "APS provides complete service solutions for your bioprocessing needs, whether upstream or downstream... lab scale, pilot plant, or industrial. ",
     canonicalUrl: "https://www.advancedprosystems.com",
-    imgUrl: "https://www.advancedprosystems.com/static/hero-home-01a-big-bcdf49ad1d926b6cb410bdf5b82ea7c3.jpg",
+    img: "https://www.advancedprosystems.com/static/hero-home-01a-big-bcdf49ad1d926b6cb410bdf5b82ea7c3.jpg",
     imgAlt: "Large photograph of industrial bioreactors and integrated process systems that specialize in bioprocessing. ",
     imgWidth: "1840", 
     imgHeight: "814",
@@ -84,7 +84,7 @@ export const metaData = {
     img: "https://www.advancedprosystems.com/static/card2-lab-02-7db6966a2a9bb67765e0da9404f0670b.jpg",
     imgAlt: "Close-up photo of laboratory scientist calibrating a bioreactor in a lab.",
   },
-  "/services/pipette-calibrations/": {
+  "/services/pipette-calibration/": {
     title: "Advanced Pipette Calibration Services | APS",
     description: "Expert pipette calibration services for single, multi-channel, manual, and automated pipettes. ISO 17025 compliant with swift turnaround. Contact APS today.",
     canonicalUrl: "https://www.advancedprosystems.com/services/pipette-calibration/",
