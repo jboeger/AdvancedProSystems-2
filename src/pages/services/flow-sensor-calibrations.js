@@ -20,14 +20,6 @@ import flowmeter from "images/flowmeter.jpg";
 
 export const padding = "40px";
 
-const metaData = {
-  title: "Advanced Flow Meter Calibration Services | APS",
-  description: "APS provides ISO 17025 compliant calibration for flow meters measuring liquids, gases, and more. Precision and reliability guaranteed. ",
-  canonicalUrl: "https://www.advancedprosystems.com/services/flow-sensor-calibrations/",
-  img: "https://www.advancedprosystems.com/static/gas-flow-control-e398a4843f7ac07b6fecaa16dd15f706.jpg",
-  imgAlt: "Photo of gas flow and liquid flow sensors and flow meters that need to be calibrated.",
-}
-
 /**
  * each object (the thing surrounded by {}) in this array is a section.
  * section properties:
@@ -247,7 +239,6 @@ const faqContent = [
 const CalibrationsPage = () => {
   return (
     <Layout 
-      metaData={metaData}
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>
@@ -257,3 +248,4 @@ const CalibrationsPage = () => {
 };
 
 export default CalibrationsPage;
+export { Head } from "../../components/Head.js";

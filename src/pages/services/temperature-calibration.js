@@ -166,3 +166,4 @@ const CalibrationsPage = () => {
 };
 
 export default CalibrationsPage;
+export { Head } from "../../components/Head.js";

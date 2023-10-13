@@ -136,3 +136,4 @@ const ServicesPage = () => {
 };
 
 export default ServicesPage;
+export { Head } from "../../components/Head.js";

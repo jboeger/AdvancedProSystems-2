@@ -6,17 +6,6 @@ import padding from "./index";
 import { Section } from "../components/Section";
 import sectionImg from "../images/hero-stainless-02.jpg";
 
-const metaData = {
-  title: "Biotech Equipment + Parts | Partner Brands | Advanced Pro Systems",
-  description: "APS is a certified provider labware, gas analyzers, bioreactors, TFF, flow controllers, sampling and automation, custom tanks, and much more. Partners include Sonotec, Securecell, BlueSens and Chemglass Life Sciences.",
-  canonicalUrl: "https://www.advancedprosystems.com/products/",
-  img: "https://www.advancedprosystems.com/static/hero-stainless-02-ed06e6dd8706fb934151e8bd8e3bafc5.jpg",
-  imgAlt: "Photo of stainless steel bioreactor with lots of valves and sensors and flow control equipment. ",
-  imgWidth: "2000",
-  imgHeight: "1330",
-  imgType: "image/jpg"
-}
-
 const content = {
     section1: (
         <div>
@@ -59,7 +48,7 @@ const content = {
 
 const ProductsPage = () => {
     return (
-        <Layout metaData={metaData}>
+        <Layout>
             <Hero
                 height="200px"
                 img={heroImg}
@@ -81,3 +70,4 @@ const ProductsPage = () => {
 }
 
 export default ProductsPage;
+export { Head } from "../components/Head.js";

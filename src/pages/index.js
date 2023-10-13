@@ -12,17 +12,6 @@ import card3Img from "../images/card3-stainless-02.jpg";
 
 export const padding = "40px";
 
-const metaData = {
-  title: "Advanced Process Systems Corp | Bioprocessing Specialists",
-  description: "APS provides complete service solutions for your bioprocessing needs, whether upstream or downstream... lab scale, pilot plant, or industrial. ",
-  canonicalUrl: "https://www.advancedprosystems.com",
-  img: "https://www.advancedprosystems.com/static/hero-home-01a-big-bcdf49ad1d926b6cb410bdf5b82ea7c3.jpg",
-  imgAlt: "Large photograph of industrial bioreactors and integrated process systems that specialize in bioprocessing. ",
-  imgWidth: "1840", 
-  imgHeight: "814",
-  imgType: "image/jpg"
-}
-
 const cards = [
   {
     title: "Process Consulting and Calibration",
@@ -90,7 +79,6 @@ const content = {
 const HomePage = () => {
   return (
     <Layout 
-      metaData={metaData}
       footerBgColor="rgb(255, 255, 255, .5)"
     >
       <Hero
@@ -124,6 +112,4 @@ const HomePage = () => {
 
 export default HomePage;
 
-export const Head = () => (
-  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
-)
+export { Head } from "../components/Head.js";

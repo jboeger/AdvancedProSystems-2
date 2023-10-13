@@ -19,14 +19,6 @@ import electricalclamp from "images/clamp-meter.jpg";
 
 export const padding = "40px";
 
-const metaData = {
-  title: "Advanced NIST Calibration Services | APS",
-  description: "APS offers advanced NIST calibration services for a variety of industries. Specializing in lab, industrial, and pharmaceutical calibration needs. Explore our comprehensive calibration offerings.",
-  canonicalUrl: "https://www.advancedprosystems.com/services/calibrations/",
-  img: "https://www.advancedprosystems.com/static/card2-lab-02-7db6966a2a9bb67765e0da9404f0670b.jpg",
-  imgAlt: "Close-up photo of lab technician calibrating a bioreactor as part of NIST calibration services.",
-}
-
 /**
  * each object (the thing surrounded by {}) in this array is a section.
  * section properties:
@@ -287,7 +279,6 @@ const faqContent = [
 const CalibrationsPage = () => {
   return (
     <Layout 
-      metaData={metaData}
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>
@@ -297,3 +288,4 @@ const CalibrationsPage = () => {
 };
 
 export default CalibrationsPage;
+export { Head } from "../../components/Head.js"
