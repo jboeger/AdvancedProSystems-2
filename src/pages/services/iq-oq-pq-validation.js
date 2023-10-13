@@ -11,14 +11,6 @@ import validationprocess from "images/validation-process.jpg";
 
 export const padding = "40px";
 
-const metaData = {
-  title: "IQ OQ PQ Validation and Qualification Services",
-  description: "APS provides high level validation and equipment qualification services for lab and industrial processing, pharmaceutical, food & bev, petrochemical, and more. ",
-  canonicalUrl: "https://www.advancedprosystems.com/services/iq-oq-pq-validation/",
-  img: "https://www.advancedprosystems.com/static/validation-process-54455618c2180dcd414f422835bcde3f.jpg",
-  imgAlt: "Hand drawn process of validating equipment to IQ OQ PQ standards. ",
-}
-
 /**
  * each object (the thing surrounded by {}) in this array is a section.
  * section properties:
@@ -115,7 +107,6 @@ const faqContent = [
 const CalibrationsPage = () => {
   return (
     <Layout 
-      metaData={metaData}
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>

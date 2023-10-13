@@ -20,14 +20,6 @@ import biopresser from "images/bioreactor-with-pressure-monitoring.jpg";
 
 export const padding = "40px";
 
-const metaData = {
-  title: "Lab Calibration Services - Bioreactors, Gas Flow, Pipettes!",
-  description: "APS performs NIST Traceable Calibration Services for labs: flow, pressure, pipette, balance, dimensional, thermal + electrical calibrations.",
-  canonicalUrl: "https://www.advancedprosystems.com/services/lab-calibrations/",
-  img: "https://www.advancedprosystems.com/static/card2-lab-02-7db6966a2a9bb67765e0da9404f0670b.jpg",
-  imgAlt: "Close-up photo of laboratory scientist calibrating a bioreactor in a lab.",
-}
-
 /**
  * each object (the thing surrounded by {}) in this array is a section.
  * section properties:

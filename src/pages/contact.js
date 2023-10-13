@@ -3,12 +3,9 @@ import { Layout } from "../components/Layout";
 import { ContactForm } from "../components/ContactForm";
 import heroHomeImg from "../images/hero-home-01a-big.jpg";
 
-const metaData = {
-}
-
 const ContactPage = () => {
   return (
-    <Layout metaData={metaData}>
+    <Layout>
       <form hidden method="post" name="contact" netlify data-netlify="true">
         <input type="hidden" name="form-name" value="contact"></input>
         <input type="hidden" name="name"></input>

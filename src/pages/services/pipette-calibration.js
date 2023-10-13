@@ -17,14 +17,6 @@ import handler96 from "images/automated-liquid-handler-96-well.jpg";
 
 export const padding = "40px";
 
-const metaData = {
-  title: "Advanced Pipette Calibration Services | APS",
-  description: "Expert pipette calibration services for single, multi-channel, manual, and automated pipettes. ISO 17025 compliant with swift turnaround. Contact APS today.",
-  canonicalUrl: "https://www.advancedprosystems.com/services/pipette-calibration/",
-  img: "https://www.advancedprosystems.com/static/automated-liquid-handler-24-well-41de765e5e11c45150b309bd164bed13.jpg",
-  imgAlt: "Photograph of pipettes in a laboratory that need to be calibrated and liquid handled. ",
-}
-
 /**
  * each object (the thing surrounded by {}) in this array is a section.
  * section properties:

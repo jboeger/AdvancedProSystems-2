@@ -17,14 +17,6 @@ import filterintegrity from "images/filter-integrity-tester-analog-gauge.jpg";
 
 export const padding = "40px";
 
-const metaData = {
-  title: "Pressure Gauge Calibration Services | APS",
-  description: "APS provides expert calibration services for pressure gauges, calibrators, transmitters, test gauge and more!  ",
-  canonicalUrl: "https://www.advancedprosystems.com/services/pressure-calibration/",
-  img: "https://www.advancedprosystems.com/static/pressure-controller-5aa5097b2a0d09f63629c6db2714ba88.jpg",
-  imgAlt: "Photo of a collection of analog and digital pressure gauges, controllers, and pressure transmitters. ",
-}
-
 /**
  * each object (the thing surrounded by {}) in this array is a section.
  * section properties:

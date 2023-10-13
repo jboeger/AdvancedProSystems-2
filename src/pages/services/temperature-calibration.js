@@ -16,14 +16,6 @@ import humidmeter from "images/relative-humidity-and-temperature-meter.jpg";
 
 export const padding = "40px";
 
-const metaData = {
-  title: "NIST Traceable Thermometer Calibration Services | APS",
-  description: "Our temperature calibration services include NIST certified thermometer calibration services, humidy sensors (hygrometers), data loggers and more!",
-  canonicalUrl: "https://www.advancedprosystems.com/services/temperature-calibration/",
-  img: "https://www.advancedprosystems.com/static/thermometer-data-logger-1-66a2db38fce48b05f6c35497c3f920b6.png",
-  imgAlt: "Photo of a thermometer data logger. We calibrate thermometer data loggers. ",
-}
-
 /**
  * each object (the thing surrounded by {}) in this array is a section.
  * section properties:
@@ -156,7 +148,6 @@ const faqContent = [
 const CalibrationsPage = () => {
   return (
     <Layout 
-      metaData={metaData}
       footerBgColor="rgb(255,255,255,.2)"
     >
       <SectionChain content={sections}/>

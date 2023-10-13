@@ -7,17 +7,6 @@ import heroImg from "images/hero-home-01a-big.jpg";
 import padding from "pages/index";
 import imgSection2 from "images/hero-lab-02.jpg";
 
-const metaData = {
-  title: "Lab + Industrial | Biotech + Bioprocessing Services | APS",
-  description: "APS provides expertise and on-site services for upstream bioprocessing, downstream bio processing, calibration, and validation. We provide service plans for all scales: from lab scale to pilot plant to industrial scale.",
-  canonicalUrl: "https://www.advancedprosystems.com/services/",
-  img: "https://www.advancedprosystems.com/static/hero-lab-02-60291c3bc807bec062f755de596e5344.jpg",
-  imgAlt: "Photo of bioreactor requiring IQ OQ PQ validatin and calibration. ",
-  imgWidth: "800",
-  imgHeight: "532",
-  imgType: "image/jpg"
-}
-
 const sections = [
   {
     img: imgSection2,
@@ -64,7 +53,7 @@ const sections = [
 
 const ServicesPage = () => {
   return (
-    <Layout metaData={metaData}>
+    <Layout>
       <Hero
         height="200px"
         img={heroImg}

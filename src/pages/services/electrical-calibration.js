@@ -18,14 +18,6 @@ import insulationtester from "images/insulation-tester.jpg";
 
 export const padding = "40px";
 
-const metaData = {
-  title: "ISO 17025 Electrical Calibration Services | APS",
-  description: "Top-tier ISO 17025 compliant electrical calibration services for multimeters, power supplies, and more. Ensure precision with APS. Contact for rapid turnaround. ",
-  canonicalUrl: "https://www.advancedprosystems.com/services/electrical-calibration/",
-  img: "https://www.advancedprosystems.com/static/clamp-meter-a6ca78100540561645eec3fce77a7d84.jpg",
-  imgAlt: "Picture of an electric clamp on meter for electrical calibration. ",
-}
-
 /**
  * each object (the thing surrounded by {}) in this array is a section.
  * section properties:
