@@ -20,7 +20,7 @@ export const Head = ({location, params, data, pageContext }) => {
       <meta property="og:type" content="website" />
       <meta property="og:url" content={meta.canonicalUrl} />
 
-      <meta propery="og:image" content={meta.img} />
+      <meta property="og:image" content={meta.img} />
       <meta property="og:image:alt" content={meta.imgAlt} />
       { meta.imgWidth ? 
         <meta property="og:image:width" content={meta.imgWidth} /> : null
