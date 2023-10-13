@@ -123,3 +123,7 @@ const HomePage = () => {
 };
 
 export default HomePage;
+
+export const Head = () => (
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
+)
