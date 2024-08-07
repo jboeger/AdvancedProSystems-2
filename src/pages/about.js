@@ -23,13 +23,13 @@ const content = {
         We do this in partnership with leaders in laboratory and industrial bioprocess instruments, sensors, software, and equipment.
       </p>
   
-    <h3>APS - West Coast</h3>
-    <p>6920 Koll Center Parkway<br />
-    Suite 223<br />
-    Pleasanton, CA 94566</p>
-    <h3>APS - East Coast</h3>
-    <p>654 Northmoor Ave. N<br />
-    St. Petersburg, FL 33702<br /><br />
+    <h3>Advanced Process Systems Corp. - West Coast</h3>
+    <p>44 La Encinal<br />
+    Building 2<br />
+    Orinda, CA 94563</p>
+    <h3>Advanced Process Systems Corp. - East Coast</h3>
+    <p>Opening Fall 2024<br />
+    Greater Boston<br /><br />
     We also provide services in the field across the U.S.A.</p>
     </div>
   )
