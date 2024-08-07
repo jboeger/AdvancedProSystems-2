@@ -8,7 +8,7 @@ export function Footer(props) {
       <div className="container-lg">
         <div className="row">
           <div className="col-3">
-            <p className="text-start">©2023 All rights reserved</p>
+            <p className="text-start">©2024 All rights reserved</p>
           </div>
           <div className="col-6">
             <p className="text-center">contact: Tim Erisman | <a className="text-primary phone-click" href="tel:925.258.1920">925.258.1920</a> | <a className="text-primary email-click" href="mailto: terisman@advancedprosystems.com">terisman@advancedprosystems.com</a></p>
@@ -20,7 +20,7 @@ export function Footer(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-12"><p className="text-center">6920 Koll Center Parkway, Suite 223, Pleasanton, California 94566</p></div>
+          <div className="col-12"><p className="text-center">44 La Encinal, Building 2, Orinda, CA 94563</p></div>
                 </div>
       </div>
     </section>
